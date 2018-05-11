@@ -1,0 +1,6 @@
+[ 2018-03-15T19:37:47+08:00 ] 112.65.11.168 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+ERR: 无法加载模块:Favicon
+

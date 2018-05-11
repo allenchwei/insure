@@ -1,0 +1,1876 @@
+[ 2018-02-12T08:21:49+08:00 ] 61.129.8.203 /Home/Luck/index?channel=D89F3A35931C386956C1A402A8E09941
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000281s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000314s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000091s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000124s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005691s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005734s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000083s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000108s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000289s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000319s ]
+
+[ 2018-02-12T08:21:51+08:00 ] 223.167.152.125 /Home/Luck/act?a=0.7650568572479512
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000271s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000304s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SHOW COLUMNS FROM `a_luck_record` [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: type /phpstudy/www/bigfinance.yomibank.com/Application/Home/Controller/LuckController.class.php 第 19 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000309s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000337s ]
+
+[ 2018-02-12T08:21:56+08:00 ] 61.129.8.203 /Home/Luck/act?a=0.2349890016987195
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000282s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000313s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SHOW COLUMNS FROM `a_luck_record` [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: type /phpstudy/www/bigfinance.yomibank.com/Application/Home/Controller/LuckController.class.php 第 19 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000309s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000339s ]
+
+[ 2018-02-12T08:22:01+08:00 ] 61.129.8.203 /Home/Luck/act?a=0.9162898688897321
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000088s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000277s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000314s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SHOW COLUMNS FROM `a_luck_record` [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: type /phpstudy/www/bigfinance.yomibank.com/Application/Home/Controller/LuckController.class.php 第 19 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000325s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000360s ]
+
+[ 2018-02-12T08:22:20+08:00 ] 61.129.8.203 /Home/Luck/index?channel=D89F3A35931C386956C1A402A8E09941
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000304s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000123s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005635s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005668s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000084s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000110s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000278s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000319s ]
+
+[ 2018-02-12T08:22:22+08:00 ] 223.167.152.125 /Home/Luck/act?a=0.5398393781396766
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000267s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000298s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SHOW COLUMNS FROM `a_luck_record` [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: type /phpstudy/www/bigfinance.yomibank.com/Application/Home/Controller/LuckController.class.php 第 19 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000320s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000349s ]
+
+[ 2018-02-12T08:22:27+08:00 ] 61.129.8.203 /Home/Luck/act?a=0.8350413107444519
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000285s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000317s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SHOW COLUMNS FROM `a_luck_record` [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: type /phpstudy/www/bigfinance.yomibank.com/Application/Home/Controller/LuckController.class.php 第 19 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000309s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000339s ]
+
+[ 2018-02-12T08:22:32+08:00 ] 61.129.8.203 /Home/Luck/act?a=0.40749819697421596
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000315s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SHOW COLUMNS FROM `a_luck_record` [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: type /phpstudy/www/bigfinance.yomibank.com/Application/Home/Controller/LuckController.class.php 第 19 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000301s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000332s ]
+
+[ 2018-02-12T08:30:42+08:00 ] 61.129.8.203 /Home/Luck/index?channel=D89F3A35931C386956C1A402A8E09941
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000313s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000123s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005621s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005655s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000083s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000108s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000290s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000321s ]
+
+[ 2018-02-12T08:30:44+08:00 ] 61.129.8.203 /Home/Luck/act?a=0.9133145087884518
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000290s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000322s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SHOW COLUMNS FROM `a_luck_record` [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: type /phpstudy/www/bigfinance.yomibank.com/Application/Home/Controller/LuckController.class.php 第 19 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000318s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000351s ]
+
+[ 2018-02-12T14:41:51+08:00 ] 103.214.84.243 /Home/Luck/index?channel=D89F3A35931C386956C1A402A8E09941
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000332s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000103s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000138s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005704s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005752s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000089s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000115s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000312s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000345s ]
+
+[ 2018-02-12T14:41:54+08:00 ] 103.214.84.243 /Home/Luck/act?a=0.8957043209965444
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000265s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000297s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SHOW COLUMNS FROM `a_luck_record` [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: type /phpstudy/www/bigfinance.yomibank.com/Application/Home/Controller/LuckController.class.php 第 19 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000336s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000366s ]
+
+[ 2018-02-12T14:41:59+08:00 ] 103.214.84.243 /Home/Luck/act?a=0.24095545509284377
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000282s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000314s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SHOW COLUMNS FROM `a_luck_record` [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: type /phpstudy/www/bigfinance.yomibank.com/Application/Home/Controller/LuckController.class.php 第 19 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000328s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000357s ]
+
+[ 2018-02-12T14:42:09+08:00 ] 103.214.84.243 /Home/Luck/act?a=0.10085663872771544
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000292s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000323s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SHOW COLUMNS FROM `a_luck_record` [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: type /phpstudy/www/bigfinance.yomibank.com/Application/Home/Controller/LuckController.class.php 第 19 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000298s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000326s ]
+
+[ 2018-02-12T14:42:27+08:00 ] 103.214.84.243 /Home/Luck/index?channel=D89F3A35931C386956C1A402A8E09941
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000312s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000102s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000136s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005710s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005744s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000087s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000112s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000285s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000315s ]
+
+[ 2018-02-12T14:42:29+08:00 ] 103.214.84.243 /Home/Luck/act?a=0.15191984015500537
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000292s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000326s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SHOW COLUMNS FROM `a_luck_record` [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: type /phpstudy/www/bigfinance.yomibank.com/Application/Home/Controller/LuckController.class.php 第 19 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000317s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000345s ]
+
+[ 2018-02-12T14:43:44+08:00 ] 103.214.84.243 /Home/Luck/act?a=0.6540237029097776
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000304s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000349s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SHOW COLUMNS FROM `a_luck_record` [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: type /phpstudy/www/bigfinance.yomibank.com/Application/Home/Controller/LuckController.class.php 第 19 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000299s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000326s ]
+
+[ 2018-02-12T14:44:05+08:00 ] 223.104.213.96 /Home/Luck/index?channel=D89F3A35931C386956C1A402A8E09941
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000294s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000328s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000102s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000152s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005797s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005831s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000087s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000112s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000289s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000332s ]
+
+[ 2018-02-12T14:44:07+08:00 ] 223.104.213.96 /Home/Luck/act?a=0.9242206794875678
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000287s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000319s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SHOW COLUMNS FROM `a_luck_record` [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: type /phpstudy/www/bigfinance.yomibank.com/Application/Home/Controller/LuckController.class.php 第 19 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000307s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000353s ]
+
+[ 2018-02-12T14:44:33+08:00 ] 223.104.213.96 /Home/Luck/index?channel=D89F3A35931C386956C1A402A8E09941
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000277s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000323s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000102s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000137s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005746s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005781s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000086s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000112s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000284s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000315s ]
+
+[ 2018-02-12T14:44:35+08:00 ] 223.104.213.96 /Home/Luck/act?a=0.1940522141948422
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000288s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000319s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SHOW COLUMNS FROM `a_luck_record` [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: type /phpstudy/www/bigfinance.yomibank.com/Application/Home/Controller/LuckController.class.php 第 19 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000301s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000334s ]
+
+[ 2018-02-12T14:45:17+08:00 ] 112.65.62.193 /Home/Luck/index?channel=D89F3A35931C386956C1A402A8E09941
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000271s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000304s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000097s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000132s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005642s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005678s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000085s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000110s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000280s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000310s ]
+
+[ 2018-02-12T14:45:18+08:00 ] 112.65.62.193 /Home/Luck/act?a=0.6938225851824265
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000266s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000297s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SHOW COLUMNS FROM `a_luck_record` [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: type /phpstudy/www/bigfinance.yomibank.com/Application/Home/Controller/LuckController.class.php 第 19 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000298s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000327s ]
+
+[ 2018-02-12T14:45:23+08:00 ] 112.65.62.193 /Home/Luck/act?a=0.9222328173143408
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000264s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000295s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SHOW COLUMNS FROM `a_luck_record` [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: type /phpstudy/www/bigfinance.yomibank.com/Application/Home/Controller/LuckController.class.php 第 19 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000298s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000326s ]
+
+[ 2018-02-12T14:49:14+08:00 ] 112.65.62.193 /Home/Luck/index?channel=D89F3A35931C386956C1A402A8E09941
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000304s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000100s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000134s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005730s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005765s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000087s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000113s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000276s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000307s ]
+
+[ 2018-02-12T14:49:16+08:00 ] 112.65.62.193 /Home/Luck/act?a=0.055433709598240344
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000284s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000317s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SHOW COLUMNS FROM `a_luck_record` [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: type /phpstudy/www/bigfinance.yomibank.com/Application/Home/Controller/LuckController.class.php 第 19 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000294s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000322s ]
+
+[ 2018-02-12T14:52:00+08:00 ] 112.65.48.239 /Home/Luck/index?channel=D89F3A35931C386956C1A402A8E09941
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000301s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000336s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000099s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000135s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005891s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005925s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000089s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000115s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000314s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000346s ]
+
+[ 2018-02-12T14:52:00+08:00 ] 112.65.48.239 /Home/Luck/act
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000286s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000317s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SHOW COLUMNS FROM `a_luck_record` [ RunTime:0.0006s ]
+SQL: UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' [ RunTime:0.0048s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000322s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000354s ]
+
+[ 2018-02-12T14:52:02+08:00 ] 112.65.48.239 /Home/Luck/act
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000299s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000333s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SHOW COLUMNS FROM `a_luck_record` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SELECT * FROM `a_luck_record`  [ RunTime:0.0002s ]
+SQL: SELECT sum(WEIGHT) as WEIGHT1,sum(OFFER) as OFFER1 FROM `a_luck_record`  [ RunTime:0.0001s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SELECT * FROM `a_luck_record` WHERE `ID` = 4 LIMIT 1   [ RunTime:0.0002s ]
+SQL: UPDATE `a_luck_record` SET `LUCK_PUSH`=LUCK_PUSH+1 WHERE `ID` = 4 [ RunTime:0.0042s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: UPDATE `a_luck_record` SET `CLICK`=CLICK+1 WHERE ( 1=1 ) [ RunTime:0.0035s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SELECT `LINK_CLICK`,`CLICK`,`LUCK_PUSH`,`OFFER` FROM `a_luck_record` WHERE `ID` = 4 LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: UPDATE `a_luck_record` SET `CLICK_RATE`='0' WHERE `ID` = 4 [ RunTime:0.0191s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: UPDATE `a_luck_record` SET `TOTAL`='0.00' WHERE `ID` = 4 [ RunTime:0.0032s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+
+[ 2018-02-12T15:01:39+08:00 ] 223.104.213.96 /Home/Luck/index?channel=D89F3A35931C386956C1A402A8E09941
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000337s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000376s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000107s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000144s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005777s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005812s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000089s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000124s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000302s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000335s ]
+
+[ 2018-02-12T15:01:39+08:00 ] 223.104.213.96 /Home/Luck/act
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000304s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000337s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SHOW COLUMNS FROM `a_luck_record` [ RunTime:0.0006s ]
+SQL: UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' [ RunTime:0.0043s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000324s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000356s ]
+
+[ 2018-02-12T15:01:40+08:00 ] 223.104.213.96 /Home/Luck/act
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000297s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000331s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SHOW COLUMNS FROM `a_luck_record` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SELECT * FROM `a_luck_record`  [ RunTime:0.0002s ]
+SQL: SELECT sum(WEIGHT) as WEIGHT1,sum(OFFER) as OFFER1 FROM `a_luck_record`  [ RunTime:0.0001s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SELECT * FROM `a_luck_record` WHERE `ID` = 5 LIMIT 1   [ RunTime:0.0002s ]
+SQL: UPDATE `a_luck_record` SET `LUCK_PUSH`=LUCK_PUSH+1 WHERE `ID` = 5 [ RunTime:0.0050s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: UPDATE `a_luck_record` SET `CLICK`=CLICK+1 WHERE ( 1=1 ) [ RunTime:0.0033s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SELECT `LINK_CLICK`,`CLICK`,`LUCK_PUSH`,`OFFER` FROM `a_luck_record` WHERE `ID` = 5 LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: UPDATE `a_luck_record` SET `CLICK_RATE`='0' WHERE `ID` = 5 [ RunTime:0.0042s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: UPDATE `a_luck_record` SET `TOTAL`='0.00' WHERE `ID` = 5 [ RunTime:0.0033s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+
+[ 2018-02-12T15:01:46+08:00 ] 223.104.213.96 /Home/Luck/act
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000281s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000312s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SHOW COLUMNS FROM `a_luck_record` [ RunTime:0.0006s ]
+SQL: UPDATE `a_luck_record` SET `LINK_CLICK`=LINK_CLICK+1 WHERE `ID` = 5 [ RunTime:0.0043s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SELECT `LINK_CLICK`,`CLICK`,`OFFER` FROM `a_luck_record` WHERE `ID` = 5 LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: UPDATE `a_luck_record` SET `CLICK_RATE`='50' WHERE `ID` = 5 [ RunTime:0.0034s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: UPDATE `a_luck_record` SET `TOTAL`='0.01' WHERE `ID` = 5 [ RunTime:0.0032s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000361s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000395s ]
+
+[ 2018-02-12T15:01:52+08:00 ] 223.104.213.96 /Home/Luck/act
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000288s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000320s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SHOW COLUMNS FROM `a_luck_record` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SELECT * FROM `a_luck_record`  [ RunTime:0.0002s ]
+SQL: SELECT sum(WEIGHT) as WEIGHT1,sum(OFFER) as OFFER1 FROM `a_luck_record`  [ RunTime:0.0001s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SELECT * FROM `a_luck_record` WHERE `ID` = 10 LIMIT 1   [ RunTime:0.0001s ]
+SQL: UPDATE `a_luck_record` SET `LUCK_PUSH`=LUCK_PUSH+1 WHERE `ID` = 10 [ RunTime:0.0061s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: UPDATE `a_luck_record` SET `CLICK`=CLICK+1 WHERE ( 1=1 ) [ RunTime:0.0040s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SELECT `LINK_CLICK`,`CLICK`,`LUCK_PUSH`,`OFFER` FROM `a_luck_record` WHERE `ID` = 10 LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: UPDATE `a_luck_record` SET `CLICK_RATE`='0' WHERE `ID` = 10 [ RunTime:0.0036s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: UPDATE `a_luck_record` SET `TOTAL`='0.00' WHERE `ID` = 10 [ RunTime:0.0038s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+
+[ 2018-02-12T15:01:57+08:00 ] 223.104.213.96 /Home/Luck/act
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000362s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000404s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SHOW COLUMNS FROM `a_luck_record` [ RunTime:0.0007s ]
+SQL: UPDATE `a_luck_record` SET `LINK_CLICK`=LINK_CLICK+1 WHERE `ID` = 5 [ RunTime:0.0039s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SELECT `LINK_CLICK`,`CLICK`,`OFFER` FROM `a_luck_record` WHERE `ID` = 5 LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: UPDATE `a_luck_record` SET `CLICK_RATE`='66.67' WHERE `ID` = 5 [ RunTime:0.0035s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: UPDATE `a_luck_record` SET `TOTAL`='0.02' WHERE `ID` = 5 [ RunTime:0.0033s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000362s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000397s ]
+
+[ 2018-02-12T15:04:28+08:00 ] 183.3.255.28 /Home/Luck/index?channel=D89F3A35931C386956C1A402A8E09941
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000299s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000332s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000113s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000149s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005748s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005783s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000088s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000114s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000306s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000339s ]
+
+[ 2018-02-12T15:04:30+08:00 ] 183.3.255.28 /Home/Luck/act
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000267s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000298s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SHOW COLUMNS FROM `a_luck_record` [ RunTime:0.0006s ]
+SQL: UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' [ RunTime:0.0051s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000302s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000333s ]
+
+[ 2018-02-12T15:04:32+08:00 ] 183.3.255.28 /Home/Luck/act
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000301s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SHOW COLUMNS FROM `a_luck_record` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SELECT * FROM `a_luck_record`  [ RunTime:0.0002s ]
+SQL: SELECT sum(WEIGHT) as WEIGHT1,sum(OFFER) as OFFER1 FROM `a_luck_record`  [ RunTime:0.0001s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SELECT * FROM `a_luck_record` WHERE `ID` = 2 LIMIT 1   [ RunTime:0.0001s ]
+SQL: UPDATE `a_luck_record` SET `LUCK_PUSH`=LUCK_PUSH+1 WHERE `ID` = 2 [ RunTime:0.0041s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: UPDATE `a_luck_record` SET `CLICK`=CLICK+1 WHERE ( 1=1 ) [ RunTime:0.0035s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SELECT `LINK_CLICK`,`CLICK`,`LUCK_PUSH`,`OFFER` FROM `a_luck_record` WHERE `ID` = 2 LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: UPDATE `a_luck_record` SET `CLICK_RATE`='0' WHERE `ID` = 2 [ RunTime:0.0033s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: UPDATE `a_luck_record` SET `TOTAL`='0.00' WHERE `ID` = 2 [ RunTime:0.0034s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+
+[ 2018-02-12T15:04:37+08:00 ] 183.3.255.28 /Home/Luck/act
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000284s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000316s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SHOW COLUMNS FROM `a_luck_record` [ RunTime:0.0006s ]
+SQL: UPDATE `a_luck_record` SET `LINK_CLICK`=LINK_CLICK+1 WHERE `ID` = 2 [ RunTime:0.0466s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SELECT `LINK_CLICK`,`CLICK`,`OFFER` FROM `a_luck_record` WHERE `ID` = 2 LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: UPDATE `a_luck_record` SET `CLICK_RATE`='25' WHERE `ID` = 2 [ RunTime:0.0043s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: UPDATE `a_luck_record` SET `TOTAL`='0.01' WHERE `ID` = 2 [ RunTime:0.0037s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000378s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000411s ]
+
+[ 2018-02-12T15:04:53+08:00 ] 183.3.255.28 /Home/Luck/act
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000282s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000314s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SHOW COLUMNS FROM `a_luck_record` [ RunTime:0.0006s ]
+SQL: UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' [ RunTime:0.0066s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000369s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000413s ]
+
+[ 2018-02-12T15:04:54+08:00 ] 183.3.255.28 /Home/Luck/act
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000269s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000301s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SHOW COLUMNS FROM `a_luck_record` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SELECT * FROM `a_luck_record`  [ RunTime:0.0002s ]
+SQL: SELECT sum(WEIGHT) as WEIGHT1,sum(OFFER) as OFFER1 FROM `a_luck_record`  [ RunTime:0.0001s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SELECT * FROM `a_luck_record` WHERE `ID` = 6 LIMIT 1   [ RunTime:0.0001s ]
+SQL: UPDATE `a_luck_record` SET `LUCK_PUSH`=LUCK_PUSH+1 WHERE `ID` = 6 [ RunTime:0.0040s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: UPDATE `a_luck_record` SET `CLICK`=CLICK+1 WHERE ( 1=1 ) [ RunTime:0.0038s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SELECT `LINK_CLICK`,`CLICK`,`LUCK_PUSH`,`OFFER` FROM `a_luck_record` WHERE `ID` = 6 LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: UPDATE `a_luck_record` SET `CLICK_RATE`='0' WHERE `ID` = 6 [ RunTime:0.0034s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: UPDATE `a_luck_record` SET `TOTAL`='0.00' WHERE `ID` = 6 [ RunTime:0.0074s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+
+[ 2018-02-12T15:04:58+08:00 ] 183.3.255.28 /Home/Luck/act
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000343s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SHOW COLUMNS FROM `a_luck_record` [ RunTime:0.0007s ]
+SQL: UPDATE `a_luck_record` SET `LINK_CLICK`=LINK_CLICK+1 WHERE `ID` = 6 [ RunTime:0.0130s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SELECT `LINK_CLICK`,`CLICK`,`OFFER` FROM `a_luck_record` WHERE `ID` = 6 LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: UPDATE `a_luck_record` SET `CLICK_RATE`='20' WHERE `ID` = 6 [ RunTime:0.0036s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: UPDATE `a_luck_record` SET `TOTAL`='0.01' WHERE `ID` = 6 [ RunTime:0.0035s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000395s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000430s ]
+
+[ 2018-02-12T15:05:06+08:00 ] 183.3.255.28 /Home/Luck/act
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000272s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000303s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SHOW COLUMNS FROM `a_luck_record` [ RunTime:0.0006s ]
+SQL: UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' [ RunTime:0.0076s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000306s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000338s ]
+
+[ 2018-02-12T15:05:07+08:00 ] 183.3.255.28 /Home/Luck/act
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000286s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000326s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SHOW COLUMNS FROM `a_luck_record` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SELECT * FROM `a_luck_record`  [ RunTime:0.0002s ]
+SQL: SELECT sum(WEIGHT) as WEIGHT1,sum(OFFER) as OFFER1 FROM `a_luck_record`  [ RunTime:0.0001s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SELECT * FROM `a_luck_record` WHERE `ID` = 7 LIMIT 1   [ RunTime:0.0001s ]
+SQL: UPDATE `a_luck_record` SET `LUCK_PUSH`=LUCK_PUSH+1 WHERE `ID` = 7 [ RunTime:0.0040s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: UPDATE `a_luck_record` SET `CLICK`=CLICK+1 WHERE ( 1=1 ) [ RunTime:0.0040s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SELECT `LINK_CLICK`,`CLICK`,`LUCK_PUSH`,`OFFER` FROM `a_luck_record` WHERE `ID` = 7 LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: UPDATE `a_luck_record` SET `CLICK_RATE`='0' WHERE `ID` = 7 [ RunTime:0.0037s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: UPDATE `a_luck_record` SET `TOTAL`='0.00' WHERE `ID` = 7 [ RunTime:0.0035s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+
+[ 2018-02-12T15:05:13+08:00 ] 183.3.255.28 /Home/Luck/act
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000267s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000298s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SHOW COLUMNS FROM `a_luck_record` [ RunTime:0.0006s ]
+SQL: UPDATE `a_luck_record` SET `LINK_CLICK`=LINK_CLICK+1 WHERE `ID` = 7 [ RunTime:0.0044s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SELECT `LINK_CLICK`,`CLICK`,`OFFER` FROM `a_luck_record` WHERE `ID` = 7 LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: UPDATE `a_luck_record` SET `CLICK_RATE`='16.67' WHERE `ID` = 7 [ RunTime:0.0036s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: UPDATE `a_luck_record` SET `TOTAL`='0.01' WHERE `ID` = 7 [ RunTime:0.0038s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000305s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000337s ]
+
+[ 2018-02-12T15:05:18+08:00 ] 183.3.255.28 /Home/Luck/act
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000287s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000319s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SHOW COLUMNS FROM `a_luck_record` [ RunTime:0.0006s ]
+SQL: UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' [ RunTime:0.0047s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000301s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000333s ]
+
+[ 2018-02-12T16:31:21+08:00 ] 106.11.227.158 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000305s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000348s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) /phpstudy/www/bigfinance.yomibank.com/Application/Home/Controller/IndexController.class.php 第 345 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000092s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000128s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008645s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008679s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000089s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000116s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000303s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000337s ]
+
+[ 2018-02-12T21:29:08+08:00 ] 112.65.62.193 /Home/Luck/index?channel=D89F3A35931C386956C1A402A8E09941
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000297s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000332s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000102s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000137s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005740s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005775s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000089s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000115s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000321s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000355s ]
+
+[ 2018-02-12T21:29:08+08:00 ] 112.65.62.193 /Home/Luck/act
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000266s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000297s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SHOW COLUMNS FROM `a_luck_record` [ RunTime:0.0006s ]
+SQL: UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' [ RunTime:0.0042s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000314s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000347s ]
+
+[ 2018-02-12T21:29:10+08:00 ] 112.65.62.193 /Home/Luck/act
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000295s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000329s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SHOW COLUMNS FROM `a_luck_record` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SELECT * FROM `a_luck_record`  [ RunTime:0.0002s ]
+SQL: SELECT sum(WEIGHT) as WEIGHT1,sum(OFFER) as OFFER1 FROM `a_luck_record`  [ RunTime:0.0001s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SELECT * FROM `a_luck_record` WHERE `ID` = 9 LIMIT 1   [ RunTime:0.0001s ]
+SQL: UPDATE `a_luck_record` SET `LUCK_PUSH`=LUCK_PUSH+1 WHERE `ID` = 9 [ RunTime:0.0326s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: UPDATE `a_luck_record` SET `CLICK`=CLICK+1 WHERE ( 1=1 ) [ RunTime:0.0040s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SELECT `LINK_CLICK`,`CLICK`,`LUCK_PUSH`,`OFFER` FROM `a_luck_record` WHERE `ID` = 9 LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: UPDATE `a_luck_record` SET `CLICK_RATE`='0' WHERE `ID` = 9 [ RunTime:0.0038s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: UPDATE `a_luck_record` SET `TOTAL`='0.00' WHERE `ID` = 9 [ RunTime:0.0039s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+
+[ 2018-02-12T21:29:17+08:00 ] 112.65.62.193 /Home/Luck/act
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000265s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000296s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SHOW COLUMNS FROM `a_luck_record` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SELECT * FROM `a_luck_record`  [ RunTime:0.0002s ]
+SQL: SELECT sum(WEIGHT) as WEIGHT1,sum(OFFER) as OFFER1 FROM `a_luck_record`  [ RunTime:0.0001s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SELECT * FROM `a_luck_record` WHERE `ID` = 7 LIMIT 1   [ RunTime:0.0001s ]
+SQL: UPDATE `a_luck_record` SET `LUCK_PUSH`=LUCK_PUSH+1 WHERE `ID` = 7 [ RunTime:0.0040s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: UPDATE `a_luck_record` SET `CLICK`=CLICK+1 WHERE ( 1=1 ) [ RunTime:0.0141s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SELECT `LINK_CLICK`,`CLICK`,`LUCK_PUSH`,`OFFER` FROM `a_luck_record` WHERE `ID` = 7 LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: UPDATE `a_luck_record` SET `CLICK_RATE`='50' WHERE `ID` = 7 [ RunTime:0.0039s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: UPDATE `a_luck_record` SET `TOTAL`='0.01' WHERE `ID` = 7 [ RunTime:0.0052s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+
+[ 2018-02-12T21:29:22+08:00 ] 112.65.62.193 /Home/Luck/act
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000304s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000339s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SHOW COLUMNS FROM `a_luck_record` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SELECT * FROM `a_luck_record`  [ RunTime:0.0002s ]
+SQL: SELECT sum(WEIGHT) as WEIGHT1,sum(OFFER) as OFFER1 FROM `a_luck_record`  [ RunTime:0.0001s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SELECT * FROM `a_luck_record` WHERE `ID` = 3 LIMIT 1   [ RunTime:0.0002s ]
+SQL: UPDATE `a_luck_record` SET `LUCK_PUSH`=LUCK_PUSH+1 WHERE `ID` = 3 [ RunTime:0.0042s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: UPDATE `a_luck_record` SET `CLICK`=CLICK+1 WHERE ( 1=1 ) [ RunTime:0.0037s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SELECT `LINK_CLICK`,`CLICK`,`LUCK_PUSH`,`OFFER` FROM `a_luck_record` WHERE `ID` = 3 LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: UPDATE `a_luck_record` SET `CLICK_RATE`='0' WHERE `ID` = 3 [ RunTime:0.0042s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: UPDATE `a_luck_record` SET `TOTAL`='0.00' WHERE `ID` = 3 [ RunTime:0.0040s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+
+[ 2018-02-12T21:29:38+08:00 ] 112.65.62.193 /Home/Luck/index?channel=D89F3A35931C386956C1A402A8E09941
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000304s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000345s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000141s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000177s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005935s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005969s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000086s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000111s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000303s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000334s ]
+
+[ 2018-02-12T21:29:39+08:00 ] 112.65.62.193 /Home/Luck/act
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000278s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000315s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SHOW COLUMNS FROM `a_luck_record` [ RunTime:0.0006s ]
+SQL: UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' [ RunTime:0.0046s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000316s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000347s ]
+
+[ 2018-02-12T21:29:40+08:00 ] 112.65.62.193 /Home/Luck/act
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000284s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000315s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SHOW COLUMNS FROM `a_luck_record` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SELECT * FROM `a_luck_record`  [ RunTime:0.0002s ]
+SQL: SELECT sum(WEIGHT) as WEIGHT1,sum(OFFER) as OFFER1 FROM `a_luck_record`  [ RunTime:0.0001s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SELECT * FROM `a_luck_record` WHERE `ID` = 1 LIMIT 1   [ RunTime:0.0001s ]
+SQL: UPDATE `a_luck_record` SET `LUCK_PUSH`=LUCK_PUSH+1 WHERE `ID` = 1 [ RunTime:0.0049s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: UPDATE `a_luck_record` SET `CLICK`=CLICK+1 WHERE ( 1=1 ) [ RunTime:0.0042s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SELECT `LINK_CLICK`,`CLICK`,`LUCK_PUSH`,`OFFER` FROM `a_luck_record` WHERE `ID` = 1 LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: UPDATE `a_luck_record` SET `CLICK_RATE`='0' WHERE `ID` = 1 [ RunTime:0.0037s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: UPDATE `a_luck_record` SET `TOTAL`='0.00' WHERE `ID` = 1 [ RunTime:0.0034s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+
+[ 2018-02-12T21:29:47+08:00 ] 112.65.62.193 /Home/Luck/act
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000263s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000296s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SHOW COLUMNS FROM `a_luck_record` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SELECT * FROM `a_luck_record`  [ RunTime:0.0002s ]
+SQL: SELECT sum(WEIGHT) as WEIGHT1,sum(OFFER) as OFFER1 FROM `a_luck_record`  [ RunTime:0.0001s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SELECT * FROM `a_luck_record` WHERE `ID` = 10 LIMIT 1   [ RunTime:0.0001s ]
+SQL: UPDATE `a_luck_record` SET `LUCK_PUSH`=LUCK_PUSH+1 WHERE `ID` = 10 [ RunTime:0.0038s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: UPDATE `a_luck_record` SET `CLICK`=CLICK+1 WHERE ( 1=1 ) [ RunTime:0.0040s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SELECT `LINK_CLICK`,`CLICK`,`LUCK_PUSH`,`OFFER` FROM `a_luck_record` WHERE `ID` = 10 LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: UPDATE `a_luck_record` SET `CLICK_RATE`='0' WHERE `ID` = 10 [ RunTime:0.0036s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: UPDATE `a_luck_record` SET `TOTAL`='0.00' WHERE `ID` = 10 [ RunTime:0.0032s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+
+[ 2018-02-12T21:54:36+08:00 ] 112.65.62.193 /Home/Luck/index?channel=D89F3A35931C386956C1A402A8E09941
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000288s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000323s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000108s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000143s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005757s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005793s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000086s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000112s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000291s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000323s ]
+
+[ 2018-02-12T21:54:36+08:00 ] 112.65.62.193 /Home/Luck/act
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000294s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000326s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SHOW COLUMNS FROM `a_luck_record` [ RunTime:0.0006s ]
+SQL: UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' [ RunTime:0.0042s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000364s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000424s ]
+
+[ 2018-02-12T21:54:44+08:00 ] 112.65.62.193 /Home/Luck/act
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000295s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000328s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SHOW COLUMNS FROM `a_luck_record` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SELECT * FROM `a_luck_record`  [ RunTime:0.0002s ]
+SQL: SELECT sum(WEIGHT) as WEIGHT1,sum(OFFER) as OFFER1 FROM `a_luck_record`  [ RunTime:0.0001s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SELECT * FROM `a_luck_record` WHERE `ID` = 7 LIMIT 1   [ RunTime:0.0001s ]
+SQL: UPDATE `a_luck_record` SET `LUCK_PUSH`=LUCK_PUSH+1 WHERE `ID` = 7 [ RunTime:0.0046s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: UPDATE `a_luck_record` SET `CLICK`=CLICK+1 WHERE ( 1=1 ) [ RunTime:0.0041s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SELECT `LINK_CLICK`,`CLICK`,`LUCK_PUSH`,`OFFER` FROM `a_luck_record` WHERE `ID` = 7 LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: UPDATE `a_luck_record` SET `CLICK_RATE`='33.33' WHERE `ID` = 7 [ RunTime:0.0033s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: UPDATE `a_luck_record` SET `TOTAL`='0.01' WHERE `ID` = 7 [ RunTime:0.0035s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+
+[ 2018-02-12T21:54:50+08:00 ] 112.65.62.193 /Home/Luck/act
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000269s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000318s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SHOW COLUMNS FROM `a_luck_record` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SELECT * FROM `a_luck_record`  [ RunTime:0.0002s ]
+SQL: SELECT sum(WEIGHT) as WEIGHT1,sum(OFFER) as OFFER1 FROM `a_luck_record`  [ RunTime:0.0001s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SELECT * FROM `a_luck_record` WHERE `ID` = 7 LIMIT 1   [ RunTime:0.0001s ]
+SQL: UPDATE `a_luck_record` SET `LUCK_PUSH`=LUCK_PUSH+1 WHERE `ID` = 7 [ RunTime:0.0047s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: UPDATE `a_luck_record` SET `CLICK`=CLICK+1 WHERE ( 1=1 ) [ RunTime:0.0031s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SELECT `LINK_CLICK`,`CLICK`,`LUCK_PUSH`,`OFFER` FROM `a_luck_record` WHERE `ID` = 7 LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: UPDATE `a_luck_record` SET `CLICK_RATE`='25' WHERE `ID` = 7 [ RunTime:0.0031s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: UPDATE `a_luck_record` SET `TOTAL`='0.01' WHERE `ID` = 7 [ RunTime:0.0039s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+
+[ 2018-02-12T21:54:55+08:00 ] 112.65.62.193 /Home/Luck/act
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000277s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000309s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SHOW COLUMNS FROM `a_luck_record` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SELECT * FROM `a_luck_record`  [ RunTime:0.0002s ]
+SQL: SELECT sum(WEIGHT) as WEIGHT1,sum(OFFER) as OFFER1 FROM `a_luck_record`  [ RunTime:0.0001s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SELECT * FROM `a_luck_record` WHERE `ID` = 10 LIMIT 1   [ RunTime:0.0001s ]
+SQL: UPDATE `a_luck_record` SET `LUCK_PUSH`=LUCK_PUSH+1 WHERE `ID` = 10 [ RunTime:0.0048s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: UPDATE `a_luck_record` SET `CLICK`=CLICK+1 WHERE ( 1=1 ) [ RunTime:0.0038s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: SELECT `LINK_CLICK`,`CLICK`,`LUCK_PUSH`,`OFFER` FROM `a_luck_record` WHERE `ID` = 10 LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: UPDATE `a_luck_record` SET `CLICK_RATE`='0' WHERE `ID` = 10 [ RunTime:0.0032s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+SQL: UPDATE `a_luck_record` SET `TOTAL`='0.00' WHERE `ID` = 10 [ RunTime:0.0030s ]
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+

@@ -1,0 +1,590 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset=utf-8"utf-8">
+    <title>大转盘</title>
+    <link rel="stylesheet" type="text/css" href="__PUBLIC__/daikuan/css/css.css"/>
+    <link rel="stylesheet" type="text/css" href="__PUBLIC__/daikuan/css/more.css"/>
+    <script src="__PUBLIC__/daikuan/js/jquery.min.js"></script>
+    <script src="__PUBLIC__/daikuan/js/jquery.cookie.js" type="text/javascript" charset="utf-8"></script>
+    <script src="__PUBLIC__/daikuan/js/jquerysession.js" type="text/javascript" charset="utf-8"></script>
+    <script src="__PUBLIC__/daikuan/js/fun.js" type="text/javascript" charset="utf-8"></script>
+    <script src="__PUBLIC__/daikuan/js/common.js" type="text/javascript" charset="utf-8"></script>
+    <script src="__PUBLIC__/daikuan/js/app.js" type="text/javascript" charset="utf-8"></script>
+    <script src="__PUBLIC__/daikuan/js/clipboard.min.js" type="text/javascript"></script>
+</head>
+<script>
+    if(history.length==1)
+    {
+        pushHistorys();
+    }
+    window.addEventListener("popstate", function(e) {
+        pushHistory();
+        window.location.replace("activeShow.php-id=6912.htm"/*tpa=http://kyzp.dsh178.com/activeShow.php?id=6912*/);
+    }, false);
+    function pushHistory() {
+        var state = {
+            title:"福利社",
+            url: "activeShow.php-id=6912.htm"/*tpa=http://kyzp.dsh178.com/activeShow.php?id=6912*/
+        };
+        window.history.replaceState(state, "福利社", "activeShow.php-id=6912.htm"/*tpa=http://kyzp.dsh178.com/activeShow.php?id=6912*/);
+    }
+    function pushHistorys() {
+        var state = {
+            title:"#",
+            url: "act.php-id=6912&planid=503.htm"/*tpa=http://kyzp.dsh178.com/act.php?id=6912&planid=503*/
+        };
+        window.history.pushState(state, "#", "act.php-id=6912&planid=503.htm"/*tpa=http://kyzp.dsh178.com/act.php?id=6912&planid=503*/);
+    }
+</script>
+<body
+    style="background-image: url('http://img.lerencx.cn/a/2017-12-20/15137509283204.jpg')">
+<div class="dzp">
+    <div class="dzp_bj">
+        <div class="dzp_top">
+            <i class="guize_click"></i>
+            <a href="act.php-type=award_new&planid=503&id=6912&name=dial&token=&listid=.htm" tppabs="http://kyzp.dsh178.com/act.php?type=award_new&planid=503&id=6912&name=dial&token=&listid="><u></u></a>
+            <img src="__PUBLIC__/daikuan/images/2017-12-20/15137614212309.png"/>
+        </div>
+        <div class="dzp_con">
+            <input type="hidden" id="adsid">
+            <input type="hidden" id="countNum">
+            <div class="dzp_con_a">
+                <div class="dzp_con_aa">你还有<em id="cs">6</em>次机会</div>
+                <div class="dzp_con_ab">
+                    <div class="dzp_con_aba shan">
+                        <div class="dzp_con_abaa">
+                            <div class="dzp_con_abtc">
+                                <ul>
+                                    <li class="js-ggc">
+                                        <dd>
+                                            <a href="javascript:;" >
+                                                <p>幸运大礼包</p>
+                                                <img src="__PUBLIC__/daikuan/images/2017-09-22/15060676086191.png"/>
+                                            </a>
+                                        </dd>
+                                    </li>
+                                    <li class="js-ggc">
+                                        <dd>
+                                            <a href="javascript:;" >
+                                                <p>现金红包</p>
+                                                <img src="__PUBLIC__/daikuan/images/2017-09-22/15060676081825.png"/>
+                                            </a>
+                                        </dd>
+                                    </li>
+                                    <li class="js-ggc">
+                                        <dd>
+                                            <a href="javascript:;" >
+                                                <p>现金红包</p>
+                                                <img src="__PUBLIC__/daikuan/images/2017-09-22/15060676087639.png"/>
+                                            </a>
+                                        </dd>
+                                    </li>
+                                    <li class="js-ggc">
+                                        <dd>
+                                            <a href="javascript:;" >
+                                                <p>幸运大礼包</p>
+                                                <img src="__PUBLIC__/daikuan/images/2017-09-22/15060676087187.png"/>
+                                            </a>
+                                        </dd>
+                                    </li>
+                                    <li class="js-ggc">
+                                        <dd>
+                                            <a href="javascript:;" >
+                                                <p>现金红包</p>
+                                                <img src="__PUBLIC__/daikuan/images/2017-09-22/15060676087097.png"/>
+                                            </a>
+                                        </dd>
+                                    </li>
+                                    <li class="js-ggc">
+                                        <dd>
+                                            <a href="javascript:;" >
+                                                <p>现金红包</p>
+                                                <img src="__PUBLIC__/daikuan/images/2017-09-22/15060676085763.png"/>
+                                            </a>
+                                        </dd>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="dzp_con_abta"></div>
+                        <div class="dzp_con_abtb"></div>
+                    </div>
+                </div>
+                <div class="dzp_con_ac"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--中奖窗口-->
+    <div class="dzp_03_tanchuang" id="show_draw" style="display: none;">
+        <div class="zp_animate">
+            <div class="dzp_03_prize_show">
+                <span class="zp_close close"></span>
+                <div class="zp_shine_bg">
+                    <div class="zp_shine_bg_02 dzp_shine_03"></div>
+                </div>
+                <i class="dzp_03_caidai"></i>
+                <div class="dzp_03_body">
+                    <div class="dzp_03_bot">
+                        <div class="dzp_03_cen ads_href ads_pic" style="position: relative">
+                            <div class="show_pic"></div>
+                            <div class="tao_kl show_taokl" style="display: none;top:1.6rem">
+                                <input class="taokl" type="text" value="" readonly="readonly"/>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="dzp_03_top">
+                        <div class="dzp_03_text">
+                            <h3 class="ads_title"></h3>
+                        </div>
+                    </div>
+                    <div class="dzp_03_footer">
+                        <button class="ads_href ads_sub">立即领取</button>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+<!--中奖弹窗结束-->
+
+<!--不中奖弹框-->
+<div class="jihui" id="show_no_draw" style="display: none;">
+    <div class="jihui_content">
+        <i class="jihui_btn_close close"></i>
+        <i class="icon_pic_01"></i>
+        <i class="icon_pic_02"></i>
+        <p class="title_jihui">哎呀！就差那么一点点~</p>
+        <p class="title_jihui_02 ads_title">别灰心，您还有一份幸运奖，赶快领取吧！</p>
+        <div class="jihui_prize_pic ads_href ads_pic"></div>
+        <button type="button" class="jihui_btn_02 close ads_href ads_sub">立即领取</button>
+    </div>
+</div>
+<!--不中奖弹框-->
+<!--规则开始-->
+<div class="guize" style="display: none;">
+    <div class="guize_a">
+        <h2>中奖规则</h2>
+        <span class="close"></span>
+
+        <div class="guize_aa">
+            <div class="guize_aaa">
+                <ul>
+                    <p>老板说要吐血送礼，回馈社会，本着君要臣送臣不得不送的理念，好礼品都拿出来送大家啦~快来领！</p><p><br/></p><p>活动说明：参加活动即有机会获得幸运奖~每天可免费参与10次。此活动为概率中奖，奖品数量有限，祝君好运！</p><p><br/></p><p><br/></p><p>惊喜一：600元支付宝红包</p><p><br/></p><p>惊喜二：200元支付宝红包</p><p><br/></p><p>惊喜三：50元支付宝话费</p><p><br/></p><p>惊喜四：10元支付宝鼓励包</p><p><br/></p><p>惊喜五：幸运福袋</p><p><br/></p><p>－－－－－－－－－－－－－－－－</p><p><br/></p><p>重要声明</p><p><br/></p><p>实物类奖品将在活动结束后5-10个工作日安排发货，请耐心等待</p><p><br/></p><p>更多概率说明</p><p><br/></p><p>600元支付宝红包，共10份，中奖概率0.01%</p><p>200元支付宝红包，共20份，中奖概率0.03%</p><p>50元支付宝话费，共30份，中奖概率0.03%</p><p>10元支付宝鼓励包，共200份，中奖概率0.3%</p><p><br/></p>                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<!--规则结束-->
+<!--无机会弹窗02-->
+<div id="recommend-modal" class="recommend-modal js-no-cishu" style="display: none;">
+    <div class="recommend-modal-dialog">
+        <i class="close"></i>
+        <div class="recommend-body1">
+            <a class="fuli" href="javascript:;"></a>
+                            <a class="recommend-li" href="act.php-id=6912&planid=419.htm"><i class="recommend-btn"></i><img src="__PUBLIC__/daikuan/images/2017-12-20/15137595617424.jpg"></a>
+                            <a class="recommend-li" href="act.php-id=6912&planid=554.htm"><i class="recommend-btn"></i><img src="__PUBLIC__/daikuan/images/2017-12-19/15136522437534.jpg"></a>
+                    </div>
+        <div><a href="weal.php-id=6912.htm" id="more_act" class="anyatmore">更多活动</a></div>
+    </div>
+</div>
+<!--无机会弹窗02-->
+<div id="show_mobile" class="show_mobile">
+    <div class="mob_pop">
+        <div class="mob_title">请输入手机号：</div>
+        <div class="mob_txt">
+            <input type="tel" name="mobile" id="mobile"/>
+        </div>
+        <button type="button" id="mobile_sub">立即领取</button>
+    </div>
+</div>
+<script type="text/javascript">
+    var times = 6;
+    var mobile_ads = $.cookie('mobile');
+
+    data_shuzu = [];
+    //奖品方法
+    function date_4(up_zhi) {
+        switch (up_zhi) {
+                    case 0:
+                data_shuzu['0'] = '饿了么优惠券';
+                data_shuzu['1'] = '<img src="__PUBLIC__/daikuan/images/2017-12-29/15145260154011.png">';
+                data_shuzu['2'] = 'https://h5.ele.me/baida/#group_sn=4f138c33a1f9ff65b72240e5f20ee393&b?f=eyJhZHNpZCI6IjEzMzciLCJ6b25laWQiOjAsImFwcGlkIjoiNjkxMiIsInB1c2hfcGxhbmlkIjoiNTAzIn0=';
+                data_shuzu['3'] = '点击领取';
+                data_shuzu['4'] = '1337';
+                data_shuzu['5'] = '';
+                data_shuzu['6'] = '0';
+                data_shuzu['7'] = '0';
+                $('#adsid').val(1337);
+                            break;
+                    case 1:
+                data_shuzu['0'] = '支付宝十亿线下红包';
+                data_shuzu['1'] = '<img src="__PUBLIC__/daikuan/images/2017-12-22/15139302871644.png">';
+                data_shuzu['2'] = 'https://ds.alipay.com/?from=mobilecodec&scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FsaId%3D10000007%26clientVersion%3D3.7.0.0718%26qrcode%3Dhttps%253A%252F%252Fqr.alipay.com%252Fc1x05056givqivhqdbpcyab%253F_s%253Dweb-other&f=eyJhZHNpZCI6IjEyNzciLCJ6b25laWQiOjAsImFwcGlkIjoiNjkxMiIsInB1c2hfcGxhbmlkIjoiNTAzIn0=';
+                data_shuzu['3'] = '复制领取';
+                data_shuzu['4'] = '1277';
+                data_shuzu['5'] = 'HUvTnE97TO';
+                data_shuzu['6'] = '0';
+                data_shuzu['7'] = '0';
+                $('#adsid').val(1277);
+                            break;
+                    case 2:
+                data_shuzu['0'] = '会员专属优惠券清单';
+                data_shuzu['1'] = '<img src="__PUBLIC__/daikuan/images/2017-12-03/15123028755840.png">';
+                data_shuzu['2'] = 'https://temai.m.taobao.com/new/index.htm?pid=mm_11350127_38588648_142912630&f=eyJhZHNpZCI6IjEyNjkiLCJ6b25laWQiOjAsImFwcGlkIjoiNjkxMiIsInB1c2hfcGxhbmlkIjoiNTAzIn0=';
+                data_shuzu['3'] = '立即领取';
+                data_shuzu['4'] = '1269';
+                data_shuzu['5'] = '';
+                data_shuzu['6'] = '0';
+                data_shuzu['7'] = '0';
+                $('#adsid').val(1269);
+                            break;
+                    case 3:
+                data_shuzu['0'] = '饿了么优惠券';
+                data_shuzu['1'] = '<img src="__PUBLIC__/daikuan/images/2017-12-29/15145260154011.png">';
+                data_shuzu['2'] = 'https://h5.ele.me/baida/#group_sn=4f138c33a1f9ff65b72240e5f20ee393&b?f=eyJhZHNpZCI6IjEzMzciLCJ6b25laWQiOjAsImFwcGlkIjoiNjkxMiIsInB1c2hfcGxhbmlkIjoiNTAzIn0=';
+                data_shuzu['3'] = '点击领取';
+                data_shuzu['4'] = '1337';
+                data_shuzu['5'] = '';
+                data_shuzu['6'] = '0';
+                data_shuzu['7'] = '0';
+                $('#adsid').val(1337);
+                            break;
+                    case 4:
+                data_shuzu['0'] = '支付宝十亿线下红包';
+                data_shuzu['1'] = '<img src="__PUBLIC__/daikuan/images/2017-12-22/15139302871644.png">';
+                data_shuzu['2'] = 'https://ds.alipay.com/?from=mobilecodec&scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FsaId%3D10000007%26clientVersion%3D3.7.0.0718%26qrcode%3Dhttps%253A%252F%252Fqr.alipay.com%252Fc1x05056givqivhqdbpcyab%253F_s%253Dweb-other&f=eyJhZHNpZCI6IjEyNzciLCJ6b25laWQiOjAsImFwcGlkIjoiNjkxMiIsInB1c2hfcGxhbmlkIjoiNTAzIn0=';
+                data_shuzu['3'] = '⬆️复制领取⬆️';
+                data_shuzu['4'] = '1277';
+                data_shuzu['5'] = 'HUvTnE97TO';
+                data_shuzu['6'] = '0';
+                data_shuzu['7'] = '0';
+                $('#adsid').val(1277);
+                            break;
+                    case 5:
+                data_shuzu['0'] = '会员专属优惠券清单';
+                data_shuzu['1'] = '<img src="__PUBLIC__/daikuan/images/2017-12-03/15123028755840.png">';
+                data_shuzu['2'] = 'https://temai.m.taobao.com/new/index.htm?pid=mm_11350127_38588648_142912630&f=eyJhZHNpZCI6IjEyNjkiLCJ6b25laWQiOjAsImFwcGlkIjoiNjkxMiIsInB1c2hfcGxhbmlkIjoiNTAzIn0=';
+                data_shuzu['3'] = '立即领取';
+                data_shuzu['4'] = '1269';
+                data_shuzu['5'] = '';
+                data_shuzu['6'] = '0';
+                data_shuzu['7'] = '0';
+                $('#adsid').val(1269);
+                            break;
+                    case 6:
+                data_shuzu['0'] = '饿了么优惠券';
+                data_shuzu['1'] = '<img src="__PUBLIC__/daikuan/images/2017-12-29/15145260154011.png">';
+                data_shuzu['2'] = 'https://h5.ele.me/baida/#group_sn=4f138c33a1f9ff65b72240e5f20ee393&b?f=eyJhZHNpZCI6IjEzMzciLCJ6b25laWQiOjAsImFwcGlkIjoiNjkxMiIsInB1c2hfcGxhbmlkIjoiNTAzIn0=';
+                data_shuzu['3'] = '点击领取';
+                data_shuzu['4'] = '1337';
+                data_shuzu['5'] = '';
+                data_shuzu['6'] = '0';
+                data_shuzu['7'] = '0';
+                $('#adsid').val(1337);
+                            break;
+                    case 7:
+                data_shuzu['0'] = '支付宝十亿线下红包';
+                data_shuzu['1'] = '<img src="__PUBLIC__/daikuan/images/2017-12-22/15139302871644.png">';
+                data_shuzu['2'] = 'https://ds.alipay.com/?from=mobilecodec&scheme=alipays%3A%2F%2Fplatformapi%2Fstartapp%3FsaId%3D10000007%26clientVersion%3D3.7.0.0718%26qrcode%3Dhttps%253A%252F%252Fqr.alipay.com%252Fc1x05056givqivhqdbpcyab%253F_s%253Dweb-other&f=eyJhZHNpZCI6IjEyNzciLCJ6b25laWQiOjAsImFwcGlkIjoiNjkxMiIsInB1c2hfcGxhbmlkIjoiNTAzIn0=';
+                data_shuzu['3'] = '⬆️复制领取⬆️';
+                data_shuzu['4'] = '1277';
+                data_shuzu['5'] = 'HUvTnE97TO';
+                data_shuzu['6'] = '0';
+                data_shuzu['7'] = '0';
+                $('#adsid').val(1277);
+                            break;
+                }
+    }
+    $('#countNum').val(8);
+
+    //点击方法
+    function stats(url, adsid) {
+        if (adsid == 0 || adsid == "") {
+            adsid = $('#adsid').val();
+        }
+        $.ajax({
+            type: 'GET',
+            dataType: "jsonp",//数据类型为jsonp
+            jsonp: 'callback',//服务器端获取回调;callback是默认值
+            url: "http://www.kuaiyan.com/appac.php",
+            data: {
+                adsid: adsid,
+                event: 'click',
+                push_planid: '503',
+                v: '6912',
+                tokenV: '1',
+                screen: "'" + window.screen.width + "x" + window.screen.height + "'",
+                jt: '6fda24ede1f39ffe8ebc3c468d5b42fa.MTgwLjE3MS4xLjMy'
+            },
+            success: function (msg) {
+                $.session.remove('yz_503_' + adsid);
+                                if ($('.taokl').val() != ''&&IsPC()!="pc") {
+                    openAppFun.loadSchema({
+                        // 通过NN打开某个链接
+                        schema: url,
+                        //schema头协议，实际情况填写
+                        protocal: 'tbopen',
+                        //发起唤醒请求后，会等待loadWaiting时间，超时则跳转到failUrl，默认3000ms
+                        loadWaiting: "1000",
+                        //唤起失败时的跳转链接，默认跳转到下载页
+                        failUrl: url,
+                        // apk信息,请根据实际情况填写
+                        apkInfo: {
+                            PKG: "com.xituchina.umbrella",
+                            CATEGORY: "android.intent.category.DEFAULT",
+                            ACTION: "http://kyzp.dsh178.com/android.intent.action.VIEW"
+                        }
+                    });
+                } else {
+                    history.replaceState(null, "", "");
+                    location.href = url;
+                }
+                            }, error: function (msg) {
+
+            }
+        });
+    }
+    //展示方法
+    function views() {
+        adsid = $('#adsid').val();
+        $.ajax({
+            type: 'GET',
+            dataType: "jsonp",//数据类型为jsonp
+            jsonp: 'callback',//服务器端获取回调;callback是默认值
+            url: "http://www.kuaiyan.com/appac.php",
+            data: {
+                adsid: adsid,
+                event: 'view',
+                push_planid: '503',
+                v: '6912',
+                tokenV: '1',
+                screen: "'" + window.screen.width + "x" + window.screen.height + "'",
+                jt: '6fda24ede1f39ffe8ebc3c468d5b42fa.MTgwLjE3MS4xLjMy'
+            },
+            success: function (msg) {
+
+            }
+        });
+    }
+
+    function shan() {
+        $('.dzp_con_aba').toggleClass('shan');
+    }
+
+    function liping() {					//礼品
+        var countNum = $('#countNum').val();
+        var Li_ping = $.cookie('Li_ping_503');
+        var Li_sjs = 0;
+        if (!$.session.get('Li_sjs_503')) {
+            $.session.set('Li_sjs_503', Li_sjs)
+        } else {
+            //如果session 数 大于等于当前数组总数
+            if ($.session.get('Li_sjs_503') < countNum - 1) {
+                $.session.set('Li_sjs_503', parseInt($.session.get('Li_sjs_503')) + 1)
+            } else if ($.session.get('Li_sjs_503') == countNum - 1) {
+                $.session.set('Li_sjs_503', 0)
+            } else if ($.session.get('Li_sjs_503') > countNum - 1) {
+                $.session.set('Li_sjs_503', Li_sjs)
+            } else {
+                $.session.set('Li_sjs_503', parseInt($.session.get('Li_sjs_503')) + 1)
+            }
+        }
+        Li_sjs = parseInt($.session.get('Li_sjs_503'));
+        date_4(Li_sjs);
+
+        $('.ads_title').html(function () {
+            return data_shuzu['0'];
+        });
+        $('.ads_pic .show_pic').html(function () {
+            return data_shuzu['1'];
+        });
+        $('.ads_href').attr('hr', function () {
+            return data_shuzu['2'];
+        });
+        $('.ads_sub').text(function () {
+            return data_shuzu['3'];
+        });
+        if (data_shuzu['5'] != "") {
+            $('.show_taokl').show();
+            $('.taokl').val(function () {
+                return data_shuzu['5'];
+            });
+        }
+        var is_mobile = false;
+        if (mobile_ads) {
+            var arr = mobile_ads.split(","); //字符分割
+            for (i = 0; i < arr.length; i++) {
+                if (arr[i] == $('#adsid').val()) {
+                    is_mobile = true;
+                    break;
+                }
+            }
+        }
+        if (is_mobile == false) {
+            if (data_shuzu['7'] > 0) {
+                $('.ads_href').attr('is_mobile', 1)
+            } else {
+                $('.ads_href').attr('is_mobile', 0)
+            }
+        }
+        if (data_shuzu['6'] > 0) {
+            $('#show_no_draw').show();
+        } else {
+            $('#show_draw').show();
+        }
+
+        if (Li_ping) {
+            Li_ping += ',' + data_shuzu['4'];
+            $.cookie('Li_ping_503', Li_ping, {expires: 365, path: '/'});
+        } else {
+            $.cookie('Li_ping_503', data_shuzu['4'], {expires: 365, path: '/'});
+        }
+    }
+
+    var cishu = $.session.get('cishu_503');
+    var cishu_c = $.cookie('cishu_c_503');
+    if (!cishu || cishu == 'NaN') {
+        $.session.set('cishu_503', times);
+        cishu = $.session.get('cishu_503');
+    }
+
+    //cookie时间到明天24点失效
+    if (!cishu_c || cishu_c == 'undefined') {
+        //cookie存一天
+        set_cookie(times, 503);
+        cishu_c = $.cookie('cishu_c_503');
+    }
+    //cookie 和session 谁小用谁
+    if (parseInt(cishu) >= parseInt(cishu_c)) {
+        cishu = cishu_c;
+    }
+    $('#cs').text(cishu);
+
+    function draw(cishu) {
+        $('.dzp_con_abaa').toggleClass('zhuan');
+        cishu = cishu - 1;
+        $.session.set('cishu_503', cishu);
+        set_cookie(cishu, 503);
+        $('#cs').text(cishu);
+        setTimeout(function () {
+            $('.dzp_con_abtb').css("pointer-events", "auto");
+            liping();
+            views()
+        }, 2300);
+    }
+
+    setInterval('shan()', 500);
+    $('.dzp_con_abtb').on('click', choujiang);
+    function choujiang() {
+        $(this).css("pointer-events", "none");
+        cishu = $('#cs').text();
+        if (cishu <= 0) {
+            $('.js-no-cishu').show();
+            $(this).addClass('dzp_con_abtb_close');
+            $(this).css("pointer-events", "auto");
+        } else {
+            $(this).toggleClass('zhongjiang');
+            var cishu = $.session.get('cishu_503');
+            var cishu_c = $.cookie('cishu_c_503');
+            if (!cishu || cishu == 'NaN') {
+                $.session.set('cishu_503', times);
+                cishu = $.session.get('cishu_503');
+            }
+
+            //cookie时间到明天24点失效
+            if (!cishu_c || cishu_c == 'undefined') {
+                //cookie存一天
+                set_cookie(times, 503);
+                cishu_c = $.cookie('cishu_c_503');
+            }
+            //cookie 和session 谁小用谁
+            if (parseInt(cishu) >= parseInt(cishu_c)) {
+                cishu = cishu_c;
+            }
+            draw(cishu)
+        }
+    }
+
+    $('.guize_click').click(function () {
+        $('.guize').show();
+    });
+    $('.close').click(function () {
+        $('.guize').hide();
+        $('#show_draw').hide();
+        $('#show_no_draw').hide();
+        $('.dzp_con_abaa').removeClass('zhuan');
+        $('.dzp_con_abtb').removeClass('zhongjiang');
+        $('.js-no-cishu').hide();
+        $(".show_taokl").hide();
+        $('.taokl').val('');
+            });
+
+    $('.guize_aab h3').click(function () {
+        if ($(this).hasClass('dd')) {
+            $('.guize_aab ul').hide();
+            $(this).removeClass('dd');
+        } else {
+            $('.guize_aab ul').show();
+            $(this).addClass('dd');
+        }
+    });
+
+    $('.ads_href').click(function () {
+        $(this).css("pointer-events", "none");
+        if ($(this).attr('is_mobile') > 0) {
+            $('#show_mobile').show();
+            $('#show_mobile button').attr('hr', $(this).attr('hr'));
+            $('#show_mobile button').attr('adsid', $(this).attr('adsid'));
+        } else {
+            stats($(this).attr('hr'), 0);
+        }
+    });
+
+    $('#mobile').blur(function () {
+        $(this).removeClass('mobile_error')
+    });
+
+    $('#mobile_sub').click(function () {
+        var mobile = $('#mobile').val();
+        var url = $(this).attr('hr');
+        var myreg = /^(((13[0-9]{1})|(15[0-9]{1})|(18[0-9]{1}))+\d{8})$/;
+        if (!myreg.test(mobile)) {
+            $('#mobile').addClass('mobile_error');
+            return false;
+        }
+        $.ajax({
+            type: 'GET',
+            dataType: "jsonp",
+            jsonp: 'callback',
+            url: "http://www.kuaiyan.com/activity/mobile.php",
+            data: {
+                mobile: mobile,
+                adsid: $('#adsid').val(),
+                id:6912,
+                uid:5755            },
+            success: function (msg) {
+                set_mobile_cookie(mobile_ads, $('#adsid').val());
+                stats(url, 0);
+            }
+        });
+    });
+
+    var clipboard_1 = new Clipboard('.taokl', {
+        target: function () {
+            return document.querySelector('.taokl');
+        }
+    });
+    clipboard_1.on('success', function (e) {
+        alert('复制成功');
+    });
+    clipboard_1.on('error', function (e) {
+
+    });
+
+</script>
+</body>
+
+</html>

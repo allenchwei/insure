@@ -1,0 +1,1127 @@
+[ 2018-01-18T22:08:53+08:00 ] 116.234.208.52 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000088s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000294s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000335s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) /phpstudy/www/bigfinance.yomibank.com/Application/Home/Controller/IndexController.class.php 第 344 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000095s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000131s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009759s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009797s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000095s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000124s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000296s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000329s ]
+
+[ 2018-01-18T22:09:12+08:00 ] 116.234.208.52 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000402s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000443s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) /phpstudy/www/bigfinance.yomibank.com/Application/Home/Controller/IndexController.class.php 第 344 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000114s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000159s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009175s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009212s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000096s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000123s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000313s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000347s ]
+
+[ 2018-01-18T22:09:15+08:00 ] 116.234.208.52 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000360s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) /phpstudy/www/bigfinance.yomibank.com/Application/Home/Controller/IndexController.class.php 第 344 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000109s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000158s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009521s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009579s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000085s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000110s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000340s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000384s ]
+
+[ 2018-01-18T22:13:18+08:00 ] 116.234.208.62 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000387s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000429s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) /phpstudy/www/bigfinance.yomibank.com/Application/Home/Controller/IndexController.class.php 第 344 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000121s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000178s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009212s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009249s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000097s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000123s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000310s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000344s ]
+
+[ 2018-01-18T22:13:19+08:00 ] 116.234.208.62 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000341s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000379s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) /phpstudy/www/bigfinance.yomibank.com/Application/Home/Controller/IndexController.class.php 第 344 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000119s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000161s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009244s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009275s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000118s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000143s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000321s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000354s ]
+
+[ 2018-01-18T22:13:29+08:00 ] 183.61.51.66 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000284s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000334s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) /phpstudy/www/bigfinance.yomibank.com/Application/Home/Controller/IndexController.class.php 第 344 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000119s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000184s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009348s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009382s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000105s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000131s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000328s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000363s ]
+
+[ 2018-01-18T22:14:59+08:00 ] 116.234.208.62 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000302s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000347s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) /phpstudy/www/bigfinance.yomibank.com/Application/Home/Controller/IndexController.class.php 第 344 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000119s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000183s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009337s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009374s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000148s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000178s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000340s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000375s ]
+
+[ 2018-01-18T22:15:00+08:00 ] 116.234.208.62 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000387s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) /phpstudy/www/bigfinance.yomibank.com/Application/Home/Controller/IndexController.class.php 第 344 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000122s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000165s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009220s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009250s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000099s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000122s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000340s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000372s ]
+
+[ 2018-01-18T22:15:04+08:00 ] 116.234.208.62 /Home/index/index_submit?mobile=18721993653&channel_map_id=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000367s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000405s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) /phpstudy/www/bigfinance.yomibank.com/Application/Home/Controller/IndexController.class.php 第 344 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] file_put_contents(./Public/log/index_18_01_18.log): failed to open stream: Permission denied /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 380 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] file_put_contents(./Public/log/index_18_01_18.log): failed to open stream: Permission denied /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 380 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] file_put_contents(./Public/log/index_18_01_18.log): failed to open stream: Permission denied /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 380 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] file_put_contents(./Public/log/index_18_01_18.log): failed to open stream: Permission denied /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 380 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] file_put_contents(./Public/log/index_18_01_18.log): failed to open stream: Permission denied /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 380 行.
+
+[ 2018-01-18T22:15:06+08:00 ] 116.234.208.62 /Home/index/index_submit?mobile=18721993653&channel_map_id=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000306s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000346s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) /phpstudy/www/bigfinance.yomibank.com/Application/Home/Controller/IndexController.class.php 第 344 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] file_put_contents(./Public/log/index_18_01_18.log): failed to open stream: Permission denied /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 380 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] file_put_contents(./Public/log/index_18_01_18.log): failed to open stream: Permission denied /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 380 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] file_put_contents(./Public/log/index_18_01_18.log): failed to open stream: Permission denied /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 380 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] file_put_contents(./Public/log/index_18_01_18.log): failed to open stream: Permission denied /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 380 行.
+NOTIC: [2] mkdir(): File exists /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 374 行.
+NOTIC: [2] file_put_contents(./Public/log/index_18_01_18.log): failed to open stream: Permission denied /phpstudy/www/bigfinance.yomibank.com/Application/Common/Common/function.php 第 380 行.
+
+[ 2018-01-18T22:17:57+08:00 ] 116.234.208.62 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000315s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000355s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) /phpstudy/www/bigfinance.yomibank.com/Application/Home/Controller/IndexController.class.php 第 344 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000115s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000161s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009299s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009336s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000099s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000124s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000330s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000364s ]
+
+[ 2018-01-18T22:17:57+08:00 ] 116.234.208.62 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000287s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000325s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) /phpstudy/www/bigfinance.yomibank.com/Application/Home/Controller/IndexController.class.php 第 344 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000123s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000166s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009348s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009381s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000133s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000159s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000312s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000343s ]
+
+[ 2018-01-18T22:18:39+08:00 ] 101.227.139.173 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000286s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000327s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) /phpstudy/www/bigfinance.yomibank.com/Application/Home/Controller/IndexController.class.php 第 344 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000136s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000248s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009301s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009337s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000101s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000128s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000317s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000350s ]
+
+[ 2018-01-18T22:18:43+08:00 ] 116.234.208.62 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000329s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) /phpstudy/www/bigfinance.yomibank.com/Application/Home/Controller/IndexController.class.php 第 344 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000117s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000165s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009230s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009265s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000128s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000157s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000310s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000343s ]
+
+[ 2018-01-18T22:18:52+08:00 ] 116.234.208.62 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000293s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000333s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) /phpstudy/www/bigfinance.yomibank.com/Application/Home/Controller/IndexController.class.php 第 344 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000115s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000157s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009182s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009231s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000100s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000129s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000311s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000342s ]
+
+[ 2018-01-18T22:19:26+08:00 ] 223.104.212.203 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000290s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000330s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) /phpstudy/www/bigfinance.yomibank.com/Application/Home/Controller/IndexController.class.php 第 344 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000156s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000206s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009705s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009744s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000104s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000130s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000324s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000358s ]
+
+[ 2018-01-18T22:19:35+08:00 ] 223.104.212.203 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000337s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000378s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) /phpstudy/www/bigfinance.yomibank.com/Application/Home/Controller/IndexController.class.php 第 344 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000125s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000170s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009263s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009295s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000125s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000151s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000314s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000346s ]
+
+[ 2018-01-18T22:19:42+08:00 ] 121.51.32.144 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000374s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000413s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) /phpstudy/www/bigfinance.yomibank.com/Application/Home/Controller/IndexController.class.php 第 344 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000144s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000199s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009372s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009408s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000107s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000134s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000343s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000380s ]
+
+[ 2018-01-18T22:20:12+08:00 ] 223.104.212.203 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000329s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000376s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) /phpstudy/www/bigfinance.yomibank.com/Application/Home/Controller/IndexController.class.php 第 344 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000123s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000171s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009402s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009439s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000102s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000128s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000343s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000380s ]
+
+[ 2018-01-18T22:20:12+08:00 ] 223.104.212.203 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000286s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000323s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) /phpstudy/www/bigfinance.yomibank.com/Application/Home/Controller/IndexController.class.php 第 344 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000121s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000166s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009300s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009333s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000120s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000145s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000311s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000342s ]
+
+[ 2018-01-18T22:20:26+08:00 ] 120.204.17.73 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000282s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000319s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) /phpstudy/www/bigfinance.yomibank.com/Application/Home/Controller/IndexController.class.php 第 344 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000123s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000174s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009247s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009284s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000106s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000134s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000315s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000351s ]
+
+[ 2018-01-18T22:20:30+08:00 ] 101.226.225.86 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000322s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000364s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) /phpstudy/www/bigfinance.yomibank.com/Application/Home/Controller/IndexController.class.php 第 344 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000124s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000173s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009915s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009954s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000110s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000135s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000353s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000388s ]
+
+[ 2018-01-18T22:20:38+08:00 ] 101.226.225.86 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000325s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000364s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) /phpstudy/www/bigfinance.yomibank.com/Application/Home/Controller/IndexController.class.php 第 344 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000118s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000161s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009249s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009279s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000101s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000124s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000349s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000382s ]
+
+[ 2018-01-18T22:20:48+08:00 ] 223.104.212.203 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000297s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000334s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) /phpstudy/www/bigfinance.yomibank.com/Application/Home/Controller/IndexController.class.php 第 344 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000086s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000132s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009064s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009098s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000102s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000128s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000345s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000380s ]
+
+[ 2018-01-18T22:20:48+08:00 ] 223.104.212.203 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000292s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000326s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) /phpstudy/www/bigfinance.yomibank.com/Application/Home/Controller/IndexController.class.php 第 344 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000126s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009014s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009045s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000116s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000142s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000297s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000420s ]
+
+[ 2018-01-18T22:21:19+08:00 ] 223.104.212.203 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000295s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000336s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) /phpstudy/www/bigfinance.yomibank.com/Application/Home/Controller/IndexController.class.php 第 344 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000123s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000169s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009393s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009429s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000195s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000226s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000345s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000379s ]
+
+[ 2018-01-18T22:21:20+08:00 ] 223.104.212.203 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000289s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000329s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) /phpstudy/www/bigfinance.yomibank.com/Application/Home/Controller/IndexController.class.php 第 344 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000146s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000193s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009338s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009369s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000102s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000126s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000320s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000384s ]
+
+[ 2018-01-18T22:22:08+08:00 ] 116.234.208.62 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000286s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000326s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) /phpstudy/www/bigfinance.yomibank.com/Application/Home/Controller/IndexController.class.php 第 344 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000121s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000170s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009257s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009293s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000100s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000126s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000320s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000354s ]
+
+[ 2018-01-18T22:22:08+08:00 ] 116.234.208.62 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000289s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000327s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) /phpstudy/www/bigfinance.yomibank.com/Application/Home/Controller/IndexController.class.php 第 344 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000121s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000166s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009337s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009368s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000137s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000164s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000310s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000341s ]
+
+[ 2018-01-18T22:24:59+08:00 ] 223.104.212.203 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000389s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000427s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) /phpstudy/www/bigfinance.yomibank.com/Application/Home/Controller/IndexController.class.php 第 344 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000107s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000141s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008958s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008993s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000129s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000198s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000288s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000318s ]
+
+[ 2018-01-18T22:24:59+08:00 ] 223.104.212.203 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000278s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000315s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) /phpstudy/www/bigfinance.yomibank.com/Application/Home/Controller/IndexController.class.php 第 344 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000105s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000137s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009030s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009061s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000125s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000150s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000280s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000310s ]
+
+[ 2018-01-18T22:33:18+08:00 ] 223.104.212.203 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000363s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000403s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) /phpstudy/www/bigfinance.yomibank.com/Application/Home/Controller/IndexController.class.php 第 344 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000117s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000161s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009254s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009290s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000112s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000141s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000355s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000389s ]
+
+[ 2018-01-18T22:33:19+08:00 ] 223.104.212.203 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000304s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000342s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) /phpstudy/www/bigfinance.yomibank.com/Application/Home/Controller/IndexController.class.php 第 344 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000123s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000173s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009433s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009490s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000111s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000136s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000341s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000373s ]
+
+[ 2018-01-18T22:33:35+08:00 ] 223.104.212.203 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000309s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000350s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) /phpstudy/www/bigfinance.yomibank.com/Application/Home/Controller/IndexController.class.php 第 344 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000119s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000179s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009417s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009453s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000098s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000123s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000334s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000368s ]
+
+[ 2018-01-18T22:33:36+08:00 ] 223.104.212.203 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000302s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000345s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) /phpstudy/www/bigfinance.yomibank.com/Application/Home/Controller/IndexController.class.php 第 344 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000143s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000187s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009268s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009300s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000094s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000117s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000315s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000421s ]
+
+[ 2018-01-18T22:34:43+08:00 ] 223.104.212.203 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000287s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000329s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) /phpstudy/www/bigfinance.yomibank.com/Application/Home/Controller/IndexController.class.php 第 344 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000138s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000185s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009264s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009301s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000100s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000126s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000319s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000355s ]
+
+[ 2018-01-18T22:34:43+08:00 ] 223.104.212.203 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000277s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000330s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) /phpstudy/www/bigfinance.yomibank.com/Application/Home/Controller/IndexController.class.php 第 344 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000116s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000157s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009180s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009210s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000097s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000119s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000307s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000339s ]
+
+[ 2018-01-18T22:35:14+08:00 ] 223.104.212.203 /?from=groupmessage&isappinstalled=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000292s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000336s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) /phpstudy/www/bigfinance.yomibank.com/Application/Home/Controller/IndexController.class.php 第 344 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000123s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000180s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009438s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009477s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000163s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000192s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000334s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000370s ]
+
+[ 2018-01-18T22:35:14+08:00 ] 223.104.212.203 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 60 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 61 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 70 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 71 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 78 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 79 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 80 行.
+NOTIC: [8] Use of undefined constant DOC_ROOT - assumed 'DOC_ROOT' /phpstudy/www/bigfinance.yomibank.com/Application/Home/Conf/config.php 第 84 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000322s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::success() should be compatible with Think\Controller::success($message = '', $jumpUrl = '', $ajax = false) /phpstudy/www/bigfinance.yomibank.com/Application/Home/Controller/IndexController.class.php 第 344 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000119s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000191s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009267s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009299s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000097s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000136s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000346s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000380s ]
+

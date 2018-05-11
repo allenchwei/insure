@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>出行意外保障</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+    <meta content="telephone=no" name="format-detection" />
+    <link rel="stylesheet" href="__PUBLIC__/act/css/app-09b7fb7fbf.css">
+    <link rel="stylesheet" href="__PUBLIC__/act/css/popup.css">
+    <!-- <script type="text/javascript" src="https://www.newtank.cn/newtank/act/base/js/trackEvent.min.js?599aa83ee4b06df7265de4f7"></script> -->
+    <style type="text/css">
+        .ct_1 .ct_2_btn .button{width:100%;text-align:center;height:46px;line-height:46px;background:#ff6233;font-size:15px;font-weight:700;letter-spacing:1px;position:fixed;bottom:0;left:0;color:#fff}
+    </style>
+    <script>
+    </script>
+</head>
+<body id="loan1020">
+    <div class="bodyModel">
+        <form action="{:U('/Act/Index/success')}" method="post" name="reg_testdate">
+            <div class="big_controler ct_1" style="background: #fff;float: left;padding-bottom: 80px;">
+                <div class="ct_2_tit">
+                    <p>完善资料</p>
+                    完善个人信息, 为您推荐更合适的保险产品.
+                </div>
+                <ul class="ct_2_select">
+                    <input type="hidden" name="daikuan_id" value="{$daikuan_id}">
+                    <input type="hidden" name="baoxian_id" value="{$baoxian_id}">
+                    <li class="tit">
+                        1、您的月收入是多少？
+                    </li>
+                    <li class="option">
+                        <label class="label_false">
+                            <input type="radio" value="1" name="monthlySalary">
+                            5000元以下
+                        </label>
+                        <label class="label_false">
+                            <input type="radio" value="2" name="monthlySalary">
+                            5000-10000元
+                        </label>
+                        <label class="label_false">
+                            <input type="radio" value="3" name="monthlySalary">
+                            10000元以上
+                        </label>
+                    </li>
+                    <li class="tit">
+                        2、您的资产状况？
+                    </li>
+                    <li class="option">
+                        <label class="label_false">
+                            <input type="radio" value="1" name="property">
+                            有车有房
+                        </label>
+                        <label class="label_false">
+                            <input type="radio" value="2" name="property">
+                            有车无房
+                        </label>
+                        <label class="label_false">
+                            <input type="radio" value="3" name="property">
+                            无车有房
+                        </label>
+                        <label class="label_false">
+                            <input type="radio" value="4" name="property">
+                            无车无房
+                        </label>
+                    </li>
+                    <li class="tit">
+                        3、请问您是否已有子女？
+                    </li>
+                    <li class="option">
+                        <label class="label_false">
+                            <input type="radio" value="1" name="children">
+                            一个
+                        </label>
+                        <label class="label_false">
+                            <input type="radio" value="2" name="children">
+                            两个或以上
+                        </label>
+                        <label class="label_false">
+                            <input type="radio" value="3" name="children">
+                            没有
+                        </label>
+                    </li>
+                    <li class="tit">
+                        4、请问您平时与家人出游多以什么方式？
+                    </li>
+                    <li class="option">
+                        <label class="label_false">
+                            <input type="radio" value="1" name="tourism">
+                            自驾
+                        </label>
+                        <label class="label_false">
+                            <input type="radio" value="2" name="tourism">
+                            火车或公交
+                        </label>
+                        <label class="label_false">
+                            <input type="radio" value="3" name="tourism">
+                            飞机
+                        </label>
+                    </li>
+                    <li class="tit">
+                        5、如果让您选择您更倾向于哪种商业保障？
+                    </li>
+                    <li class="option">
+                        <label class="label_false">
+                            <input type="radio" value="1" name="guarantee">
+                            意外保障
+                        </label>
+                        <label class="label_false">
+                            <input type="radio" value="2" name="guarantee">
+                            重疾保障
+                        </label>
+                        <label class="label_false">
+                            <input type="radio" value="3" name="guarantee">
+                            医疗保障
+                        </label>
+                    </li>
+                    <li class="tit">
+                        6、您的期望保障金额是？
+                    </li>
+                    <li class="option">
+                        <label class="label_false">
+                            <input type="radio" value="1" name="money">
+                            10万
+                        </label>
+                        <label class="label_false">
+                            <input type="radio" value="2" name="money">
+                            20万
+                        </label>
+                        <label class="label_false">
+                            <input type="radio" value="3" name="money">
+                            30万
+                        </label>
+                        <label class="label_false">
+                            <input type="radio" value="4" name="money">
+                            50万
+                        </label>
+                    </li>
+                    <li class="tit">
+                        7、您目前是否已有在效保单？
+                    </li>
+                    <li class="option">
+                        <label class="label_false">
+                            <input type="radio" value="1" name="policy">
+                            有
+                        </label>
+                        <label class="label_false">
+                            <input type="radio" value="2" name="policy">
+                            无
+                        </label>
+                    </li>
+                    <li class="tit">
+                        8、缴费方式
+                    </li>
+                    <li class="option">
+                        <label class="label_false">
+                            <input type="radio" value="1" name="pay">
+                            年缴
+                        </label>
+                    </li>
+                </ul>
+                <!-- <div class="ct_2_btn">
+                    <input type="submit" name="" value="提交信息">提交信息
+                    <button type="submit" name="">提交信息</button>
+                </div> -->
+                <button type="submit" style="width: 0px;padding: 0;float: left;margin-left: -95%;margin-top: -180%">
+                    <div class="ct_2_btn" style="float: left">
+                        提交信息
+                    </div>
+                </button>
+            </div>
+        </form>
+    </div>
+    <script src="__PUBLIC__/daikuan/js/lib-f7f4977d09.js"></script>
+    <script src="__PUBLIC__/daikuan/js/jquery-popup.js"></script>
+    <script src="__PUBLIC__/act/js/app-f5a8060710.js"></script>
+    <script src="__PUBLIC__/daikuan/js/indexController-dfaccaf046.js"></script>
+</body>
+</html>

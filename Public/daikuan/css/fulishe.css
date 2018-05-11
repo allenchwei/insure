@@ -1,0 +1,410 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: 0;
+}
+
+ul li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:active {
+    outline: 0;
+}
+
+img {
+    max-width: 100%;
+    border: 0;
+}
+
+button,
+html,
+input,
+textarea {
+    font-family: 'Helvetica Neue', Helvetica, Hiragino Sans GB, 'Microsoft Yahei', STHeiTi, Arial, sans-serif;
+    font-weight: normal;
+}
+
+button,
+input,
+textarea {
+    border: none;
+    margin: 0;
+}
+
+body {
+    font-size: 12px;
+    line-height: 1;
+    overflow-x: hidden;
+    width: 100%;
+    max-width: 640px;
+    margin: 0 auto;
+    color: #333;
+    background-color: #f0f0f0;
+    background-image: url("../img/main.jpg")/*tpa=http://kyzp.dsh178.com/style/img/main.jpg*/;
+    background-repeat: repeat-y;
+    background-size: 100%;
+}
+
+/*.fls_banner {
+    width: 100%;
+    height: 2.519542rem;
+    padding-top: .3691422rem;
+    background-image: url(../img/bg.png);
+    background-size: 100% 100%;
+}
+
+.fls_banner .fls_bannerpic_top {
+    background-image: url(../img/topbg21.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: .6093776rem;
+}
+
+.fls_banner .fls_bannerpic_con {
+    overflow: hidden;
+    position: absolute;
+    left: .117188rem;
+    width: 3.51564rem;
+    height: 1.640632rem;
+    margin: .1289068rem auto;
+    border-radius: .05rem;
+}
+
+.fls_banner .fls_bannerpic_con img {
+    width: 100%;
+    height: 100%;
+}*/
+
+.a_banner {
+    width: 100%;
+    height: 2.68rem;
+    background: url("../img/bannerbg.png")/*tpa=http://kyzp.dsh178.com/style/img/bannerbg.png*/ no-repeat center;
+    background-size: 100% 100%;
+    padding-top: .1rem;
+    position: relative;
+}
+
+.banner {
+    width: 3.575rem;
+    height: 2.58rem;
+    background: url("../img/banner_02.png")/*tpa=http://kyzp.dsh178.com/style/img/banner_02.png*/ no-repeat center;
+    background-size: 100% 100%;
+    margin: 0 auto;
+}
+
+.bimg {
+    /*width: 3.3rem;
+    height: 1.9rem;
+    margin:0 auto;
+    overflow: hidden;*/
+    padding: .475rem .14rem .705rem .14rem;
+}
+.bimg a{
+    display: block;
+}
+.bimg img {
+    width: 100%;
+    /*margin: .47rem 0;*/
+}
+
+.leavel {
+    width: .443rem;
+    height: .165rem;
+    background: url("../img/leavel.png")/*tpa=http://kyzp.dsh178.com/style/img/leavel.png*/ no-repeat center;
+    background-size: 100% 100%;
+    position: absolute;
+    top: .025rem;
+    left: -2px;
+}
+
+.leaver {
+    width: .37rem;
+    height: .47rem;
+    background: url("../img/leaver.png")/*tpa=http://kyzp.dsh178.com/style/img/leaver.png*/ no-repeat center;
+    background-size: 100% 100%;
+    position: absolute;
+    top: 0.06rem;
+    right: -2px;
+    z-index: 2;
+}
+
+.cloud1 {
+    width: .34rem;
+    height: .19rem;
+    background: url("../img/cloud1.png")/*tpa=http://kyzp.dsh178.com/style/img/cloud1.png*/ no-repeat center;
+    background-size: 100% 100%;
+    position: absolute;
+    top: 0.09rem;
+    left: .76rem;
+    animation: cloud1 5s ease-in-out infinite alternate;
+    -webkit-animation: cloud1 5s ease-in-out infinite alternate;
+}
+
+@-webkit-keyframes cloud1 {
+    0% {
+        -webkit-transform: translate3d(5px, 0, 0);
+    }
+    100% {
+        -webkit-transform: translate3d(0, 5px, 0);
+    }
+}
+
+.cloud2 {
+    width: .365rem;
+    height: .21rem;
+    background: url("../img/cloud2.png")/*tpa=http://kyzp.dsh178.com/style/img/cloud2.png*/ no-repeat center;
+    background-size: 100% 100%;
+    position: absolute;
+    top: .16rem;
+    right: .24rem;
+    animation: cloud2 5s ease-in-out infinite alternate;
+    -webkit-animation: cloud2 5s ease-in-out infinite alternate;
+}
+
+@-webkit-keyframes cloud2 {
+    0% {
+        -webkit-transform: translate3d(0, 5px, 0);
+    }
+    100% {
+        -webkit-transform: translate3d(5px, 0, 0);
+    }
+}
+
+.hb1 {
+    width: .18rem;
+    height: .18rem;
+    background: url("../img/hb5.png")/*tpa=http://kyzp.dsh178.com/style/img/hb5.png*/ no-repeat center;
+    background-size: 100% 100%;
+    position: absolute;
+    top: 1rem;
+    left: 5px;
+    animation: hb 3s linear infinite alternate;
+    -webkit-animation: hb 3s linear infinite alternate;
+}
+
+@-webkit-keyframes hb {
+    0% {
+        -webkit-transform: translate(5px, 1px);
+    }
+    100% {
+        -webkit-transform: translate(2px, 5px);
+    }
+}
+
+.hb2 {
+    width: .14rem;
+    height: .19rem;
+    background: url("../img/hb1.png")/*tpa=http://kyzp.dsh178.com/style/img/hb1.png*/ no-repeat center;
+    background-size: 100% 100%;
+    position: absolute;
+    bottom: .12rem;
+    left: .1rem;
+    animation: hb 3s linear infinite alternate;
+    -webkit-animation: hb 3s linear infinite alternate;
+}
+
+.hb3 {
+    width: .18rem;
+    height: .12rem;
+    background: url("../img/hb4.png")/*tpa=http://kyzp.dsh178.com/style/img/hb4.png*/ no-repeat center;
+    background-size: 100% 100%;
+    position: absolute;
+    bottom: .12rem;
+    right: 1.53rem;
+    animation: hb 3s linear infinite alternate;
+    -webkit-animation: hb 3s linear infinite alternate;
+}
+
+.hb4 {
+    width: .27rem;
+    height: .21rem;
+    background: url("../img/hb4.png")/*tpa=http://kyzp.dsh178.com/style/img/hb4.png*/ no-repeat center;
+    background-size: 100% 100%;
+    position: absolute;
+    bottom: .43rem;
+    right: .06rem;
+    animation: hb 3s linear infinite alternate;
+    -webkit-animation: hb 3s linear infinite alternate;
+}
+
+.hb5 {
+    width: .27rem;
+    height: .21rem;
+    background: url("../img/hb3.png")/*tpa=http://kyzp.dsh178.com/style/img/hb3.png*/ no-repeat center;
+    background-size: 100% 100%;
+    position: absolute;
+    bottom: .14rem;
+    right: .9rem;
+    animation: hb 3s linear infinite alternate;
+    -webkit-animation: hb 3s linear infinite alternate;
+}
+
+.coin {
+    width: .475rem;
+    height: .275rem;
+    background: url("../img/coin.png")/*tpa=http://kyzp.dsh178.com/style/img/coin.png*/ no-repeat center;
+    background-size: 100% 100%;
+    position: absolute;
+    bottom: 0.1rem;
+    right: .215rem;
+}
+
+.fls_active_01 {
+    background-image: url("../img/top_bg_01.jpg")/*tpa=http://kyzp.dsh178.com/style/img/top_bg_01.jpg*/;
+    background-size: 100% 100%;
+}
+
+.title {
+    font-size: .19rem;
+    line-height: .410158rem;
+    height: .410158rem;
+    text-align: center;
+    color: #530602;
+}
+
+.fls_active_01 .recommend-container {
+    margin: 0 .117188rem;
+    overflow: hidden;
+}
+
+.fls_active_01 .recommend-container .recommend-li:nth-child(1),
+.fls_active_01 .recommend-container .recommend-li:nth-child(2) {
+    margin-top: .117188rem;
+}
+.fls_active_01 .recommend-container .recommend-li:nth-child(odd) {
+    float: left;
+    margin-left: 2%;
+}
+.fls_active_01 .recommend-container .recommend-li:nth-child(even) {
+    float: right;
+    margin-right: 2%;
+}
+
+.fls_active_01 .recommend-container .recommend-li {
+    float: left;
+    display: inline-block;
+    overflow: hidden;
+    width: 47.2%;
+    margin: .05rem 0;
+    border-radius: 0 8px 8px;
+    background: #fff;
+}
+
+.fls_active_01 .recommend-box {
+    position: relative;
+    padding: .058594rem .1933602rem;
+}
+
+.fls_active_01 .recommend-title {
+    font-size: .117188rem;
+    overflow: hidden;
+    padding: .058594rem 0;
+    text-align: center;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    background-color: #e4e4e4;
+    color: #333;
+}
+
+.fls_active_01 .recommend-box:before {
+    position: absolute;
+    z-index: 77;
+    top: 0;
+    left: 0;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    border-top: .410158rem solid #008aff;
+    border-right: .410158rem solid transparent;
+    content: '';
+    background-size: 100% 100%;
+}
+
+.fls_active_01 .recommend-box .index {
+    font-size: .16rem;
+    font-weight: 700;
+    position: absolute;
+    z-index: 88;
+    left: .058594rem;
+    top: .058594rem;
+    color: #fff;
+}
+
+.fls_active_01 .recommend-box .recommend-img {
+    position: relative;
+    z-index: 76;
+}
+
+.fls_active_02 .title {
+    background-image: url("../img/title1.jpg")/*tpa=http://kyzp.dsh178.com/style/img/title1.jpg*/;
+    background-size: cover;
+    width: 3.75rem;
+    height: .75rem;
+}
+
+.fls_active_02 .activity-list {
+    background-color: #84d4ff;
+    border: .04804708rem solid #3db0fe;
+    border-top: none;
+}
+
+.fls_active_02 .activity-li {
+    overflow: hidden;
+    margin: 0 .117188rem .058594rem;
+    border-radius: 6px;
+    background: #fff;
+}
+
+.fls_active_02 .activity-box {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    padding: .0761722rem .117188rem;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+
+.fls_active_02 .activity-title {
+    font-size: .13rem;
+    color: #333333;
+}
+
+.fls_active_02 .activity-box button {
+    font-size: .12rem;
+    padding: .0468752rem .1289068rem;
+    color: #fff;
+    border-radius: 5px;
+    background: #007ae2;
+}
+
+.fls_active_03 .title {
+    background-image: url("../img/title2.png")/*tpa=http://kyzp.dsh178.com/style/img/title2.png*/;
+    background-size: cover;
+    width: 3.75rem;
+    height: .75rem;
+}
+
+.fls_active_03 .activity-list {
+    background-color: #84d4ff;
+    border: .04804708rem solid #3db0fe;
+    border-top: none;
+}
+
+.fls_active_03 .activity-li {
+    overflow: hidden;
+    margin: 0 .0937504rem .0937504rem;
+    border-radius: 6px;
+}

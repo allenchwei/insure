@@ -1,0 +1,501 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>出行意外保障</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+    <meta content="telephone=no" name="format-detection" />
+    <!-- <link rel="stylesheet" href="__PUBLIC__/daikuan/css/app-09b7fb7fbf.css"> -->
+    <!-- <link rel="stylesheet" href="__PUBLIC__/daikuan/css/popup.css"> -->
+    <link rel="stylesheet" href="__PUBLIC__/act/css/app-43cd81d974.css">
+    <link rel="stylesheet" href="__PUBLIC__/act/css/popup.css">
+    <!-- <script src="https://hm.baidu.com/hm.js"></script> -->
+    <!-- <script type="text/javascript" src="__PUBLIC__/act/js/trackEvent.min.js"></script> -->
+    <style>
+    .tab_li {
+        width: 100%;
+        height: 30px;
+    }
+
+    .tab_li p {
+        padding: 0 3px;
+        text-align: center;
+        line-height: 25px;
+        border-top: solid 1px #f05d55;
+        border-left: solid 1px #f05d55;
+        border-right: solid 1px #f05d55;
+        background: #fff7f7;
+        font-size: 12px;
+        color: #959595;
+        border-radius: 6px 6px 0 0;
+        border-left: none;
+        float: left;
+        line-height: 30px;
+    }
+
+    .tab_li p:first-child {
+        border-left: solid 1px #f05d55;
+    }
+
+    #tab_true {
+        border-top: solid 1px #f05d55;
+        border-left: solid 1px #f05d55;
+        border-right: solid 1px #f05d55;
+        background: #f05d55;
+        color: #fff;
+    }
+
+    .c_plan_detail table {
+        width: 100%;
+        border-collapse: collapse;
+        border: solid 1px #f05d55;
+        margin-bottom: 25px;
+        margin-top: 1px;
+        display: none;
+    }
+
+    .c_plan_detail table tr:nth-child(odd) {
+        background: #fff7f7;
+    }
+
+    .c_plan_detail table tr:nth-child(even) {
+        background: #ffeae9;
+    }
+
+    .c_plan_detail table td,
+    th {
+        color: #333;
+        font-size: 12px;
+        padding: 5px 0;
+        line-height: 16px;
+        text-align: center;
+        min-width: 60px;
+        width: inherit;
+    }
+
+    .c_plan_detail table td p {
+        width: 95%;
+        margin: 0px auto;
+        text-align: left;
+    }
+
+    .c_plan_detail table td p span {
+        float: right;
+    }
+
+    .c_plan_detail table:first-child {
+        display: -webkit-box;
+    }
+    </style>
+</head>
+
+<body id="bxm0731" class="ddhb_1">
+    <div class="bodyModel">
+        <img src="__PUBLIC__/act/images/ddhb_1/banner.png" class="banner">
+        <div class="ins_detail">
+            <!-- <p onclick='planShow();'></p> -->
+        </div>
+        <div class="save">
+            <div class="save_tit">
+                完善信息<i></i>领取福利
+                <span>*郑重承诺: 我们将严格遵守信息保密制度*</span>
+            </div>
+            <form action="{:U('/Act/Index/index_submit')}" method="post">
+                <ul class="save_info">
+                    <input type="hidden" name="submit" value="index">
+                    <li>
+                        <span>姓名</span>
+                        <input type="text" placeholder="请输入姓名" name="name" />
+                    </li>
+                    <input type="hidden" value="{$home['CHANNEL_MAP_ID']}" name="channel_map_id" />
+                    <li>
+                        <span>身份证号</span>
+                        <!-- <input type="date" value="1985-01-01" name="birth" id="birth"/> -->
+                        <input type='text' name="idCard" placeholder='您的信息将被严格保密' maxlength="18" />
+                    </li>
+                    <!-- <li class="info_li">
+                    <p>贷款金额</p>
+                    <select onfocus="(this.style.color = '#333')" name="loanAomunt">
+                        <option value="" disabled selected style='display:none;color:#999'>请选择贷款金额</option>
+                        <option value="1">3万以下</option>
+                        <option value="2">3-5万</option>
+                        <option value="3">5-10万</option>
+                        <option value="4">10-20万</option>
+                        <option value="5">20万以上</option>
+                    </select>
+                </li> -->
+                    <li>
+                        <span>手机</span>
+                        <input type="tel" maxLength="11" placeholder="请输入手机号" name="mobile" onfocus="$('#captcha').show()" />
+                    </li>
+                    <li>
+                        <span>验证码</span>
+                        <input type="tel" maxLength="6" placeholder="请输入验证码" name="captcha" />
+                        <e class="sendCode" onclick="getCaptcha(this,{'color':'#c0a062', 'background' : 'none'})">获取验证码</e>
+                    </li>
+                    <li class="check" style="width: 270px;">
+                        <label onclick="check(this)">
+                            <em></em>
+                            <input type="checkbox" name="safeInstruct" checked='checked' />我确认了解本次
+                        </label>
+                        <i onclick='show({"content" : $("#rule")});'>活动规则</i>和
+                        <i onclick='show({"content" : $("#info")});'>信息安全说明</i>
+                        <e>*保险工作人员会致电向您解释产品详情</e>
+                    </li>
+                    <li>
+                        <input type="submit" style="background-image: url(__PUBLIC__/act/images/ddhb_1/btn.png);" value="&nbsp;" />
+                    </li>
+                </ul>
+            </form>
+        </div>
+        <div class="insranceDetail">
+            <p class="bg_titile">
+                保险详情
+            </p>
+            <div class="tab_li">
+                <p alt="v_zy_lxys" id="tab_true" class="v_zy_lxys_p" onclick="v_zy_lxys_click()">中英人寿</p>
+                <p alt="ddh_jtzhyw_a" class="ddh_jtzhyw_a_p" onclick="ddh_jtzhyw_click()">大都会保险</p>
+                <p alt="taiping_bwxwy" class="taiping_bwxwy_p" onclick="taiping_bwxwy_click()">太平人寿</p>
+                <p alt="huaxia_yiwai" class="huaxia_yiwai_p" onclick="huaxia_yiwai_click()">华夏保险</p>
+                <p alt="tk_lxwy" class="tk_lxwy_p" onclick="tk_lxwy_click()">泰康人寿</p>
+                <p alt="yangguang" class="yangguang_p" onclick="yangguang_click()">阳光人寿</p>
+            </div>
+            <div class="detail">
+                <table id="v_zy_lxys">
+                    <tbody>
+                        <tr>
+                            <td colspan="3">
+                                <p>适用年龄: 25-50周岁<span>保障期限: 90天</span></p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <th>保障名称</th>
+                            <th>保障责任</th>
+                            <th>最高保额</th>
+                        </tr>
+                        <tr>
+                            <td rowspan="4">交通意外伤害保险</td>
+                            <td>乘飞机意外保障</td>
+                            <td>20万</td>
+                        </tr>
+                        <tr>
+                            <td>乘轨道交通意外保障</td>
+                            <td>20万</td>
+                        </tr>
+                        <tr>
+                            <td>乘坐商业运营汽车意外保障</td>
+                            <td>20万</td>
+                        </tr>
+                        <tr>
+                            <td>乘坐非营运汽车意外保障</td>
+                            <td>20万</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <table style="display: none" id="ddh_jtzhyw_a">
+                    <tbody>
+                        <tr>
+                            <td colspan="3">
+                                <p>适用年龄: 25-50周岁<span>保障期限: 30天</span></p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <th>保障名称</th>
+                            <th>保障责任</th>
+                            <th>最高保额</th>
+                        </tr>
+                        <tr>
+                            <td rowspan="3">交通综合意外保险产品计划</td>
+                            <td>水陆公共交通意外身故+意外伤残</td>
+                            <td>10万元+1万元</td>
+                        </tr>
+                        <tr>
+                            <td>航空意外身故+意外伤残</td>
+                            <td>100万元+10万元</td>
+                        </tr>
+                        <tr>
+                            <td>自驾（驾驶+乘坐）意外身故+意外伤残</td>
+                            <td>10万元+1万元</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <table style="display: none" id="taiping_bwxwy"><tbody><tr><td colspan="3"><p>适用年龄: 22-48周岁<span>保障期限: 90天</span></p></td></tr><tr><th>保障名称</th><th>保障责任</th><th>最高保额</th></tr><tr><td rowspan="3">太平无忧意外伤害保险</td><td>客运机动车意外保障</td><td>1万元</td></tr><tr><td>客运列车或客运轮船意外保障</td><td>1万元</td></tr><tr><td>飞机意外保障</td><td>8万元</td></tr></tbody></table>
+                <table style="display: none" id="huaxia_yiwai"><tbody><tr><td colspan="3"><p>适用年龄: 25-50周岁<span>保障期限: 3个月</span></p></td></tr><tr><th>保障名称</th><th>保障责任</th><th>最高保额</th></tr><tr><td rowspan="3">华夏自由行公共交通意外伤害保险</td><td>飞机意外保障</td><td>20万</td></tr><tr><td>公共汽车、出租车意外保障</td><td>3万</td></tr><tr><td>地铁、火车、轻轨、轮船意外保障</td><td>5万</td></tr></tbody></table>
+                <table style="display: none" id="tk_lxwy"><tbody><tr><td colspan="3"><p>适用年龄: 25-50周岁<span>保障期限: 90天</span></p></td></tr><tr><th>保障名称</th><th>保障责任</th><th>最高保额</th></tr><tr><td rowspan="3">乐行无忧</td><td>飞机意外保障</td><td>20万</td></tr><tr><td>火车、地铁、轻轨、轮船意外保障</td><td>10万</td></tr><tr><td>市内公共汽/电车、长途公共汽车、旅行社客车、机场公共汽车及出租车意外保障</td><td>5万元</td></tr></tbody></table>
+                <table style="display: none" id="yangguang_renshou">
+                    <tbody>
+                        <tr>
+                            <td colspan="3">
+                                <p>适用年龄: 25-55周岁<span>保障期限: 1个月</span></p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <th>保障名称</th>
+                            <th>保障责任</th>
+                            <th>最高保额</th>
+                        </tr>
+                        <tr>
+                            <td rowspan="4">阳光人寿出行无忧意外伤害保险</td>
+                            <td>坐飞机期间意外伤害保障</td>
+                            <td>10万</td>
+                        </tr>
+                        <tr>
+                            <td>乘坐火车、地铁、轻轨、有轨电车、磁悬浮列车期间意外伤害</td>
+                            <td>2万</td>
+                        </tr>
+                        <tr>
+                            <td>乘坐轮船期间意外伤害保障</td>
+                            <td>2万</td>
+                        </tr>
+                        <tr>
+                            <td>乘坐商业运营的汽车期间意外伤害保障</td>
+                            <td>2万</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div class="adDetail">
+            <p class="bg_titile">
+                合作伙伴
+            </p>
+            <ul class="companyImg">
+                <li><img src="__PUBLIC__/act/images/logo/zhongying.png"></li>
+                <li><img src="__PUBLIC__/act/images/logo/daduhui.png"></li>
+                <li><img src="__PUBLIC__/act/images/logo/taiping.png"></li>
+                <li><img src="__PUBLIC__/act/images/logo/huaxia.png"></li>
+                <li><img src="__PUBLIC__/act/images/logo/taikang.png"></li>
+                <!-- <li><img src="__PUBLIC__/act/images/logo/taikang.png"></li> -->
+                <li><img src="__PUBLIC__/act/images/logo/yangguang.png"></li>
+            </ul>
+        </div>
+        <div class="adDetail_txt">
+            *提示: 根据您的地区, 我们会为您匹配以上品牌中的其中一款赠险产品
+        </div>
+        <div class="foot companyCopyright">
+        </div>
+        <div id='rule'>
+            <img src="__PUBLIC__/act/images/duiba1216/close.png" tppabs="http://wap.newtank.cn/newtank/images/duiba1216/close.png" class='close' onclick='popup.closeAll()'>
+            <div class='box_tit'>
+                活动规则
+            </div>
+            <div class='rule_detail'>
+                <p><i>1</i>投保对象</p>
+                <div>本保险身故受益人为法定受益人。本保险的保险对象要求身体健康、能正常工作或正常生活的自然人。</div>
+                <p><i>2</i>保险期限</p>
+                <div>以被保险人收到短信通知上的保险起止日期为准。对保险日期之外所发生的保障事故保险公司不负责给付保险责任。</div>
+                <p><i>3</i>使用条款</p>
+                <div>详情内容请登录保险公司官网网站查询。</div>
+                <p><i>4</i>告知义务</p>
+                <div>依我国《保险法》的规定，投保人、被保险人应如实告知，否则保险人有权依法解除保险合同，并对于保险合同解除前发生的保险事故不负任何责任。
+                    <br/>投保人、被保险人在投保时，应对投保书内各项内容如实详细的说明或填写清楚。否则，保险人有权依法解除保险合同。</div>
+                <p><i>5</i>保险判定流程</p>
+                <div>根据用户所填写的资料后台自动匹配最适合用户的保险为期进行投保。</div>
+                <p><i>6</i>赠险赞助商</p>
+                <div>相关赠险由中国平安、太平人寿、大都会、华夏人寿、泰康人寿、中英人寿、阳光人寿友情赞助。之后可能会收到保险代理人电话落实赠险生效事宜。</div>
+                <p><i>7</i>保险凭证</p>
+                <div>保险公司对保险仅提供电子保单；赠送保险每人只能投保一份，重复或投保多分无效。</div>
+                <p><i>8</i>致电我们</p>
+                <div>如对本活动有疑问及建议请拨打【<i class="companyMobile">400-960-9190</i>】进行咨询（<i class="workTime">工作日9:30至17:30</i>）；
+                    <br/>如对赠险内容及理赔有疑问请拨打相关保险公司客服电话进行咨询</div>
+                <p><i>9</i>活动</p>
+                <div>成功领取赠险的用户可获得最高100元滴滴红包。</div>
+            </div>
+        </div>
+        <div id='info'>
+            <img src="__PUBLIC__/act/images/duiba1216/close.png" tppabs="http://wap.newtank.cn/newtank/images/duiba1216/close.png" class='close' onclick='popup.closeAll()'>
+            <div class='box_tit'>
+                信息安全说明
+            </div>
+            <div class='info_c'>
+                <p>
+                    本人授权保险公司，除法律另有规定之外，将本人提供给保险公司的信息、享受保险公司服务产生的信息（包括本〔单证〕签署之前提供和产生的信息）以及保险公司根据本条约定查询、收集的信息，用于保险公司及其因服务必要委托的合作伙伴为本人提供服务、推荐产品、开展市场调查与信息数据分析。
+                </p>
+                <p>
+                    本人授权保险公司，除法律另有规定之外，基于为本人提供更优质服务和产品的目的，向保险公司因服务必要开展合作的伙伴提供、查询、收集本人的信息。为确保本人信息的安全，保险公司及其合作伙伴对上述信息负有保密义务，并采取各种措施保证信息安全。
+                </p>
+                <p>
+                    本条款自本〔单证〕签署时生效，具有独立法律效力 , 不受合同成立与否及效力状态变化的影响。
+                </p>
+            </div>
+        </div>
+        <div id='questionnaire'>
+            <img src="__PUBLIC__/act/images/duiba1216/close.png" tppabs="http://wap.newtank.cn/newtank/images/duiba1216/close.png" class='close' onclick='popup.closeAll()'>
+            <div class='box_tit'>
+                测保小调研
+            </div>
+            <div class="box_tit_content_tit">
+                <i>5</i>秒完成小调查,以便我们为您提供更完善的服务与保障
+            </div>
+            <div class='questionnaire_content'>
+                <!-- <ul id='question_ul'>
+            </ul> -->
+                <!-- <ul id="question_ul">
+                <li class="ques_tit">1、有钱才能守护更多，您的年收入是？</li>
+                <li class="ques_select ques_type_one">
+                    <label class="ques_select_label"><input type="radio" name="monthlySalary" value="1"> 10万以下</label>
+                    <label class="ques_select_label"><input type="radio" name="monthlySalary" value="2"> 10万-15万</label>
+                    <label class="ques_select_label"><input type="radio" name="monthlySalary" value="3"> 15万以上</label>
+                </li>
+            </ul>
+            <ul id="question_ul">
+                <li class="ques_tit">2、奋斗路上障碍多，目前您最关心？</li>
+                <li class="ques_select ques_type_one">
+                    <label class="ques_select_label"><input type="radio" name="answerIds1" value="1"> 出行安全</label>
+                    <label class="ques_select_label"><input type="radio" name="answerIds1" value="2"> 身体健康</label>
+                    <label class="ques_select_label"><input type="radio" name="answerIds1" value="3"> 养老保障</label>
+                    <label class="ques_select_label"><input type="radio" name="answerIds1" value="4"> 子女教育</label>
+                </li>
+            </ul>
+            <ul id="question_ul">
+                <li class="ques_tit">4、您期望的保障金额是？</li>
+                <li class="ques_select ques_type_one">
+                <span>
+                    <label class="ques_select_label">
+                        <input type="radio" name="answerIds2" value="10">
+                        10万
+                    </label>
+                </span>
+                <span>
+                    <label class="ques_select_label">
+                        <input type="radio" name="answerIds2" value="20">
+                        20万
+                    </label>
+                </span>
+                <span>
+                    <label class="ques_select_label">
+                        <input type="radio" name="answerIds2" value="30">
+                        30万
+                    </label>
+                </span>
+                <span>
+                    <label class="ques_select_label">
+                        <input type="radio" name="answerIds2" value="50">
+                        50万
+                    </label>
+                </span>
+                </li>
+            </ul> -->
+                <ul id="question_ul">
+                    <li class="ques_tit">5、您更倾向的缴费方式为？</li>
+                    <li class="ques_select ques_type_one">
+                        <span>
+                    <label class="">
+                        <input type="radio" name="answerIds3" value="1">
+                        月交
+                    </label>
+                </span>
+                        <span>
+                    <label class="">
+                        <input type="radio" name="answerIds3" value="2">
+                        年交
+                    </label>
+                </span>
+                    </li>
+                </ul>
+                <div class='box_btn'>
+                    <input type='button' value='马上提交' onclick="formSub()" class='box_btn_true' style='margin-top:20px;'>
+                </div>
+            </div>
+        </div>
+    </div>
+    <?php 
+    if (isset($_COOKIE['uid'])) {
+        Add_LOG('index', __FUNCTION__ . ' ' . __LINE__ . ' _COOKIE ' . json_encode($_COOKIE));
+    }else{
+        $sessionid = session_id();
+        Add_LOG('index', __FUNCTION__ . ' ' . __LINE__ . ' sessionid ' . $sessionid);
+        $expire = time() + 60*60*24; // 设置24小时的有效期
+        setcookie("uid", $sessionid, $expire,'/');
+
+        $traceModel = M('trace', C('DAIKUAN_QIANZUI'), C('DAIKUAN_CONTENT'));
+        $channel_map_id = $_SESSION['channel_map_id'];
+        $trace = $traceModel->where("TRACE_PV > 0 and CHANNEL_MAP_ID = $channel_map_id and DATE_TIME >= '".date('Y-m-d',time())." 00:00:00' and DATE_TIME <= '".date('Y-m-d',time())." 23:59:59'")->find();
+        if ($trace) {
+            $update = $traceModel->where("TRACE_PV > 0 and CHANNEL_MAP_ID = $channel_map_id and DATE_TIME >= '".date('Y-m-d',time())." 00:00:00' and DATE_TIME <= '".date('Y-m-d',time())." 23:59:59'")->setInc('TRACE_UV');
+        }
+        Add_LOG('index', __FUNCTION__ . ' ' . __LINE__ . ' trace ' . json_encode($trace));
+        Add_LOG('index', __FUNCTION__ . ' ' . __LINE__ . ' update ' . $update);
+        Add_LOG('index', __FUNCTION__ . ' ' . __LINE__ . ' channelModel ' . $traceModel->getlastsql());
+    }
+    ?>
+    <script src="__PUBLIC__/daikuan/js/lib-f7f4977d09.js"></script>
+    <!-- <script src="__PUBLIC__/daikuan/js/jquery-popup.js"></script> -->
+    <script src="__PUBLIC__/act/js/app-f5a8060710.js"></script>
+    <!-- <script src="__PUBLIC__/daikuan/js/indexController-dfaccaf046.js"></script> -->
+    <!-- <script src="__PUBLIC__/act/js/adverter.js"></script> -->
+    <script src="__PUBLIC__/act/js/lib-f7f4977d09.js" tppabs="http://wap.newtank.cn/newtank/js/lib-f7f4977d09.js"></script>
+    <script src="__PUBLIC__/act/js/jquery-popup.js" tppabs="http://wap.newtank.cn/newtank/lib/popup/jquery-popup.js"></script>
+    <!-- <script src="__PUBLIC__/act/js/app-e20ef9bd43.js" tppabs="http://wap.newtank.cn/newtank/js/app-e20ef9bd43.js"></script> -->
+    <script src="__PUBLIC__/act/js/indexController-9b2587bbfa.js" tppabs="http://wap.newtank.cn/newtank/js/controller/act/ddhb_1/indexController-9b2587bbfa.js"></script>
+    <!-- <script type="text/javascript" src="__PUBLIC__/act/js/effectListen.js" tppabs="https://m.cudaojia.com/dist/effectListen/effectListen.js"></script> -->
+    <script type="text/javascript">
+        function ddh_jtzhyw_click(){
+            $(".tab_li p").removeAttr("id"), $('.ddh_jtzhyw_a_p').attr("id", "tab_true");
+            document.getElementById("v_zy_lxys").style.display = 'none';
+            document.getElementById("taiping_bwxwy").style.display = 'none';
+            document.getElementById("huaxia_yiwai").style.display = 'none';
+            document.getElementById("tk_lxwy").style.display = 'none';
+            document.getElementById("yangguang_renshou").style.display = 'none';
+            document.getElementById("ddh_jtzhyw_a").style.display='block';
+        }
+        function taiping_bwxwy_click(){
+            $(".tab_li p").removeAttr("id"), $('.taiping_bwxwy_p').attr("id", "tab_true");
+            document.getElementById("v_zy_lxys").style.display = 'none';
+            document.getElementById("huaxia_yiwai").style.display = 'none';
+            document.getElementById("tk_lxwy").style.display = 'none';
+            document.getElementById("ddh_jtzhyw_a").style.display='none';
+            document.getElementById("yangguang_renshou").style.display = 'none';
+            document.getElementById("yangguang_renshou").style.display = 'none';
+            document.getElementById("taiping_bwxwy").style.display = '';
+        }
+        function huaxia_yiwai_click(){
+            $(".tab_li p").removeAttr("id"), $('.huaxia_yiwai_p').attr("id", "tab_true");
+            document.getElementById("v_zy_lxys").style.display = 'none';
+            document.getElementById("taiping_bwxwy").style.display = 'none';
+            document.getElementById("tk_lxwy").style.display = 'none';
+            document.getElementById("ddh_jtzhyw_a").style.display='none';
+            document.getElementById("yangguang_renshou").style.display = 'none';
+            document.getElementById("huaxia_yiwai").style.display = 'block';
+        }
+        function tk_lxwy_click(){
+            $(".tab_li p").removeAttr("id"), $('.tk_lxwy_p').attr("id", "tab_true");
+            document.getElementById("v_zy_lxys").style.display = 'none';
+            document.getElementById("taiping_bwxwy").style.display = 'none';
+            document.getElementById("huaxia_yiwai").style.display = 'none';
+            document.getElementById("ddh_jtzhyw_a").style.display='none';
+            document.getElementById("yangguang_renshou").style.display = 'none';
+            document.getElementById("tk_lxwy").style.display = 'block';
+        }
+        function v_zy_lxys_click(){
+            $(".tab_li p").removeAttr("id"), $('.v_zy_lxys_p').attr("id", "tab_true");
+            document.getElementById("taiping_bwxwy").style.display = 'none';
+            document.getElementById("huaxia_yiwai").style.display = 'none';
+            document.getElementById("ddh_jtzhyw_a").style.display='none';
+            document.getElementById("tk_lxwy").style.display = 'none';
+            document.getElementById("yangguang_renshou").style.display = 'none';
+            document.getElementById("v_zy_lxys").style.display = '';
+        }
+        function yangguang_click(){
+            $(".tab_li p").removeAttr("id"), $('.yangguang_p').attr("id", "tab_true");
+            document.getElementById("taiping_bwxwy").style.display = 'none';
+            document.getElementById("huaxia_yiwai").style.display = 'none';
+            document.getElementById("ddh_jtzhyw_a").style.display='none';
+            document.getElementById("tk_lxwy").style.display = 'none';
+            document.getElementById("v_zy_lxys").style.display = 'none';
+            document.getElementById("yangguang_renshou").style.display = '';
+        }
+
+    $(function() {
+        var time_url = 'http://m.turntable8.com/index.php/Act/index/pv';
+        //获取渠道ID
+        var channel = $("input[name='CHANNEL_MAP_ID']").val()
+        var time_data = {'CHANNEL_MAP_ID':channel,'type':'PUSH'};
+        $.post(time_url, time_data, function (data){
+        })
+    })
+    </script>
+</body>
+
+</html>

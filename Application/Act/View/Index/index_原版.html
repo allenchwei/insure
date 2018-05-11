@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+<head>
+    <meta charset=UTF-8"utf-8">
+    <title>出行意外保障</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+    <meta content="telephone=no" name="format-detection"/>
+    <link rel="stylesheet" href="__PUBLIC__/act/css/app-43cd81d974.css">
+    <link rel="stylesheet" href="__PUBLIC__/act/css/popup.css">
+    <!-- <script src="__PUBLIC__/act/js/jquery-3.3.1.min.js"></script> -->
+    <script src="https://hm.baidu.com/hm.js"></script>
+    <script type="text/javascript" src="__PUBLIC__/act/js/trackEvent.min.js"></script>
+    <style>
+        .tab_li{
+            width: 100%;
+            height: 30px;
+        }
+        .tab_li p{
+            padding: 0 3px;
+            text-align: center;
+            line-height: 25px;
+            border-top:solid 1px #f05d55;
+            border-left:solid 1px #f05d55;
+            border-right:solid 1px #f05d55;
+            background:#fff7f7;
+            font-size: 12px;
+            color:#959595;
+            border-radius: 6px 6px 0 0;
+            border-left: none;
+            float: left;
+            line-height: 30px;
+        }
+        .tab_li p:first-child{
+            border-left:solid 1px #f05d55;
+        }
+        #tab_true{
+            border-top:solid 1px #f05d55;
+            border-left:solid 1px #f05d55;
+            border-right:solid 1px #f05d55;
+            background:#f05d55;
+            color:#fff;
+        }
+        .c_plan_detail table{
+            width: 100%;
+            border-collapse: collapse;
+            border:solid 1px #f05d55;
+            margin-bottom: 25px;
+            margin-top: 1px;
+            display: none;
+        }
+        .c_plan_detail table tr:nth-child(odd){
+            background: #fff7f7;
+        }
+        .c_plan_detail table tr:nth-child(even){
+            background: #ffeae9;
+        }
+        .c_plan_detail table td,th{
+            color:#333;
+            font-size: 12px;
+            padding: 5px 0;
+            line-height: 16px;
+            text-align: center;
+            min-width: 60px;
+            width: inherit;
+        }
+        .c_plan_detail table td p{
+            width: 95%;
+            margin: 0px auto;
+            text-align: left;
+        }
+        .c_plan_detail table td p span{
+            float: right;
+        }
+        .c_plan_detail table:first-child{
+            display: -webkit-box;
+        }
+    </style>
+</head>
+<body id="bxm0731" class="ddhb_1">
+<div class='bodyModel'>
+    <img src="__PUBLIC__/act/images/ddhb_1/banner.png" class="banner">
+    <input type="hidden" name="channel" value="{$home.CHANNEL_MAP_ID}" />
+    <div class="ins_detail">
+        <p onclick='planShow();'></p>
+    </div>
+    <div class="save">
+        <div class="save_tit">
+            完善信息<i></i>领取福利
+            <span>*郑重承诺: 我们将严格遵守信息保密制度*</span>
+        </div>
+        <ul class="save_info">
+            <li>
+                <span>姓名</span>
+                <input type="text" name="name" placeholder="请输入您的真实姓名" maxlength="6"/>
+                <!-- <p class="save_info_sex">
+                    <label class="label_false">
+                        <input type="radio" name="sex" value="1"/>男
+                    </label>
+                    <label class="label_false">
+                        <input type="radio" name="sex" value="0"/>女
+                    </label>
+                </p> -->
+            </li>
+            <li>
+                <span>身份证号</span>
+                <input type="text" name="idCard" placeholder="您的信息将被严格保密" maxlength="18"/>
+            </li>
+            <!-- <li>
+                <span>生日</span>
+                <input type="date" value="2000-01-01" name="birth"//>
+            </li> -->
+            <li>
+                <span>手机号码</span>
+                <input type="tel" name="mobile" placeholder="用于领取电子保单" maxlength="11"/>
+            </li>
+            <li>
+                <span>验证码</span>
+                <input type="tel" name="captcha" placeholder="请输入验证码" maxlength="6"/>
+                <p class="sendCode" onclick="sendXBBCaptcha(this,{'color':'#999'})">获取验证码</p>
+            </li>
+            <!--  style="background-image: url(../../images/ddhb_1/check.png);background-size: contain;" -->
+            <li class="check" style="width: 270px;">
+                <label onclick="check(this)">
+                    <em></em>
+                    <input type="checkbox" name="safeInstruct" checked='checked'/>我确认了解本次
+                </label>
+                <i onclick='show({"content" : $("#rule")});'>活动规则</i>和
+                <i onclick='show({"content" : $("#info")});'>信息安全说明</i>
+                <e>*保险工作人员会致电向您解释产品详情</e>
+            </li>
+            <li>
+                <input type="button" onclick="v_base()" style="background-image: url(__PUBLIC__/act/images/ddhb_1/btn.png)">
+            </li>
+        </ul>
+    </div>
+    <div class="insranceDetail">
+        <p class="bg_titile">
+            保险详情
+        </p>
+        <div class="tab_li">
+            <!-- 加载 -->
+        </div>
+        <div class="detail">
+            <!-- 加载 -->
+        </div>
+    </div>
+    <div class="adDetail">
+        <p class="bg_titile">
+            合作伙伴
+        </p>
+        <ul class="companyImg">
+            <!-- 加载 -->
+        </ul>
+    </div>
+    <div class="adDetail_txt">
+        *提示: 根据您的地区, 我们会为您匹配以上品牌中的其中一款赠险产品
+    </div>
+    <div class="foot companyCopyright">
+    </div>
+    <div id='rule'>
+        <img src="__PUBLIC__/act/images/duiba1216/close.png" tppabs="http://wap.newtank.cn/newtank/images/duiba1216/close.png" class='close' onclick='popup.closeAll()'>
+        <div class='box_tit'>
+            活动规则
+        </div>
+        <div class='rule_detail'>
+            <p><i>1</i>投保对象</p>
+            <div>本保险身故受益人为法定受益人。本保险的保险对象要求身体健康、能正常工作或正常生活的自然人。</div>
+            <p><i>2</i>保险期限</p>
+            <div>以被保险人收到短信通知上的保险起止日期为准。对保险日期之外所发生的保障事故保险公司不负责给付保险责任。</div>
+            <p><i>3</i>使用条款</p>
+            <div>详情内容请登录保险公司官网网站查询。</div>
+            <p><i>4</i>告知义务</p>
+            <div>依我国《保险法》的规定，投保人、被保险人应如实告知，否则保险人有权依法解除保险合同，并对于保险合同解除前发生的保险事故不负任何责任。 <br/>投保人、被保险人在投保时，应对投保书内各项内容如实详细的说明或填写清楚。否则，保险人有权依法解除保险合同。</div>
+            <p><i>5</i>保险判定流程</p>
+            <div>根据用户所填写的资料后台自动匹配最适合用户的保险为期进行投保。</div>
+            <p><i>6</i>赠险赞助商</p>
+            <div>相关赠险由中国平安、太平人寿、大都会、华夏人寿、泰康人寿、中英人寿友情赞助。之后可能会收到保险代理人电话落实赠险生效事宜。</div>
+            <p><i>7</i>保险凭证</p>
+            <div>保险公司对保险仅提供电子保单；赠送保险每人只能投保一份，重复或投保多分无效。</div>
+            <p><i>8</i>致电我们</p>
+            <div>如对本活动有疑问及建议请拨打【<i class="companyMobile"></i>】进行咨询（<i class="workTime"></i>）； <br/>如对赠险内容及理赔有疑问请拨打相关保险公司客服电话进行咨询</div>
+            <p><i>9</i>活动</p>
+            <div>成功领取赠险的用户可获得最高100元滴滴红包。</div>
+        </div>
+    </div>
+    <div id='info'>
+        <img src="__PUBLIC__/act/images/duiba1216/close.png" tppabs="http://wap.newtank.cn/newtank/images/duiba1216/close.png" class='close' onclick='popup.closeAll()'>
+        <div class='box_tit'>
+            信息安全说明
+        </div>
+        <div class='info_c'>
+            <p>
+                本人授权保险公司，除法律另有规定之外，将本人提供给保险公司的信息、享受保险公司服务产生的信息（包括本〔单证〕签署之前提供和产生的信息）以及保险公司根据本条约定查询、收集的信息，用于保险公司及其因服务必要委托的合作伙伴为本人提供服务、推荐产品、开展市场调查与信息数据分析。
+            </p>
+            <p>
+                本人授权保险公司，除法律另有规定之外，基于为本人提供更优质服务和产品的目的，向保险公司因服务必要开展合作的伙伴提供、查询、收集本人的信息。为确保本人信息的安全，保险公司及其合作伙伴对上述信息负有保密义务，并采取各种措施保证信息安全。
+            </p>
+            <p>
+                本条款自本〔单证〕签署时生效，具有独立法律效力 , 不受合同成立与否及效力状态变化的影响。
+            </p>
+        </div>
+    </div>
+    <div id='questionnaire'>
+        <img src="__PUBLIC__/act/images/duiba1216/close.png" tppabs="http://wap.newtank.cn/newtank/images/duiba1216/close.png" class='close' onclick='popup.closeAll()'>
+        <div class='box_tit'>
+            测保小调研
+        </div>
+        <div class="box_tit_content_tit">
+            <i>5</i>秒完成小调查,以便我们为您提供更完善的服务与保障
+        </div>
+        <div class='questionnaire_content'>
+            <ul id='question_ul'>
+                <!-- 循环 -->
+            </ul>
+            <ul id="question_ul">
+                <li class="ques_tit">1、有钱才能守护更多，您的年收入是？</li>
+                <li class="ques_select ques_type_one">
+                    <label class="ques_select_label"><input type="radio" name="answerIds[0]" value="119"> 10万以下</label>
+                    <label class="ques_select_label"><input type="radio" name="answerIds[0]" value="120"> 10万-15万</label>
+                    <label class="ques_select_label"><input type="radio" name="answerIds[0]" value="120"> 15万以上</label>
+                </li>
+                <li class="ques_tit">2、奋斗路上障碍多，目前您最关心？</li>
+                <li class="ques_select ques_type_one">
+                    <label class="ques_select_label"><input type="radio" name="answerIds[1]" value="121"> 出行安全</label>
+                    <label class="ques_select_label"><input type="radio" name="answerIds[1]" value="122"> 身体健康</label>
+                    <label class="ques_select_label"><input type="radio" name="answerIds[1]" value="123"> 养老保障</label>
+                    <label class="ques_select_label"><input type="radio" name="answerIds[1]" value="124"> 子女教育</label>
+                </li>
+            </ul>
+            <ul>
+                <li class="ques_tit">4、您期望的保障金额是？</li>
+                <li class="ques_select ques_type_one">
+                <span>
+                    <label class="ques_select_label">
+                        <input type="radio" name="answerIds[3]" value="10">
+                        10万
+                    </label>
+                </span>
+                <span>
+                    <label class="ques_select_label">
+                        <input type="radio" name="answerIds[3]" value="20">
+                        20万
+                    </label>
+                </span>
+                <span>
+                    <label class="ques_select_label">
+                        <input type="radio" name="answerIds[3]" value="30">
+                        30万
+                    </label>
+                </span>
+                <span>
+                    <label class="ques_select_label">
+                        <input type="radio" name="answerIds[3]" value="50">
+                        50万
+                    </label>
+                </span>
+                </li>
+                <li class="ques_tit">5、您更倾向的缴费方式为？</li>
+                <li class="ques_select ques_type_one">
+                <span>
+                    <label class="ques_select_label">
+                        <input type="radio" name="answerIds[3]" value="MONTHLY">
+                        月交
+                    </label>
+                </span>
+                <span>
+                    <label class="ques_select_label select_label">
+                        <input type="radio" name="answerIds[4]" value="MONTHLY">
+                        年交
+                    </label>
+                </span>
+                </li>
+            </ul>
+            <div class='box_btn'>
+                <input type='button' value='马上提交' onclick="formSub()" class='box_btn_true'  style='margin-top:20px;' >
+            </div>
+        </div>
+    </div>
+    <!-- <div id="captcha">
+        <div class="zgc" onclick='$("#captcha").hide()'></div>
+        <div class="captcha">
+            <img src="__PUBLIC__/act/images/duiba1216/close.png" tppabs="http://wap.newtank.cn/newtank/images/duiba1216/close.png" class='close' onclick='$("#captcha").hide()'>
+            <div class='box_tit'>
+                请输入6位验证码
+            </div>
+            <div class='info_c'>
+                发送至
+                <span id="cellphoneNumber" ></span>
+                <p class="sendCode" onclick="sendXBBCaptcha(this,{'color':'#999'})">获取验证码</p>
+            </div>
+            <div class="newCaptchaCon" >
+                <div class="_span">
+                    <span></span><span></span><span></span><span></span><span></span><span></span>
+                </div>
+                <input type="tel" name="captcha" maxlength="6"/>
+            </div>
+        </div>
+    </div> -->
+    <div id='success'>
+        <img src="__PUBLIC__/act/images/duiba1216/close.png" tppabs="http://wap.newtank.cn/newtank/images/duiba1216/close.png" class='close' onclick='popup.closeAll()'>
+        <div class='box_tit'>
+            恭喜您！
+        </div>
+        <div class='suc_tit'>
+            信息提交成功!
+        </div>
+        <table class='suc_tab'>
+            <tr>
+                <td style='width:15px;'>
+                    1.
+                </td>
+                <td>
+                    核保通过后，我们将在3个工作日内将保单号发送到您预留的手机号码中；如核保不通过，将不另作通知。
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    2.
+                </td>
+                <td>
+                    为保证服务质量，后续相关工作人员可能会致电您，请留意客服电话。
+                </td>
+            </tr>
+        </table>
+    </div>
+    <div id='plan'>
+        <img src="__PUBLIC__/act/images/duiba1216/close.png" tppabs="http://wap.newtank.cn/newtank/images/duiba1216/close.png" class='close' onclick='popup.closeAll()'>
+        <div class='box_tit'>
+            旅行意外伤害保障计划
+        </div>
+        <div class="c_plan_detail insranceDetail">
+            <div class="tab_li">
+                <!-- 循环 -->
+            </div>
+            <div class="detail">
+                <!-- 加载 -->
+            </div>
+        </div>
+    </div>
+</div>
+<script src="__PUBLIC__/act/js/adverter.js"></script>
+<script src="__PUBLIC__/act/js/lib-f7f4977d09.js" tppabs="http://wap.newtank.cn/newtank/js/lib-f7f4977d09.js"></script>
+<script src="__PUBLIC__/act/js/jquery-popup.js" tppabs="http://wap.newtank.cn/newtank/lib/popup/jquery-popup.js"></script>
+<script src="__PUBLIC__/act/js/app-e20ef9bd43.js" tppabs="http://wap.newtank.cn/newtank/js/app-e20ef9bd43.js"></script>
+<script src="__PUBLIC__/act/js/indexController-9b2587bbfa.js" tppabs="http://wap.newtank.cn/newtank/js/controller/act/ddhb_1/indexController-9b2587bbfa.js"></script>
+<script type="text/javascript" src="__PUBLIC__/act/js/effectListen.js" tppabs="https://m.cudaojia.com/dist/effectListen/effectListen.js"></script>
+</body>
+</html>
+

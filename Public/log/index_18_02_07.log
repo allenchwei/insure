@@ -1,0 +1,699 @@
+2018-02-07 09:22:01  act 16 =======第一步提交开始======：{"draw_num":"3","system":"2","coupon_idlist":"","CHANNEL_MAP_ID":"10001"}
+2018-02-07 09:22:01  act 20 CHANNEL_MAP_ID 10001
+2018-02-07 09:22:01  act 26 channelModel SELECT * FROM `a_channel` WHERE `CHANNEL_MAP_ID` = 10001 LIMIT 1  
+2018-02-07 09:22:01  act 27 channel_count 
+2018-02-07 09:22:06  act 16 =======第一步提交开始======：{"draw_num":"2","system":"2","coupon_idlist":"2","CHANNEL_MAP_ID":"10001"}
+2018-02-07 09:22:06  act 20 CHANNEL_MAP_ID 10001
+2018-02-07 09:22:06  act 26 channelModel SELECT * FROM `a_channel` WHERE `CHANNEL_MAP_ID` = 10001 LIMIT 1  
+2018-02-07 09:22:06  act 27 channel_count 
+2018-02-07 09:22:10  act 16 =======第一步提交开始======：{"draw_num":"1","system":"2","coupon_idlist":"2,2","CHANNEL_MAP_ID":"10001"}
+2018-02-07 09:22:10  act 20 CHANNEL_MAP_ID 10001
+2018-02-07 09:22:10  act 26 channelModel SELECT * FROM `a_channel` WHERE `CHANNEL_MAP_ID` = 10001 LIMIT 1  
+2018-02-07 09:22:10  act 27 channel_count 
+2018-02-07 09:22:15  act 16 =======第一步提交开始======：{"draw_num":"3","system":"2","coupon_idlist":"","CHANNEL_MAP_ID":"10001"}
+2018-02-07 09:22:15  act 20 CHANNEL_MAP_ID 10001
+2018-02-07 09:22:15  act 26 channelModel SELECT * FROM `a_channel` WHERE `CHANNEL_MAP_ID` = 10001 LIMIT 1  
+2018-02-07 09:22:15  act 27 channel_count 
+2018-02-07 09:36:19  act 16 =======第一步提交开始======：{"draw_num":"2","system":"2","coupon_idlist":"2","CHANNEL_MAP_ID":"10001"}
+2018-02-07 09:36:19  act 20 CHANNEL_MAP_ID 10001
+2018-02-07 09:36:19  act 26 channelModel SELECT * FROM `a_channel` WHERE `CHANNEL_MAP_ID` = 10001 LIMIT 1  
+2018-02-07 09:36:19  act 27 channel_count 
+2018-02-07 09:36:35  act 16 =======第一步提交开始======：{"draw_num":"1","system":"2","coupon_idlist":"2,2","CHANNEL_MAP_ID":"10001"}
+2018-02-07 09:36:35  act 20 CHANNEL_MAP_ID 10001
+2018-02-07 09:36:35  act 26 channelModel SELECT * FROM `a_channel` WHERE `CHANNEL_MAP_ID` = 10001 LIMIT 1  
+2018-02-07 09:36:35  act 27 channel_count 
+2018-02-07 09:38:53  act 16 =======第一步提交开始======：{"draw_num":"3","system":"2","coupon_idlist":"","CHANNEL_MAP_ID":"10001"}
+2018-02-07 09:38:53  act 20 CHANNEL_MAP_ID 10001
+2018-02-07 09:38:53  act 26 channelModel SELECT * FROM `a_channel` WHERE `CHANNEL_MAP_ID` = 10001 LIMIT 1  
+2018-02-07 09:38:53  act 27 channel_count 
+2018-02-07 09:38:59  act 16 =======第一步提交开始======：{"draw_num":"2","system":"2","coupon_idlist":"2","CHANNEL_MAP_ID":"10001"}
+2018-02-07 09:38:59  act 20 CHANNEL_MAP_ID 10001
+2018-02-07 09:38:59  act 26 channelModel SELECT * FROM `a_channel` WHERE `CHANNEL_MAP_ID` = 10001 LIMIT 1  
+2018-02-07 09:38:59  act 27 channel_count 
+2018-02-07 09:39:03  act 16 =======第一步提交开始======：{"draw_num":"1","system":"2","coupon_idlist":"2,2","CHANNEL_MAP_ID":"10001"}
+2018-02-07 09:39:03  act 20 CHANNEL_MAP_ID 10001
+2018-02-07 09:39:03  act 26 channelModel SELECT * FROM `a_channel` WHERE `CHANNEL_MAP_ID` = 10001 LIMIT 1  
+2018-02-07 09:39:03  act 27 channel_count 
+2018-02-07 09:46:40  act 16 =======第一步提交开始======：{"draw_num":"3","system":"2","coupon_idlist":"","CHANNEL_MAP_ID":"10001"}
+2018-02-07 09:46:40  act 20 CHANNEL_MAP_ID 10001
+2018-02-07 09:46:40  act 26 channelModel SELECT * FROM `a_channel` WHERE `CHANNEL_MAP_ID` = 10001 LIMIT 1  
+2018-02-07 09:46:40  act 27 channel_count 
+2018-02-07 09:48:37  act 16 =======第一步提交开始======：{"draw_num":"2","system":"2","coupon_idlist":"2","CHANNEL_MAP_ID":"10001"}
+2018-02-07 09:48:37  act 20 CHANNEL_MAP_ID 10001
+2018-02-07 09:48:37  act 26 channelModel SELECT * FROM `a_channel` WHERE `CHANNEL_MAP_ID` = 10001 LIMIT 1  
+2018-02-07 09:48:37  act 27 channel_count 
+2018-02-07 09:58:07  act 16 =======第一步提交开始======：{"draw_num":"1","system":"2","coupon_idlist":"2,2","CHANNEL_MAP_ID":"10001"}
+2018-02-07 09:58:07  act 20 MD5 10001
+2018-02-07 09:58:07  act 26 channelModel SELECT * FROM `a_channel` LIMIT 1  
+2018-02-07 09:58:07  act 27 channel_count 
+2018-02-07 09:59:25  act 16 =======第一步提交开始======：{"draw_num":"3","system":"2","coupon_idlist":"","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941"}
+2018-02-07 09:59:25  act 20 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-07 09:59:25  act 26 channelModel SELECT * FROM `a_channel` LIMIT 1  
+2018-02-07 09:59:25  act 27 channel_count 
+2018-02-07 10:01:50  act 16 =======第一步提交开始======：{"draw_num":"2","system":"2","coupon_idlist":"2","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941"}
+2018-02-07 10:01:50  act 20 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-07 10:01:50  act 21 channelModel SELECT * FROM `a_channel` LIMIT 1  
+2018-02-07 10:01:50  act 27 channelModel SELECT * FROM `a_channel` LIMIT 1  
+2018-02-07 10:01:50  act 28 channel_count 
+2018-02-07 10:03:57  act 16 =======第一步提交开始======：{"draw_num":"1","system":"2","coupon_idlist":"2,2","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941"}
+2018-02-07 10:03:57  act 20 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-07 10:03:57  act 21 channelModel SELECT * FROM `a_channel` LIMIT 1  
+2018-02-07 10:03:57  act 27 channelModel SELECT * FROM `a_channel` LIMIT 1  
+2018-02-07 10:03:57  act 28 channel_count 
+2018-02-07 10:05:47  act 16 =======第一步提交开始======：{"draw_num":"3","system":"2","coupon_idlist":"","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941"}
+2018-02-07 10:05:47  act 20 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-07 10:05:47  act 21 channelModel SELECT * FROM `a_channel` LIMIT 1  
+2018-02-07 10:05:47  act 27 channelModel SELECT * FROM `a_channel` LIMIT 1  
+2018-02-07 10:05:47  act 28 channel_count 
+2018-02-07 10:06:28  act 16 =======第一步提交开始======：{"draw_num":"2","system":"2","coupon_idlist":"2","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941"}
+2018-02-07 10:06:28  act 20 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-07 10:06:28  act 21 channelModel SELECT * FROM `a_channel` WHERE `CHANNEL_MAP_ID` = 0 LIMIT 1  
+2018-02-07 10:06:44  act 16 =======第一步提交开始======：{"draw_num":"1","system":"2","coupon_idlist":"2","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941"}
+2018-02-07 10:06:44  act 20 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-07 10:06:44  act 21 channelModel SELECT * FROM `a_channel` LIMIT 1  
+2018-02-07 10:06:44  act 27 channelModel SELECT * FROM `a_channel` LIMIT 1  
+2018-02-07 10:06:44  act 28 channel_count 
+2018-02-07 10:07:20  act 16 =======第一步提交开始======：{"draw_num":"3","system":"2","coupon_idlist":"","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941"}
+2018-02-07 10:07:20  act 20 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-07 10:07:20  act 21 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-07 10:07:20  act 27 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-07 10:07:20  act 28 channel_count 
+2018-02-07 10:08:03  act 16 =======第一步提交开始======：{"draw_num":"2","system":"2","coupon_idlist":"2","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941"}
+2018-02-07 10:08:03  act 20 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-07 10:08:03  act 21 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-07 10:08:03  act 27 channelModel UPDATE `a_luck_record` SET `CLICK`=CLICK+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 10:08:03  act 28 channel_count 1
+2018-02-07 10:18:02  act 16 =======计算次数开始======：{"draw_num":"1","system":"2","coupon_idlist":"2,2","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941"}
+2018-02-07 10:18:02  act 20 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-07 10:18:02  act 21 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-07 10:18:02  act 27 channelModel UPDATE `a_luck_record` SET `CLICK`=CLICK+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 10:18:02  act 28 channel_count 1
+2018-02-07 10:18:02  act 30 =======计算次数结束======：
+2018-02-07 10:18:33  act 16 =======计算次数开始======：{"draw_num":"3","system":"2","coupon_idlist":"","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941"}
+2018-02-07 10:18:33  act 20 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-07 10:18:33  act 21 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-07 10:18:33  act 27 channelModel UPDATE `a_luck_record` SET `CLICK`=CLICK+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 10:18:33  act 28 channel_count 1
+2018-02-07 10:18:33  act 30 =======计算次数结束======：
+2018-02-07 10:19:00  act 16 =======计算次数开始======：{"draw_num":"2","system":"2","coupon_idlist":"2","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-07 10:19:00  act 20 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-07 10:19:00  act 21 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-07 10:19:00  act 27 channelModel UPDATE `a_luck_record` SET `CLICK`=CLICK+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 10:19:00  act 28 channel_count 1
+2018-02-07 10:19:00  act 30 =======计算次数结束======：
+2018-02-07 10:20:07  act 16 =======计算次数开始======：{"draw_num":"1","system":"2","coupon_idlist":"2,2","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-07 10:20:07  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-07 10:20:07  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-07 10:20:07  act 29 channelModel UPDATE `a_luck_record` SET `CLICK`=CLICK+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 10:20:07  act 30 channel_count 1
+2018-02-07 10:20:07  act 32 =======计算次数结束======：
+2018-02-07 10:22:24  act 16 =======计算次数开始======：{"draw_num":"3","system":"2","coupon_idlist":"","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-07 10:22:24  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-07 10:22:24  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-07 10:22:24  act 29 channelModel UPDATE `a_luck_record` SET `CLICK`=CLICK+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 10:22:24  act 30 channel_count 1
+2018-02-07 10:22:24  act 32 =======计算次数结束======：
+2018-02-07 10:23:06  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"PUSH"}
+2018-02-07 10:23:08  act 16 =======计算次数开始======：{"draw_num":"2","system":"2","coupon_idlist":"2","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-07 10:23:08  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-07 10:23:08  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-07 10:23:08  act 29 channelModel UPDATE `a_luck_record` SET `CLICK`=CLICK+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 10:23:08  act 30 channel_count 1
+2018-02-07 10:23:08  act 32 =======计算次数结束======：
+2018-02-07 10:26:08  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"PUSH"}
+2018-02-07 10:26:33  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"PUSH"}
+2018-02-07 10:26:33  act 37 channelModel UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 10:26:33  act 38 channel_count 1
+2018-02-07 10:26:39  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"PUSH"}
+2018-02-07 10:26:39  act 37 channelModel UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 10:26:39  act 38 channel_count 1
+2018-02-07 10:26:44  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"PUSH"}
+2018-02-07 10:26:44  act 37 channelModel UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 10:26:44  act 38 channel_count 1
+2018-02-07 10:26:44  act 16 =======计算次数开始======：{"draw_num":"1","system":"2","coupon_idlist":"2,2","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-07 10:26:44  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-07 10:26:44  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-07 10:26:44  act 29 channelModel UPDATE `a_luck_record` SET `CLICK`=CLICK+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 10:26:44  act 30 channel_count 1
+2018-02-07 10:26:44  act 32 =======计算次数结束======：
+2018-02-07 10:27:01  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"PUSH"}
+2018-02-07 10:27:01  act 37 channelModel UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 10:27:01  act 38 channel_count 1
+2018-02-07 10:27:03  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"PUSH"}
+2018-02-07 10:27:03  act 37 channelModel UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 10:27:03  act 38 channel_count 1
+2018-02-07 10:29:04  act 16 =======计算次数开始======：{"draw_num":"3","system":"2","coupon_idlist":"","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-07 10:29:04  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-07 10:29:04  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-07 10:29:04  act 29 channelModel UPDATE `a_luck_record` SET `CLICK`=CLICK+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 10:29:04  act 30 channel_count 1
+2018-02-07 10:29:04  act 32 =======计算次数结束======：
+2018-02-07 10:29:31  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"PUSH"}
+2018-02-07 10:29:31  act 37 channelModel UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 10:29:31  act 38 channel_count 1
+2018-02-07 10:29:32  act 16 =======计算次数开始======：{"draw_num":"2","system":"2","coupon_idlist":"2","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-07 10:29:32  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-07 10:29:32  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-07 10:29:32  act 29 channelModel UPDATE `a_luck_record` SET `CLICK`=CLICK+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 10:29:32  act 30 channel_count 1
+2018-02-07 10:29:32  act 32 =======计算次数结束======：
+2018-02-07 10:29:38  act 16 =======计算次数开始======：{"draw_num":"1","system":"2","coupon_idlist":"2,2","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-07 10:29:38  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-07 10:29:38  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-07 10:29:38  act 29 channelModel UPDATE `a_luck_record` SET `CLICK`=CLICK+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 10:29:38  act 30 channel_count 1
+2018-02-07 10:29:38  act 32 =======计算次数结束======：
+2018-02-07 10:29:49  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"PUSH"}
+2018-02-07 10:29:49  act 37 channelModel UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 10:29:49  act 38 channel_count 1
+2018-02-07 10:29:49  act 16 =======计算次数开始======：{"draw_num":"3","system":"2","coupon_idlist":"","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-07 10:29:49  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-07 10:29:49  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-07 10:29:49  act 29 channelModel UPDATE `a_luck_record` SET `CLICK`=CLICK+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 10:29:49  act 30 channel_count 1
+2018-02-07 10:29:49  act 32 =======计算次数结束======：
+2018-02-07 10:30:10  act 16 =======计算次数开始======：{"draw_num":"2","system":"2","coupon_idlist":"2","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-07 10:30:10  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-07 10:30:10  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-07 10:30:10  act 29 channelModel UPDATE `a_luck_record` SET `CLICK`=CLICK+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 10:30:10  act 30 channel_count 1
+2018-02-07 10:30:10  act 32 =======计算次数结束======：
+2018-02-07 10:31:25  act 16 =======计算次数开始======：{"draw_num":"1","system":"2","coupon_idlist":"2,2","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-07 10:31:25  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-07 10:31:25  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-07 10:31:25  act 29 channelModel UPDATE `a_luck_record` SET `CLICK`=CLICK+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 10:31:25  act 30 channel_count 1
+2018-02-07 10:31:25  act 32 =======计算次数结束======：
+2018-02-07 10:31:51  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"PUSH"}
+2018-02-07 10:31:51  act 37 channelModel UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 10:31:51  act 38 channel_count 1
+2018-02-07 10:31:52  act 16 =======计算次数开始======：{"draw_num":"3","system":"2","coupon_idlist":"","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-07 10:31:52  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-07 10:31:52  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-07 10:31:52  act 29 channelModel UPDATE `a_luck_record` SET `CLICK`=CLICK+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 10:31:52  act 30 channel_count 1
+2018-02-07 10:31:52  act 32 =======计算次数结束======：
+2018-02-07 13:34:05  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"PUSH"}
+2018-02-07 13:34:05  act 37 channelModel UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 13:34:05  act 38 channel_count 1
+2018-02-07 20:12:35  act 25 =======第一步提交开始======：{"draw_num":"3","system":"2","coupon_idlist":"","CHANNEL_MAP_ID":""}
+2018-02-07 20:45:49  act 25 =======第一步提交开始======：{"draw_num":"2","system":"2","coupon_idlist":"2","CHANNEL_MAP_ID":""}
+2018-02-07 20:49:24  act 25 =======第一步提交开始======：{"draw_num":"1","system":"2","coupon_idlist":"2,2","CHANNEL_MAP_ID":""}
+2018-02-07 20:49:32  act 25 =======第一步提交开始======：{"draw_num":"3","system":"2","coupon_idlist":"","CHANNEL_MAP_ID":""}
+2018-02-07 20:50:44  act 16 =======计算次数开始======：[]
+2018-02-07 20:50:49  act 16 =======计算次数开始======：[]
+2018-02-07 20:50:53  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941.","type":"PUSH"}
+2018-02-07 20:50:53  act 37 channelModel UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941.'
+2018-02-07 20:50:53  act 38 channel_count 0
+2018-02-07 20:50:54  act 16 =======计算次数开始======：{"draw_num":"2","system":"2","coupon_idlist":"2","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941.","type":"MD5"}
+2018-02-07 20:50:54  act 22 MD5 D89F3A35931C386956C1A402A8E09941.
+2018-02-07 20:50:54  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941.' LIMIT 1  
+2018-02-07 20:51:17  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"PUSH"}
+2018-02-07 20:51:17  act 37 channelModel UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 20:51:17  act 38 channel_count 1
+2018-02-07 20:51:19  act 16 =======计算次数开始======：{"draw_num":"1","system":"2","coupon_idlist":"2","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-07 20:51:19  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-07 20:51:19  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-07 20:51:19  act 29 channelModel UPDATE `a_luck_record` SET `CLICK`=CLICK+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 20:51:19  act 30 channel_count 1
+2018-02-07 20:51:19  act 32 =======计算次数结束======：
+2018-02-07 20:51:31  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"PUSH"}
+2018-02-07 20:51:31  act 37 channelModel UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 20:51:31  act 38 channel_count 1
+2018-02-07 21:24:13  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"PUSH"}
+2018-02-07 21:24:13  act 56 channelModel UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 21:24:13  act 57 channel_count 1
+2018-02-07 21:24:14  act 16 =======计算次数开始======：{"draw_num":"3","system":"2","coupon_idlist":"","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-07 21:24:14  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-07 21:24:14  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-07 21:24:14  act 32 channel_select [{"id":"1","user_name":"\u5e38\u4f1f","url":"http:\/\/bigfinance.yomibank.com\/Home\/Luck\/index?channel=10001","offer":"0.10","weight":"80","push":"12","click":"17","click_rate":"","total":"","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941"},{"id":"2","user_name":"\u5b66\u4e60\u5e7f\u544a","url":"http:\/\/","offer":"0.60","weight":"40","push":"","click":"","click_rate":"","total":"","channel_map_id":"0","md5":""},{"id":"3","user_name":"\u534e\u5c14\u8857","url":"http:\/\/","offer":"1.10","weight":"20","push":"","click":"","click_rate":"","total":"","channel_map_id":"0","md5":""}]
+2018-02-07 21:24:14  act 37 sumWeight=0
+2018-02-07 21:24:14  act 38 sumOffer=0
+2018-02-07 21:24:14  act 45 sum=Array
+2018-02-07 21:24:14  act 48 channelModel UPDATE `a_luck_record` SET `CLICK`=CLICK+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 21:24:14  act 49 channel_count 1
+2018-02-07 21:24:14  act 51 =======计算次数结束======：
+2018-02-07 21:24:45  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"PUSH"}
+2018-02-07 21:24:45  act 56 channelModel UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 21:24:45  act 57 channel_count 1
+2018-02-07 21:24:45  act 16 =======计算次数开始======：{"draw_num":"2","system":"2","coupon_idlist":"2","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-07 21:24:45  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-07 21:24:45  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-07 21:24:45  act 32 channel_select [{"id":"1","user_name":"\u5e38\u4f1f","url":"http:\/\/bigfinance.yomibank.com\/Home\/Luck\/index?channel=10001","offer":"0.10","weight":"80","push":"13","click":"18","click_rate":"","total":"","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941"},{"id":"2","user_name":"\u5b66\u4e60\u5e7f\u544a","url":"http:\/\/","offer":"0.60","weight":"40","push":"","click":"","click_rate":"","total":"","channel_map_id":"0","md5":""},{"id":"3","user_name":"\u534e\u5c14\u8857","url":"http:\/\/","offer":"1.10","weight":"20","push":"","click":"","click_rate":"","total":"","channel_map_id":"0","md5":""}]
+2018-02-07 21:24:45  act 37 sumWeight=0
+2018-02-07 21:24:45  act 38 sumOffer=0
+2018-02-07 21:24:45  act 45 sum=[false,false,false]
+2018-02-07 21:24:45  act 48 channelModel UPDATE `a_luck_record` SET `CLICK`=CLICK+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 21:24:45  act 49 channel_count 1
+2018-02-07 21:24:45  act 51 =======计算次数结束======：
+2018-02-07 21:25:50  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"PUSH"}
+2018-02-07 21:25:50  act 58 channelModel UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 21:25:50  act 59 channel_count 1
+2018-02-07 21:25:50  act 16 =======计算次数开始======：{"draw_num":"1","system":"2","coupon_idlist":"2,2","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-07 21:25:50  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-07 21:25:50  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-07 21:25:50  act 32 channel_select [{"id":"1","user_name":"\u5e38\u4f1f","url":"http:\/\/bigfinance.yomibank.com\/Home\/Luck\/index?channel=10001","offer":"0.10","weight":"80","push":"14","click":"19","click_rate":"","total":"","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941"},{"id":"2","user_name":"\u5b66\u4e60\u5e7f\u544a","url":"http:\/\/","offer":"0.60","weight":"40","push":"","click":"","click_rate":"","total":"","channel_map_id":"0","md5":""},{"id":"3","user_name":"\u534e\u5c14\u8857","url":"http:\/\/","offer":"1.10","weight":"20","push":"","click":"","click_rate":"","total":"","channel_map_id":"0","md5":""}]
+2018-02-07 21:25:50  act 34 WEIGHT=
+2018-02-07 21:25:50  act 35 value {"id":"1","user_name":"\u5e38\u4f1f","url":"http:\/\/bigfinance.yomibank.com\/Home\/Luck\/index?channel=10001","offer":"0.10","weight":"80","push":"14","click":"19","click_rate":"","total":"","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941"}
+2018-02-07 21:25:50  act 34 WEIGHT=
+2018-02-07 21:25:50  act 35 value {"id":"2","user_name":"\u5b66\u4e60\u5e7f\u544a","url":"http:\/\/","offer":"0.60","weight":"40","push":"","click":"","click_rate":"","total":"","channel_map_id":"0","md5":""}
+2018-02-07 21:25:50  act 34 WEIGHT=
+2018-02-07 21:25:50  act 35 value {"id":"3","user_name":"\u534e\u5c14\u8857","url":"http:\/\/","offer":"1.10","weight":"20","push":"","click":"","click_rate":"","total":"","channel_map_id":"0","md5":""}
+2018-02-07 21:25:50  act 39 sumWeight=0
+2018-02-07 21:25:50  act 40 sumOffer=0
+2018-02-07 21:25:50  act 47 sum=[false,false,false]
+2018-02-07 21:25:50  act 50 channelModel UPDATE `a_luck_record` SET `CLICK`=CLICK+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 21:25:50  act 51 channel_count 1
+2018-02-07 21:25:50  act 53 =======计算次数结束======：
+2018-02-07 21:26:28  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"PUSH"}
+2018-02-07 21:26:28  act 58 channelModel UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 21:26:28  act 59 channel_count 1
+2018-02-07 21:26:31  act 16 =======计算次数开始======：{"draw_num":"3","system":"2","coupon_idlist":"","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-07 21:26:31  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-07 21:26:31  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-07 21:26:31  act 32 channel_select [{"id":"1","user_name":"\u5e38\u4f1f","url":"http:\/\/bigfinance.yomibank.com\/Home\/Luck\/index?channel=10001","offer":"0.10","weight":"80","push":"15","click":"20","click_rate":"","total":"","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941"},{"id":"2","user_name":"\u5b66\u4e60\u5e7f\u544a","url":"http:\/\/","offer":"0.60","weight":"40","push":"","click":"","click_rate":"","total":"","channel_map_id":"0","md5":""},{"id":"3","user_name":"\u534e\u5c14\u8857","url":"http:\/\/","offer":"1.10","weight":"20","push":"","click":"","click_rate":"","total":"","channel_map_id":"0","md5":""}]
+2018-02-07 21:26:31  act 34 WEIGHT=
+2018-02-07 21:26:31  act 35 value {"id":"1","user_name":"\u5e38\u4f1f","url":"http:\/\/bigfinance.yomibank.com\/Home\/Luck\/index?channel=10001","offer":"0.10","weight":"80","push":"15","click":"20","click_rate":"","total":"","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941"}
+2018-02-07 21:26:31  act 34 WEIGHT=
+2018-02-07 21:26:31  act 35 value {"id":"2","user_name":"\u5b66\u4e60\u5e7f\u544a","url":"http:\/\/","offer":"0.60","weight":"40","push":"","click":"","click_rate":"","total":"","channel_map_id":"0","md5":""}
+2018-02-07 21:26:31  act 34 WEIGHT=
+2018-02-07 21:26:31  act 35 value {"id":"3","user_name":"\u534e\u5c14\u8857","url":"http:\/\/","offer":"1.10","weight":"20","push":"","click":"","click_rate":"","total":"","channel_map_id":"0","md5":""}
+2018-02-07 21:26:31  act 39 sumWeight=3
+2018-02-07 21:26:31  act 40 sumOffer=3
+2018-02-07 21:26:31  act 47 sum=[13.35,6.7666666666667,3.5166666666667]
+2018-02-07 21:26:31  act 50 channelModel UPDATE `a_luck_record` SET `CLICK`=CLICK+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 21:26:31  act 51 channel_count 1
+2018-02-07 21:26:31  act 53 =======计算次数结束======：
+2018-02-07 21:29:41  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"PUSH"}
+2018-02-07 21:29:41  act 59 channelModel UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 21:29:41  act 60 channel_count 1
+2018-02-07 21:29:44  act 16 =======计算次数开始======：{"draw_num":"2","system":"2","coupon_idlist":"2","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-07 21:29:44  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-07 21:29:44  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-07 21:29:44  act 32 channel_select [{"id":"1","user_name":"\u5e38\u4f1f","url":"http:\/\/bigfinance.yomibank.com\/Home\/Luck\/index?channel=10001","offer":"0.10","weight":"80","push":"16","click":"21","click_rate":"","total":"","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941"},{"id":"2","user_name":"\u5b66\u4e60\u5e7f\u544a","url":"http:\/\/","offer":"0.60","weight":"40","push":"","click":"","click_rate":"","total":"","channel_map_id":"0","md5":""},{"id":"3","user_name":"\u534e\u5c14\u8857","url":"http:\/\/","offer":"1.10","weight":"20","push":"","click":"","click_rate":"","total":"","channel_map_id":"0","md5":""}]
+2018-02-07 21:29:44  act 34 value {"id":"1","user_name":"\u5e38\u4f1f","url":"http:\/\/bigfinance.yomibank.com\/Home\/Luck\/index?channel=10001","offer":"0.10","weight":"80","push":"16","click":"21","click_rate":"","total":"","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941"}
+2018-02-07 21:29:44  act 37 WEIGHT=1
+2018-02-07 21:29:44  act 38 WEIGHT=1
+2018-02-07 21:29:44  act 34 value {"id":"2","user_name":"\u5b66\u4e60\u5e7f\u544a","url":"http:\/\/","offer":"0.60","weight":"40","push":"","click":"","click_rate":"","total":"","channel_map_id":"0","md5":""}
+2018-02-07 21:29:44  act 37 WEIGHT=2
+2018-02-07 21:29:44  act 38 WEIGHT=2
+2018-02-07 21:29:44  act 34 value {"id":"3","user_name":"\u534e\u5c14\u8857","url":"http:\/\/","offer":"1.10","weight":"20","push":"","click":"","click_rate":"","total":"","channel_map_id":"0","md5":""}
+2018-02-07 21:29:44  act 37 WEIGHT=3
+2018-02-07 21:29:44  act 38 WEIGHT=3
+2018-02-07 21:29:44  act 40 sumWeight=3
+2018-02-07 21:29:44  act 41 sumOffer=3
+2018-02-07 21:29:44  act 48 sum=[13.35,6.7666666666667,3.5166666666667]
+2018-02-07 21:29:44  act 51 channelModel UPDATE `a_luck_record` SET `CLICK`=CLICK+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 21:29:44  act 52 channel_count 1
+2018-02-07 21:29:44  act 54 =======计算次数结束======：
+2018-02-07 21:30:15  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"PUSH"}
+2018-02-07 21:30:15  act 59 channelModel UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 21:30:15  act 60 channel_count 1
+2018-02-07 21:30:16  act 16 =======计算次数开始======：{"draw_num":"1","system":"2","coupon_idlist":"2,2","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-07 21:30:16  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-07 21:30:16  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-07 21:30:16  act 32 channel_select [{"id":"1","user_name":"\u5e38\u4f1f","url":"http:\/\/bigfinance.yomibank.com\/Home\/Luck\/index?channel=10001","offer":"0.10","weight":"80","push":"17","click":"22","click_rate":"","total":"","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941"},{"id":"2","user_name":"\u5b66\u4e60\u5e7f\u544a","url":"http:\/\/","offer":"0.60","weight":"40","push":"","click":"","click_rate":"","total":"","channel_map_id":"0","md5":""},{"id":"3","user_name":"\u534e\u5c14\u8857","url":"http:\/\/","offer":"1.10","weight":"20","push":"","click":"","click_rate":"","total":"","channel_map_id":"0","md5":""}]
+2018-02-07 21:30:16  act 34 value {"id":"1","user_name":"\u5e38\u4f1f","url":"http:\/\/bigfinance.yomibank.com\/Home\/Luck\/index?channel=10001","offer":"0.10","weight":"80","push":"17","click":"22","click_rate":"","total":"","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941"}
+2018-02-07 21:30:16  act 37 sumWeight=1
+2018-02-07 21:30:16  act 38 sumOffer=1
+2018-02-07 21:30:16  act 34 value {"id":"2","user_name":"\u5b66\u4e60\u5e7f\u544a","url":"http:\/\/","offer":"0.60","weight":"40","push":"","click":"","click_rate":"","total":"","channel_map_id":"0","md5":""}
+2018-02-07 21:30:16  act 37 sumWeight=2
+2018-02-07 21:30:16  act 38 sumOffer=2
+2018-02-07 21:30:16  act 34 value {"id":"3","user_name":"\u534e\u5c14\u8857","url":"http:\/\/","offer":"1.10","weight":"20","push":"","click":"","click_rate":"","total":"","channel_map_id":"0","md5":""}
+2018-02-07 21:30:16  act 37 sumWeight=3
+2018-02-07 21:30:16  act 38 sumOffer=3
+2018-02-07 21:30:16  act 40 sumWeight=3
+2018-02-07 21:30:16  act 41 sumOffer=3
+2018-02-07 21:30:16  act 48 sum=[13.35,6.7666666666667,3.5166666666667]
+2018-02-07 21:30:16  act 51 channelModel UPDATE `a_luck_record` SET `CLICK`=CLICK+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 21:30:16  act 52 channel_count 1
+2018-02-07 21:30:16  act 54 =======计算次数结束======：
+2018-02-07 21:31:13  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"PUSH"}
+2018-02-07 21:31:13  act 59 channelModel UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 21:31:13  act 60 channel_count 1
+2018-02-07 21:31:14  act 16 =======计算次数开始======：{"draw_num":"3","system":"2","coupon_idlist":"","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-07 21:31:14  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-07 21:31:14  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-07 21:31:14  act 32 channel_select [{"id":"1","user_name":"\u5e38\u4f1f","url":"http:\/\/bigfinance.yomibank.com\/Home\/Luck\/index?channel=10001","offer":"0.10","weight":"80","push":"18","click":"23","click_rate":"","total":"","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941"},{"id":"2","user_name":"\u5b66\u4e60\u5e7f\u544a","url":"http:\/\/","offer":"0.60","weight":"40","push":"","click":"","click_rate":"","total":"","channel_map_id":"0","md5":""},{"id":"3","user_name":"\u534e\u5c14\u8857","url":"http:\/\/","offer":"1.10","weight":"20","push":"","click":"","click_rate":"","total":"","channel_map_id":"0","md5":""}]
+2018-02-07 21:31:14  act 34 value {"id":"1","user_name":"\u5e38\u4f1f","url":"http:\/\/bigfinance.yomibank.com\/Home\/Luck\/index?channel=10001","offer":"0.10","weight":"80","push":"18","click":"23","click_rate":"","total":"","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941"}
+2018-02-07 21:34:02  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"PUSH"}
+2018-02-07 21:34:02  act 59 channelModel UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 21:34:02  act 60 channel_count 1
+2018-02-07 21:34:03  act 16 =======计算次数开始======：{"draw_num":"2","system":"2","coupon_idlist":"","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-07 21:34:03  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-07 21:34:03  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-07 21:34:03  act 32 channel_select [{"id":"1","user_name":"\u5e38\u4f1f","url":"http:\/\/bigfinance.yomibank.com\/Home\/Luck\/index?channel=10001","offer":"1.8","weight":"140","push":"19","click":"23","click_rate":"","total":"","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941"}]
+2018-02-07 21:34:03  act 34 value {"id":"1","user_name":"\u5e38\u4f1f","url":"http:\/\/bigfinance.yomibank.com\/Home\/Luck\/index?channel=10001","offer":"1.8","weight":"140","push":"19","click":"23","click_rate":"","total":"","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941"}
+2018-02-07 21:34:03  act 37 sumWeight=1
+2018-02-07 21:34:03  act 38 sumOffer=1
+2018-02-07 21:34:03  act 40 sumWeight=1
+2018-02-07 21:34:03  act 41 sumOffer=1
+2018-02-07 21:34:03  act 48 sum=[70.9]
+2018-02-07 21:34:03  act 51 channelModel UPDATE `a_luck_record` SET `CLICK`=CLICK+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 21:34:03  act 52 channel_count 1
+2018-02-07 21:34:03  act 54 =======计算次数结束======：
+2018-02-07 21:35:31  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"PUSH"}
+2018-02-07 21:35:31  act 54 channelModel UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 21:35:31  act 55 channel_count 1
+2018-02-07 21:35:32  act 16 =======计算次数开始======：{"draw_num":"1","system":"2","coupon_idlist":"2","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-07 21:35:32  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-07 21:35:32  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-07 21:35:32  act 32 channel_select [{"id":"1","user_name":"\u5e38\u4f1f","url":"http:\/\/bigfinance.yomibank.com\/Home\/Luck\/index?channel=10001","offer":"0.10","weight":"80","push":"20","click":"24","click_rate":"","total":"","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941","weight1":"140","offer1":"1.8"}]
+2018-02-07 21:35:32  act 35 sumWeight=
+2018-02-07 21:35:32  act 36 sumOffer=
+2018-02-07 21:35:32  act 43 sum=[false]
+2018-02-07 21:35:32  act 46 channelModel UPDATE `a_luck_record` SET `CLICK`=CLICK+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 21:35:32  act 47 channel_count 1
+2018-02-07 21:35:32  act 49 =======计算次数结束======：
+2018-02-07 21:37:13  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"PUSH"}
+2018-02-07 21:37:13  act 58 channelModel UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 21:37:13  act 59 channel_count 1
+2018-02-07 21:37:14  act 16 =======计算次数开始======：{"draw_num":"3","system":"2","coupon_idlist":"","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-07 21:37:14  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-07 21:37:14  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-07 21:37:14  act 32 channel_select [{"id":"1","user_name":"\u5e38\u4f1f","url":"http:\/\/bigfinance.yomibank.com\/Home\/Luck\/index?channel=10001","offer":"0.10","weight":"80","push":"21","click":"25","click_rate":"","total":"","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941","weight1":"140","offer1":"1.8"}]
+2018-02-07 21:37:14  act 39 sumWeight=
+2018-02-07 21:37:14  act 40 sumOffer=
+2018-02-07 21:37:14  act 47 sum=[false]
+2018-02-07 21:37:14  act 50 channelModel UPDATE `a_luck_record` SET `CLICK`=CLICK+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 21:37:14  act 51 channel_count 1
+2018-02-07 21:37:14  act 53 =======计算次数结束======：
+2018-02-07 21:37:45  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"PUSH"}
+2018-02-07 21:37:45  act 58 channelModel UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 21:37:45  act 59 channel_count 1
+2018-02-07 21:37:45  act 16 =======计算次数开始======：{"draw_num":"2","system":"2","coupon_idlist":"2","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-07 21:37:45  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-07 21:37:45  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-07 21:37:45  act 32 channel_select [{"id":"1","user_name":"\u5e38\u4f1f","url":"http:\/\/bigfinance.yomibank.com\/Home\/Luck\/index?channel=10001","offer":"0.10","weight":"80","push":"22","click":"26","click_rate":"","total":"","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941","weight1":"140","offer1":"1.8"}]
+2018-02-07 21:37:45  act 39 sumWeight=140
+2018-02-07 21:37:45  act 40 sumOffer=1.8
+2018-02-07 21:37:45  act 47 sum=[0.56488011283498]
+2018-02-07 21:37:45  act 50 channelModel UPDATE `a_luck_record` SET `CLICK`=CLICK+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 21:37:45  act 51 channel_count 1
+2018-02-07 21:37:45  act 53 =======计算次数结束======：
+2018-02-07 21:39:15  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"PUSH"}
+2018-02-07 21:39:15  act 59 channelModel UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 21:39:15  act 60 channel_count 1
+2018-02-07 21:39:15  act 16 =======计算次数开始======：{"draw_num":"1","system":"2","coupon_idlist":"2,2","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-07 21:39:15  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-07 21:39:15  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-07 21:39:15  act 33 channel_select [{"id":"1","user_name":"\u5e38\u4f1f","url":"http:\/\/bigfinance.yomibank.com\/Home\/Luck\/index?channel=10001","offer":"0.10","weight":"80","push":"23","click":"27","click_rate":"","total":"","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941"},{"id":"2","user_name":"\u5b66\u4e60\u5e7f\u544a","url":"http:\/\/","offer":"0.60","weight":"40","push":"","click":"","click_rate":"","total":"","channel_map_id":"0","md5":""},{"id":"3","user_name":"\u534e\u5c14\u8857","url":"http:\/\/","offer":"1.10","weight":"20","push":"","click":"","click_rate":"","total":"","channel_map_id":"0","md5":""}]
+2018-02-07 21:39:15  act 40 sumWeight=140
+2018-02-07 21:39:15  act 41 sumOffer=1.8
+2018-02-07 21:39:15  act 48 sum=[0.56488011283498,0.28631875881523,0.14880112834979]
+2018-02-07 21:39:15  act 51 channelModel UPDATE `a_luck_record` SET `CLICK`=CLICK+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 21:39:15  act 52 channel_count 1
+2018-02-07 21:39:15  act 54 =======计算次数结束======：
+2018-02-07 21:41:25  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"PUSH"}
+2018-02-07 21:41:25  act 60 channelModel UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 21:41:25  act 61 channel_count 1
+2018-02-07 21:41:26  act 16 =======计算次数开始======：{"draw_num":"3","system":"2","coupon_idlist":"","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-07 21:41:26  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-07 21:41:26  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-07 21:41:26  act 33 channel_select [{"id":"1","user_name":"\u5e38\u4f1f","url":"http:\/\/bigfinance.yomibank.com\/Home\/Luck\/index?channel=10001","offer":"0.10","weight":"80","push":"24","click":"28","click_rate":"","total":"","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941"},{"id":"2","user_name":"\u5b66\u4e60\u5e7f\u544a","url":"http:\/\/","offer":"0.60","weight":"40","push":"","click":"","click_rate":"","total":"","channel_map_id":"0","md5":""},{"id":"3","user_name":"\u534e\u5c14\u8857","url":"http:\/\/","offer":"1.10","weight":"20","push":"","click":"","click_rate":"","total":"","channel_map_id":"0","md5":""}]
+2018-02-07 21:41:26  act 34 channel_select_sum [{"weight1":"140","offer1":"1.8"}]
+2018-02-07 21:41:26  act 41 sumWeight=140
+2018-02-07 21:41:26  act 42 sumOffer=1.8
+2018-02-07 21:41:26  act 49 sum=[0.56488011283498,0.28631875881523,0.14880112834979]
+2018-02-07 21:41:26  act 52 channelModel UPDATE `a_luck_record` SET `CLICK`=CLICK+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 21:41:26  act 53 channel_count 1
+2018-02-07 21:41:26  act 55 =======计算次数结束======：
+2018-02-07 21:43:51  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"PUSH"}
+2018-02-07 21:43:51  act 56 channelModel UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 21:43:51  act 57 channel_count 1
+2018-02-07 21:43:51  act 16 =======计算次数开始======：{"draw_num":"2","system":"2","coupon_idlist":"2","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-07 21:43:51  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-07 21:43:51  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-07 21:43:51  act 31 channel_select [{"id":"1","user_name":"\u5e38\u4f1f","url":"http:\/\/bigfinance.yomibank.com\/Home\/Luck\/index?channel=10001","offer":"0.10","weight":"80","push":"25","click":"29","click_rate":"","total":"","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941"},{"id":"2","user_name":"\u5b66\u4e60\u5e7f\u544a","url":"http:\/\/","offer":"0.60","weight":"40","push":"","click":"","click_rate":"","total":"","channel_map_id":"0","md5":""},{"id":"3","user_name":"\u534e\u5c14\u8857","url":"http:\/\/","offer":"1.10","weight":"20","push":"","click":"","click_rate":"","total":"","channel_map_id":"0","md5":""}]
+2018-02-07 21:43:51  act 32 channel_select_sum [{"weight1":"140","offer1":"1.8"}]
+2018-02-07 21:43:51  act 37 sumWeight=140
+2018-02-07 21:43:51  act 38 sumOffer=1.8
+2018-02-07 21:43:51  act 45 sum=[56,29,15]
+2018-02-07 21:43:51  act 48 channelModel UPDATE `a_luck_record` SET `CLICK`=CLICK+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 21:43:51  act 49 channel_count 1
+2018-02-07 21:43:51  act 51 =======计算次数结束======：
+2018-02-07 21:54:38  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"PUSH"}
+2018-02-07 21:54:38  act 57 channelModel UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 21:54:38  act 58 channel_count 1
+2018-02-07 21:54:39  act 16 =======计算次数开始======：{"draw_num":"1","system":"2","coupon_idlist":"2,2","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-07 21:54:39  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-07 21:54:39  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-07 21:54:39  act 31 channel_select [{"id":"1","user_name":"\u5e38\u4f1f","url":"http:\/\/bigfinance.yomibank.com\/Home\/Luck\/index?channel=10001","offer":"0.10","weight":"80","push":"26","click":"30","click_rate":"","total":"","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941"},{"id":"2","user_name":"\u5b66\u4e60\u5e7f\u544a","url":"http:\/\/","offer":"0.60","weight":"40","push":"","click":"","click_rate":"","total":"","channel_map_id":"0","md5":""},{"id":"3","user_name":"\u534e\u5c14\u8857","url":"http:\/\/","offer":"1.10","weight":"20","push":"","click":"","click_rate":"","total":"","channel_map_id":"0","md5":""}]
+2018-02-07 21:54:39  act 32 channel_select_sum [{"weight1":"140","offer1":"1.8"}]
+2018-02-07 21:54:39  act 37 sumWeight=140
+2018-02-07 21:54:39  act 38 sumOffer=1.8
+2018-02-07 21:54:39  act 46 sum=[{"sum":56},{"id":"1"},{"sum":29},{"id":"2"},{"sum":15},{"id":"3"}]
+2018-02-07 21:54:39  act 49 channelModel UPDATE `a_luck_record` SET `CLICK`=CLICK+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 21:54:39  act 50 channel_count 1
+2018-02-07 21:54:39  act 52 =======计算次数结束======：
+2018-02-07 21:55:15  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"PUSH"}
+2018-02-07 21:55:15  act 56 channelModel UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 21:55:15  act 57 channel_count 1
+2018-02-07 21:55:15  act 16 =======计算次数开始======：{"draw_num":"3","system":"2","coupon_idlist":"","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-07 21:55:15  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-07 21:55:15  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-07 21:55:15  act 31 channel_select [{"id":"1","user_name":"\u5e38\u4f1f","url":"http:\/\/bigfinance.yomibank.com\/Home\/Luck\/index?channel=10001","offer":"0.10","weight":"80","push":"27","click":"31","click_rate":"","total":"","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941"},{"id":"2","user_name":"\u5b66\u4e60\u5e7f\u544a","url":"http:\/\/","offer":"0.60","weight":"40","push":"","click":"","click_rate":"","total":"","channel_map_id":"0","md5":""},{"id":"3","user_name":"\u534e\u5c14\u8857","url":"http:\/\/","offer":"1.10","weight":"20","push":"","click":"","click_rate":"","total":"","channel_map_id":"0","md5":""}]
+2018-02-07 21:55:15  act 32 channel_select_sum [{"weight1":"140","offer1":"1.8"}]
+2018-02-07 21:55:15  act 37 sumWeight=140
+2018-02-07 21:55:15  act 38 sumOffer=1.8
+2018-02-07 21:55:15  act 45 sum=[{"sum":56,"id":"1"},{"sum":29,"id":"2"},{"sum":15,"id":"3"}]
+2018-02-07 21:55:15  act 48 channelModel UPDATE `a_luck_record` SET `CLICK`=CLICK+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 21:55:15  act 49 channel_count 1
+2018-02-07 21:55:15  act 51 =======计算次数结束======：
+2018-02-07 22:11:10  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"PUSH"}
+2018-02-07 22:11:10  act 80 channelModel UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 22:11:10  act 81 channel_count 1
+2018-02-07 22:11:11  act 16 =======计算次数开始======：{"draw_num":"2","system":"2","coupon_idlist":"2","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-07 22:11:11  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-07 22:11:11  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-07 22:11:11  act 31 channel_select [{"id":"1","user_name":"\u5e38\u4f1f","url":"http:\/\/bigfinance.yomibank.com\/Home\/Luck\/index?channel=10001","offer":"0.10","weight":"80","push":"28","click":"32","click_rate":"","total":"","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941"},{"id":"2","user_name":"\u5b66\u4e60\u5e7f\u544a","url":"http:\/\/","offer":"0.60","weight":"40","push":"","click":"","click_rate":"","total":"","channel_map_id":"0","md5":""},{"id":"3","user_name":"\u534e\u5c14\u8857","url":"http:\/\/","offer":"1.10","weight":"20","push":"","click":"","click_rate":"","total":"","channel_map_id":"0","md5":""}]
+2018-02-07 22:11:11  act 32 channel_select_sum [{"weight1":"140","offer1":"1.8"}]
+2018-02-07 22:11:11  act 37 sumWeight=140
+2018-02-07 22:11:11  act 38 sumOffer=1.8
+2018-02-07 22:11:11  act 45 sum=[{"sum":56,"id":"1"},{"sum":29,"id":"2"},{"sum":15,"id":"3"}]
+2018-02-07 22:11:11  act 60 array={"start":29,"and":44,"id":"3"}
+2018-02-07 22:11:11  act 63 round=88
+2018-02-07 22:11:11  act 69 luck_record_find=null
+2018-02-07 22:11:11  act 72 channelModel UPDATE `a_luck_record` SET `CLICK`=CLICK+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 22:11:11  act 73 channel_count 1
+2018-02-07 22:11:11  act 75 =======计算次数结束======：
+2018-02-07 22:12:02  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"PUSH"}
+2018-02-07 22:12:02  act 80 channelModel UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 22:12:02  act 81 channel_count 1
+2018-02-07 22:12:02  act 16 =======计算次数开始======：{"draw_num":"1","system":"2","coupon_idlist":"2,2","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-07 22:12:03  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-07 22:12:03  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-07 22:12:03  act 31 channel_select [{"id":"1","user_name":"\u5e38\u4f1f","url":"http:\/\/bigfinance.yomibank.com\/Home\/Luck\/index?channel=10001","offer":"0.10","weight":"80","push":"29","click":"33","click_rate":"","total":"","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941"},{"id":"2","user_name":"\u5b66\u4e60\u5e7f\u544a","url":"http:\/\/","offer":"0.60","weight":"40","push":"","click":"","click_rate":"","total":"","channel_map_id":"0","md5":""},{"id":"3","user_name":"\u534e\u5c14\u8857","url":"http:\/\/","offer":"1.10","weight":"20","push":"","click":"","click_rate":"","total":"","channel_map_id":"0","md5":""}]
+2018-02-07 22:12:03  act 32 channel_select_sum [{"weight1":"140","offer1":"1.8"}]
+2018-02-07 22:12:03  act 37 sumWeight=140
+2018-02-07 22:12:03  act 38 sumOffer=1.8
+2018-02-07 22:12:03  act 45 sum=[{"sum":56,"id":"1"},{"sum":29,"id":"2"},{"sum":15,"id":"3"}]
+2018-02-07 22:12:03  act 60 array=[{"start":0,"and":56,"id":"1"},{"start":56,"and":30,"id":"2"},{"start":29,"and":44,"id":"3"}]
+2018-02-07 22:12:03  act 63 round=90
+2018-02-07 22:12:03  act 69 luck_record_find=null
+2018-02-07 22:12:03  act 72 channelModel UPDATE `a_luck_record` SET `CLICK`=CLICK+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 22:12:03  act 73 channel_count 1
+2018-02-07 22:12:03  act 75 =======计算次数结束======：
+2018-02-07 22:14:14  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"PUSH"}
+2018-02-07 22:14:14  act 80 channelModel UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 22:14:14  act 81 channel_count 1
+2018-02-07 22:14:20  act 16 =======计算次数开始======：{"draw_num":"3","system":"2","coupon_idlist":"","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-07 22:14:20  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-07 22:14:20  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-07 22:14:20  act 31 channel_select [{"id":"1","user_name":"\u5e38\u4f1f","url":"http:\/\/bigfinance.yomibank.com\/Home\/Luck\/index?channel=10001","offer":"0.10","weight":"80","push":"30","click":"34","click_rate":"","total":"","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941"},{"id":"2","user_name":"\u5b66\u4e60\u5e7f\u544a","url":"http:\/\/","offer":"0.60","weight":"40","push":"","click":"","click_rate":"","total":"","channel_map_id":"0","md5":""},{"id":"3","user_name":"\u534e\u5c14\u8857","url":"http:\/\/","offer":"1.10","weight":"20","push":"","click":"","click_rate":"","total":"","channel_map_id":"0","md5":""}]
+2018-02-07 22:14:20  act 32 channel_select_sum [{"weight1":"140","offer1":"1.8"}]
+2018-02-07 22:14:20  act 37 sumWeight=140
+2018-02-07 22:14:20  act 38 sumOffer=1.8
+2018-02-07 22:14:20  act 45 sum=[{"sum":56,"id":"1"},{"sum":29,"id":"2"},{"sum":15,"id":"3"}]
+2018-02-07 22:14:20  act 60 array=[{"start":0,"and":56,"id":"1"},{"start":56,"and":29,"id":"2"},{"start":29,"and":44,"id":"3"}]
+2018-02-07 22:14:20  act 63 round=46
+2018-02-07 22:14:20  act 69 luck_record_find={"id":"1","user_name":"\u5e38\u4f1f","url":"http:\/\/bigfinance.yomibank.com\/Home\/Luck\/index?channel=10001","offer":"0.10","weight":"80","push":"30","click":"34","click_rate":"","total":"","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941"}
+2018-02-07 22:14:20  act 72 channelModel UPDATE `a_luck_record` SET `CLICK`=CLICK+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 22:14:20  act 73 channel_count 1
+2018-02-07 22:14:20  act 75 =======计算次数结束======：
+2018-02-07 22:15:46  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"PUSH"}
+2018-02-07 22:15:46  act 80 channelModel UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 22:15:46  act 81 channel_count 1
+2018-02-07 22:15:46  act 16 =======计算次数开始======：{"draw_num":"2","system":"2","coupon_idlist":"2","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-07 22:15:46  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-07 22:15:46  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-07 22:15:46  act 31 channel_select [{"id":"1","user_name":"\u5e38\u4f1f","url":"http:\/\/bigfinance.yomibank.com\/Home\/Luck\/index?channel=10001","offer":"0.10","weight":"80","push":"31","click":"35","click_rate":"","total":"","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941"},{"id":"2","user_name":"\u5b66\u4e60\u5e7f\u544a","url":"http:\/\/","offer":"0.60","weight":"40","push":"","click":"","click_rate":"","total":"","channel_map_id":"0","md5":""},{"id":"3","user_name":"\u534e\u5c14\u8857","url":"http:\/\/","offer":"1.10","weight":"20","push":"","click":"","click_rate":"","total":"","channel_map_id":"0","md5":""}]
+2018-02-07 22:15:46  act 32 channel_select_sum [{"weight1":"140","offer1":"1.8"}]
+2018-02-07 22:15:46  act 37 sumWeight=140
+2018-02-07 22:15:46  act 38 sumOffer=1.8
+2018-02-07 22:15:46  act 45 sum=[{"sum":56,"id":"1"},{"sum":29,"id":"2"},{"sum":15,"id":"3"}]
+2018-02-07 22:15:46  act 60 array=[{"start":0,"end":56,"id":"1"},{"start":56,"end":85,"id":"2"},{"start":29,"end":44,"id":"3"}]
+2018-02-07 22:16:44  act 16 =======计算次数开始======：[]
+2018-02-07 22:20:07  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"PUSH"}
+2018-02-07 22:20:07  act 77 channelModel UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 22:20:07  act 78 channel_count 1
+2018-02-07 22:20:08  act 16 =======计算次数开始======：{"draw_num":"1","system":"2","coupon_idlist":"2","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-07 22:20:08  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-07 22:20:08  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-07 22:20:08  act 31 channel_select [{"id":"1","user_name":"\u5e38\u4f1f","url":"http:\/\/bigfinance.yomibank.com\/Home\/Luck\/index?channel=10001","offer":"0.10","weight":"80","push":"32","click":"35","click_rate":"","total":"","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941"},{"id":"2","user_name":"\u5b66\u4e60\u5e7f\u544a","url":"http:\/\/","offer":"0.60","weight":"40","push":"","click":"","click_rate":"","total":"","channel_map_id":"0","md5":""},{"id":"3","user_name":"\u534e\u5c14\u8857","url":"http:\/\/","offer":"1.10","weight":"20","push":"","click":"","click_rate":"","total":"","channel_map_id":"0","md5":""}]
+2018-02-07 22:20:08  act 32 channel_select_sum [{"weight1":"140","offer1":"1.8"}]
+2018-02-07 22:20:08  act 37 sumWeight=140
+2018-02-07 22:20:08  act 38 sumOffer=1.8
+2018-02-07 22:20:08  act 45 sum=[{"sum":56,"id":"1"},{"sum":29,"id":"2"},{"sum":15,"id":"3"}]
+2018-02-07 22:20:08  act 57 array=[{"start":0,"end":56,"id":"1"},{"start":56,"end":85,"id":"2"},{"start":85,"end":100,"id":"3"}]
+2018-02-07 22:20:42  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"PUSH"}
+2018-02-07 22:20:42  act 77 channelModel UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 22:20:42  act 78 channel_count 1
+2018-02-07 22:20:43  act 16 =======计算次数开始======：{"draw_num":"3","system":"2","coupon_idlist":"","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-07 22:20:43  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-07 22:20:43  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-07 22:20:43  act 31 channel_select [{"id":"1","user_name":"\u5e38\u4f1f","url":"http:\/\/bigfinance.yomibank.com\/Home\/Luck\/index?channel=10001","offer":"0.10","weight":"80","push":"33","click":"35","click_rate":"","total":"","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941"},{"id":"2","user_name":"\u5b66\u4e60\u5e7f\u544a","url":"http:\/\/","offer":"0.60","weight":"40","push":"","click":"","click_rate":"","total":"","channel_map_id":"0","md5":""},{"id":"3","user_name":"\u534e\u5c14\u8857","url":"http:\/\/","offer":"1.10","weight":"20","push":"","click":"","click_rate":"","total":"","channel_map_id":"0","md5":""}]
+2018-02-07 22:20:43  act 32 channel_select_sum [{"weight1":"140","offer1":"1.8"}]
+2018-02-07 22:20:43  act 37 sumWeight=140
+2018-02-07 22:20:43  act 38 sumOffer=1.8
+2018-02-07 22:20:43  act 45 sum=[{"sum":56,"id":"1"},{"sum":29,"id":"2"},{"sum":15,"id":"3"}]
+2018-02-07 22:20:43  act 57 array=[{"start":0,"end":56,"id":"1"},{"start":56,"end":85,"id":"2"},{"start":85,"end":100,"id":"3"}]
+2018-02-07 22:22:16  act 16 =======计算次数开始======：[]
+2018-02-07 22:22:16  act 23 MD5 
+2018-02-07 22:22:16  act 24 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = null LIMIT 1  
+2018-02-07 22:22:46  act 16 =======计算次数开始======：[]
+2018-02-07 22:22:46  act 23 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-07 22:22:46  act 24 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-07 22:22:46  act 32 channel_select [{"id":"1","user_name":"\u5e38\u4f1f","url":"http:\/\/bigfinance.yomibank.com\/Home\/Luck\/index?channel=10001","offer":"0.10","weight":"80","push":"33","click":"35","click_rate":"","total":"","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941"},{"id":"2","user_name":"\u5b66\u4e60\u5e7f\u544a","url":"http:\/\/","offer":"0.60","weight":"40","push":"","click":"","click_rate":"","total":"","channel_map_id":"0","md5":""},{"id":"3","user_name":"\u534e\u5c14\u8857","url":"http:\/\/","offer":"1.10","weight":"20","push":"","click":"","click_rate":"","total":"","channel_map_id":"0","md5":""}]
+2018-02-07 22:22:46  act 33 channel_select_sum [{"weight1":"140","offer1":"1.8"}]
+2018-02-07 22:22:46  act 38 sumWeight=140
+2018-02-07 22:22:46  act 39 sumOffer=1.8
+2018-02-07 22:22:46  act 46 sum=[{"sum":56,"id":"1"},{"sum":29,"id":"2"},{"sum":15,"id":"3"}]
+2018-02-07 22:22:46  act 58 array=[{"start":0,"end":56,"id":"1"},{"start":56,"end":85,"id":"2"},{"start":85,"end":100,"id":"3"}]
+2018-02-07 22:23:42  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"PUSH"}
+2018-02-07 22:23:42  act 16 =======计算次数开始======：{"draw_num":"2","system":"2","coupon_idlist":"","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-07 22:23:57  act 16 =======计算次数开始======：[]
+2018-02-07 22:23:57  act 23 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-07 22:23:57  act 24 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-07 22:23:57  act 32 channel_select [{"id":"1","user_name":"\u5e38\u4f1f","url":"http:\/\/bigfinance.yomibank.com\/Home\/Luck\/index?channel=10001","offer":"0.10","weight":"80","push":"33","click":"35","click_rate":"","total":"","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941"},{"id":"2","user_name":"\u5b66\u4e60\u5e7f\u544a","url":"http:\/\/","offer":"0.60","weight":"40","push":"","click":"","click_rate":"","total":"","channel_map_id":"0","md5":""},{"id":"3","user_name":"\u534e\u5c14\u8857","url":"http:\/\/","offer":"1.10","weight":"20","push":"","click":"","click_rate":"","total":"","channel_map_id":"0","md5":""}]
+2018-02-07 22:23:57  act 33 channel_select_sum [{"weight1":"140","offer1":"1.8"}]
+2018-02-07 22:23:57  act 38 sumWeight=140
+2018-02-07 22:23:57  act 39 sumOffer=1.8
+2018-02-07 22:23:57  act 46 sum=[{"sum":56,"id":"1"},{"sum":29,"id":"2"},{"sum":15,"id":"3"}]
+2018-02-07 22:23:57  act 58 array=[{"start":0,"end":56,"id":"1"},{"start":56,"end":85,"id":"2"},{"start":85,"end":100,"id":"3"}]
+2018-02-07 22:23:57  act 61 round=51
+2018-02-07 22:23:57  act 67 luck_record_find={"id":"1","user_name":"\u5e38\u4f1f","url":"http:\/\/bigfinance.yomibank.com\/Home\/Luck\/index?channel=10001","offer":"0.10","weight":"80","push":"33","click":"35","click_rate":"","total":"","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941"}
+2018-02-07 22:23:57  act 70 channelModel UPDATE `a_luck_record` SET `CLICK`=CLICK+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 22:23:57  act 71 channel_count 1
+2018-02-07 22:23:57  act 73 =======计算次数结束======：
+2018-02-07 22:26:20  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"PUSH"}
+2018-02-07 22:26:21  act 16 =======计算次数开始======：{"draw_num":"1","system":"2","coupon_idlist":"","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-07 22:27:00  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"PUSH"}
+2018-02-07 22:27:00  act 77 channelModel UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 22:27:00  act 78 channel_count 1
+2018-02-07 22:27:00  act 16 =======计算次数开始======：{"draw_num":"3","system":"2","coupon_idlist":"","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-07 22:27:00  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-07 22:27:00  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-07 22:27:00  act 31 channel_select [{"id":"1","user_name":"\u5e38\u4f1f","url":"http:\/\/bigfinance.yomibank.com\/Home\/Luck\/index?channel=10001","offer":"0.10","weight":"80","push":"34","click":"36","click_rate":"","total":"","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941"},{"id":"2","user_name":"\u5b66\u4e60\u5e7f\u544a","url":"http:\/\/","offer":"0.60","weight":"40","push":"","click":"","click_rate":"","total":"","channel_map_id":"0","md5":""},{"id":"3","user_name":"\u534e\u5c14\u8857","url":"http:\/\/","offer":"1.10","weight":"20","push":"","click":"","click_rate":"","total":"","channel_map_id":"0","md5":""}]
+2018-02-07 22:27:00  act 32 channel_select_sum [{"weight1":"140","offer1":"1.8"}]
+2018-02-07 22:27:00  act 37 sumWeight=140
+2018-02-07 22:27:00  act 38 sumOffer=1.8
+2018-02-07 22:27:00  act 45 sum=[{"sum":56,"id":"1"},{"sum":29,"id":"2"},{"sum":15,"id":"3"}]
+2018-02-07 22:27:00  act 57 array=[{"start":0,"end":56,"id":"1"},{"start":56,"end":85,"id":"2"},{"start":85,"end":100,"id":"3"}]
+2018-02-07 22:27:00  act 60 round=42
+2018-02-07 22:27:00  act 66 luck_record_find={"id":"1","user_name":"\u5e38\u4f1f","url":"http:\/\/bigfinance.yomibank.com\/Home\/Luck\/index?channel=10001","offer":"0.10","weight":"80","push":"34","click":"36","click_rate":"","total":"","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941"}
+2018-02-07 22:27:00  act 69 channelModel UPDATE `a_luck_record` SET `CLICK`=CLICK+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 22:27:00  act 70 channel_count 1
+2018-02-07 22:27:00  act 72 =======计算次数结束======：
+2018-02-07 22:40:04  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"PUSH"}
+2018-02-07 22:40:04  act 77 channelModel UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 22:40:04  act 78 channel_count 1
+2018-02-07 22:40:05  act 16 =======计算次数开始======：{"draw_num":"2","system":"2","coupon_idlist":"2","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-07 22:40:05  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-07 22:40:05  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-07 22:40:05  act 31 channel_select [{"id":"1","user_name":"\u5e38\u4f1f","image_url":"http:\/\/bigfinance.yomibank.com\/Home\/Luck\/index?channel=10001","offer":"0.10","weight":"80","push":"35","click":"37","click_rate":"","total":"","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941","link_url":""},{"id":"2","user_name":"\u5b66\u4e60\u5e7f\u544a","image_url":"http:\/\/","offer":"0.60","weight":"40","push":"","click":"","click_rate":"","total":"","channel_map_id":"0","md5":"","link_url":""},{"id":"3","user_name":"\u534e\u5c14\u8857","image_url":"http:\/\/","offer":"1.10","weight":"20","push":"","click":"","click_rate":"","total":"","channel_map_id":"0","md5":"","link_url":""}]
+2018-02-07 22:40:05  act 32 channel_select_sum [{"weight1":"140","offer1":"1.8"}]
+2018-02-07 22:40:05  act 37 sumWeight=140
+2018-02-07 22:40:05  act 38 sumOffer=1.8
+2018-02-07 22:40:05  act 45 sum=[{"sum":56,"id":"1"},{"sum":29,"id":"2"},{"sum":15,"id":"3"}]
+2018-02-07 22:40:05  act 57 array=[{"start":0,"end":56,"id":"1"},{"start":56,"end":85,"id":"2"},{"start":85,"end":100,"id":"3"}]
+2018-02-07 22:40:05  act 60 round=34
+2018-02-07 22:40:05  act 66 luck_record_find={"id":"1","user_name":"\u5e38\u4f1f","image_url":"http:\/\/bigfinance.yomibank.com\/Home\/Luck\/index?channel=10001","offer":"0.10","weight":"80","push":"35","click":"37","click_rate":"","total":"","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941","link_url":""}
+2018-02-07 22:40:05  act 69 channelModel UPDATE `a_luck_record` SET `CLICK`=CLICK+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 22:40:05  act 70 channel_count 1
+2018-02-07 22:40:05  act 72 =======计算次数结束======：
+2018-02-07 22:40:31  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"PUSH"}
+2018-02-07 22:40:31  act 77 channelModel UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 22:40:31  act 78 channel_count 1
+2018-02-07 22:40:31  act 16 =======计算次数开始======：{"draw_num":"1","system":"2","coupon_idlist":"2,2","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-07 22:40:31  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-07 22:40:31  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-07 22:40:31  act 31 channel_select [{"id":"1","user_name":"\u5e38\u4f1f","image_url":"http:\/\/bigfinance.yomibank.com\/Home\/Luck\/index?channel=10001","offer":"0.10","weight":"80","push":"36","click":"38","click_rate":"","total":"","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941","link_url":""},{"id":"2","user_name":"\u5b66\u4e60\u5e7f\u544a","image_url":"http:\/\/","offer":"0.60","weight":"40","push":"","click":"","click_rate":"","total":"","channel_map_id":"0","md5":"","link_url":""},{"id":"3","user_name":"\u534e\u5c14\u8857","image_url":"http:\/\/","offer":"1.10","weight":"20","push":"","click":"","click_rate":"","total":"","channel_map_id":"0","md5":"","link_url":""}]
+2018-02-07 22:40:31  act 32 channel_select_sum [{"weight1":"140","offer1":"1.8"}]
+2018-02-07 22:40:31  act 37 sumWeight=140
+2018-02-07 22:40:31  act 38 sumOffer=1.8
+2018-02-07 22:40:31  act 45 sum=[{"sum":56,"id":"1"},{"sum":29,"id":"2"},{"sum":15,"id":"3"}]
+2018-02-07 22:40:31  act 57 array=[{"start":0,"end":56,"id":"1"},{"start":56,"end":85,"id":"2"},{"start":85,"end":100,"id":"3"}]
+2018-02-07 22:40:31  act 60 round=4
+2018-02-07 22:40:31  act 66 luck_record_find={"id":"1","user_name":"\u5e38\u4f1f","image_url":"http:\/\/bigfinance.yomibank.com\/Home\/Luck\/index?channel=10001","offer":"0.10","weight":"80","push":"36","click":"38","click_rate":"","total":"","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941","link_url":""}
+2018-02-07 22:40:31  act 69 channelModel UPDATE `a_luck_record` SET `CLICK`=CLICK+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 22:40:31  act 70 channel_count 1
+2018-02-07 22:40:31  act 72 =======计算次数结束======：{"status":"200","imgurl":null,"link":null,"position":"6","id":"2","title":null}
+2018-02-07 22:41:40  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"PUSH"}
+2018-02-07 22:41:40  act 77 channelModel UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 22:41:40  act 78 channel_count 1
+2018-02-07 22:41:41  act 16 =======计算次数开始======：{"draw_num":"3","system":"2","coupon_idlist":"","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-07 22:41:41  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-07 22:41:41  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-07 22:41:41  act 31 channel_select [{"id":"1","user_name":"\u5e38\u4f1f","image_url":"http:\/\/bigfinance.yomibank.com\/Home\/Luck\/index?channel=10001","offer":"0.10","weight":"80","push":"37","click":"39","click_rate":"","total":"","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941","link_url":""},{"id":"2","user_name":"\u5b66\u4e60\u5e7f\u544a","image_url":"http:\/\/","offer":"0.60","weight":"40","push":"","click":"","click_rate":"","total":"","channel_map_id":"0","md5":"","link_url":""},{"id":"3","user_name":"\u534e\u5c14\u8857","image_url":"http:\/\/","offer":"1.10","weight":"20","push":"","click":"","click_rate":"","total":"","channel_map_id":"0","md5":"","link_url":""}]
+2018-02-07 22:41:41  act 32 channel_select_sum [{"weight1":"140","offer1":"1.8"}]
+2018-02-07 22:41:41  act 37 sumWeight=140
+2018-02-07 22:41:41  act 38 sumOffer=1.8
+2018-02-07 22:41:41  act 45 sum=[{"sum":56,"id":"1"},{"sum":29,"id":"2"},{"sum":15,"id":"3"}]
+2018-02-07 22:41:41  act 57 array=[{"start":0,"end":56,"id":"1"},{"start":56,"end":85,"id":"2"},{"start":85,"end":100,"id":"3"}]
+2018-02-07 22:41:41  act 60 round=77
+2018-02-07 22:41:41  act 66 luck_record_find={"id":"1","user_name":"\u5e38\u4f1f","image_url":"http:\/\/bigfinance.yomibank.com\/Home\/Luck\/index?channel=10001","offer":"0.10","weight":"80","push":"37","click":"39","click_rate":"","total":"","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941","link_url":""}
+2018-02-07 22:41:41  act 69 channelModel UPDATE `a_luck_record` SET `CLICK`=CLICK+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 22:41:41  act 70 channel_count 1
+2018-02-07 22:41:41  act 72 =======计算次数结束======：{"status":"200","imgurl":"http:\/\/bigfinance.yomibank.com\/Home\/Luck\/index?channel=10001","link":"","position":"6","id":"2","title":"\u5e38\u4f1f"}
+2018-02-07 22:43:28  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"PUSH"}
+2018-02-07 22:43:28  act 77 channelModel UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 22:43:28  act 78 channel_count 1
+2018-02-07 22:43:28  act 16 =======计算次数开始======：{"draw_num":"2","system":"2","coupon_idlist":"2","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-07 22:43:28  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-07 22:43:28  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-07 22:43:28  act 31 channel_select [{"id":"1","user_name":"\u5e38\u4f1f","image_url":"http:\/\/bigfinance.yomibank.com\/Home\/Luck\/index?channel=10001","offer":"0.10","weight":"80","push":"38","click":"40","click_rate":"","total":"","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941","link_url":"http:\/\/www.baidu.com"},{"id":"2","user_name":"\u5b66\u4e60\u5e7f\u544a","image_url":"http:\/\/","offer":"0.60","weight":"40","push":"","click":"","click_rate":"","total":"","channel_map_id":"0","md5":"","link_url":"http:\/\/www.baidu.com"},{"id":"3","user_name":"\u534e\u5c14\u8857","image_url":"http:\/\/","offer":"1.10","weight":"20","push":"","click":"","click_rate":"","total":"","channel_map_id":"0","md5":"","link_url":"http:\/\/www.baidu.com"}]
+2018-02-07 22:43:28  act 32 channel_select_sum [{"weight1":"140","offer1":"1.8"}]
+2018-02-07 22:43:28  act 37 sumWeight=140
+2018-02-07 22:43:28  act 38 sumOffer=1.8
+2018-02-07 22:43:28  act 45 sum=[{"sum":56,"id":"1"},{"sum":29,"id":"2"},{"sum":15,"id":"3"}]
+2018-02-07 22:43:28  act 57 array=[{"start":0,"end":56,"id":"1"},{"start":56,"end":85,"id":"2"},{"start":85,"end":100,"id":"3"}]
+2018-02-07 22:43:28  act 60 round=73
+2018-02-07 22:43:28  act 66 luck_record_find={"id":"1","user_name":"\u5e38\u4f1f","image_url":"http:\/\/bigfinance.yomibank.com\/Home\/Luck\/index?channel=10001","offer":"0.10","weight":"80","push":"38","click":"40","click_rate":"","total":"","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941","link_url":"http:\/\/www.baidu.com"}
+2018-02-07 22:43:28  act 69 channelModel UPDATE `a_luck_record` SET `CLICK`=CLICK+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 22:43:28  act 70 channel_count 1
+2018-02-07 22:43:28  act 72 =======计算次数结束======：{"status":"200","imgurl":"http:\/\/bigfinance.yomibank.com\/Home\/Luck\/index?channel=10001","link":"http:\/\/www.baidu.com","position":"6","id":"2","title":"\u5e38\u4f1f"}
+2018-02-07 22:43:56  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"PUSH"}
+2018-02-07 22:43:56  act 77 channelModel UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 22:43:56  act 78 channel_count 1
+2018-02-07 22:43:56  act 16 =======计算次数开始======：{"draw_num":"1","system":"2","coupon_idlist":"2,2","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-07 22:43:56  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-07 22:43:56  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-07 22:43:56  act 31 channel_select [{"id":"1","user_name":"\u5e38\u4f1f","image_url":"http:\/\/bigfinance.yomibank.com\/Home\/Luck\/index?channel=10001","offer":"0.10","weight":"80","push":"39","click":"41","click_rate":"","total":"","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941","link_url":"www.baidu.com"},{"id":"2","user_name":"\u5b66\u4e60\u5e7f\u544a","image_url":"http:\/\/","offer":"0.60","weight":"40","push":"","click":"","click_rate":"","total":"","channel_map_id":"0","md5":"","link_url":"www.baidu.com"},{"id":"3","user_name":"\u534e\u5c14\u8857","image_url":"http:\/\/","offer":"1.10","weight":"20","push":"","click":"","click_rate":"","total":"","channel_map_id":"0","md5":"","link_url":"www.baidu.com"}]
+2018-02-07 22:43:56  act 32 channel_select_sum [{"weight1":"140","offer1":"1.8"}]
+2018-02-07 22:43:56  act 37 sumWeight=140
+2018-02-07 22:43:56  act 38 sumOffer=1.8
+2018-02-07 22:43:56  act 45 sum=[{"sum":56,"id":"1"},{"sum":29,"id":"2"},{"sum":15,"id":"3"}]
+2018-02-07 22:43:56  act 57 array=[{"start":0,"end":56,"id":"1"},{"start":56,"end":85,"id":"2"},{"start":85,"end":100,"id":"3"}]
+2018-02-07 22:43:56  act 60 round=74
+2018-02-07 22:43:56  act 66 luck_record_find={"id":"1","user_name":"\u5e38\u4f1f","image_url":"http:\/\/bigfinance.yomibank.com\/Home\/Luck\/index?channel=10001","offer":"0.10","weight":"80","push":"39","click":"41","click_rate":"","total":"","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941","link_url":"www.baidu.com"}
+2018-02-07 22:43:56  act 69 channelModel UPDATE `a_luck_record` SET `CLICK`=CLICK+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 22:43:56  act 70 channel_count 1
+2018-02-07 22:43:56  act 72 =======计算次数结束======：{"status":"200","imgurl":"http:\/\/bigfinance.yomibank.com\/Home\/Luck\/index?channel=10001","link":"www.baidu.com","position":"6","id":"2","title":"\u5e38\u4f1f"}
+2018-02-07 22:44:55  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"PUSH"}
+2018-02-07 22:44:55  act 77 channelModel UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 22:44:55  act 78 channel_count 1
+2018-02-07 22:44:55  act 16 =======计算次数开始======：{"draw_num":"3","system":"2","coupon_idlist":"","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-07 22:44:55  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-07 22:44:55  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-07 22:44:55  act 31 channel_select [{"id":"1","user_name":"\u5e38\u4f1f","image_url":"http:\/\/bigfinance.yomibank.com\/Home\/Luck\/index?channel=10001","offer":"0.10","weight":"80","push":"40","click":"42","click_rate":"","total":"","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941","link_url":"www.baidu.com"},{"id":"2","user_name":"\u5b66\u4e60\u5e7f\u544a","image_url":"http:\/\/","offer":"0.60","weight":"40","push":"","click":"","click_rate":"","total":"","channel_map_id":"0","md5":"","link_url":"www.baidu.com"},{"id":"3","user_name":"\u534e\u5c14\u8857","image_url":"http:\/\/","offer":"1.10","weight":"20","push":"","click":"","click_rate":"","total":"","channel_map_id":"0","md5":"","link_url":"www.baidu.com"}]
+2018-02-07 22:44:55  act 32 channel_select_sum [{"weight1":"140","offer1":"1.8"}]
+2018-02-07 22:44:55  act 37 sumWeight=140
+2018-02-07 22:44:55  act 38 sumOffer=1.8
+2018-02-07 22:44:55  act 45 sum=[{"sum":56,"id":"1"},{"sum":29,"id":"2"},{"sum":15,"id":"3"}]
+2018-02-07 22:44:55  act 57 array=[{"start":0,"end":56,"id":"1"},{"start":56,"end":85,"id":"2"},{"start":85,"end":100,"id":"3"}]
+2018-02-07 22:44:55  act 60 round=44
+2018-02-07 22:44:55  act 66 luck_record_find={"id":"1","user_name":"\u5e38\u4f1f","image_url":"http:\/\/bigfinance.yomibank.com\/Home\/Luck\/index?channel=10001","offer":"0.10","weight":"80","push":"40","click":"42","click_rate":"","total":"","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941","link_url":"www.baidu.com"}
+2018-02-07 22:44:55  act 69 channelModel UPDATE `a_luck_record` SET `CLICK`=CLICK+1 WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941'
+2018-02-07 22:44:55  act 70 channel_count 1
+2018-02-07 22:44:55  act 72 =======计算次数结束======：{"status":"200","imgurl":"http:\/\/bigfinance.yomibank.com\/Home\/Luck\/index?channel=10001","link":"www.baidu.com","position":"6","id":"2","title":"\u5e38\u4f1f"}

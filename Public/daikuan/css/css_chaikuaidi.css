@@ -1,0 +1,172 @@
+@charset "utf-8";
+@import "common.css"/*tpa=http://kyzp.dsh178.com/style/css/common.css*/;
+
+/*
+ * @QQ：497146
+ * @author：叶超
+ * @e-mail: 497146@qq.com
+*/
+
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-size: 100%;
+	background: transparent;
+}
+
+body {
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	/* Fix for webkit rendering */
+	-webkit-text-size-adjust: 100%;
+	/* Fix for webkit minFont size */
+	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+	/* Remove highlight on tap event*/
+	-moz-tap-highlight-color: rgba(0, 0, 0, 0);
+	-ms-tap-highlight-color: rgba(0, 0, 0, 0);
+	tap-highlight-color: rgba(0, 0, 0, 0);
+	font-size: 0.12rem;
+	font-family: Microsoft Yahei, Arial;
+}
+
+ol,
+ul {
+	list-style: none;
+}
+
+blockquote,
+q {
+	quotes: none;
+}
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+	content: '';
+	content: none;
+}
+
+:focus {
+	outline: 0;
+}
+
+ins {
+	text-decoration: none;
+}
+
+del {
+	text-decoration: line-through;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+em,
+i {
+	font-style: normal;
+}
+
+.container:after {
+	content: "\0020";
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden;
+}
+
+.clearfix:before,
+.clearfix:after {
+	content: '\0020';
+	display: block;
+	overflow: hidden;
+	visibility: hidden;
+	width: 0;
+	height: 0;
+}
+
+.clearfix:after {
+	clear: both;
+}
+
+.clearfix {
+	zoom: 1;
+}
+
+.clear {
+	clear: both;
+	display: block;
+	overflow: hidden;
+	visibility: hidden;
+	width: 0;
+	height: 0;
+}
+
+.fl {
+	float: left
+}
+
+.fr {
+	float: right;
+}
+
+.pngfix {}
+
+input[type="reset"]::-moz-focus-inner,
+input[type="button"]::-moz-focus-inner,
+input[type="submit"]::-moz-focus-inner,
+input[type="file"]>input[type="button"]::-moz-focus-inner {
+	border: none;
+	padding: 0;
+}
+
+body {
+	/*background: #fec93b;
+	background-size: 3.75rem 6.67rem;*/
+	background-size: cover;
+}
+
+.w750 {width:3.75rem;margin: auto;background-repeat: no-repeat;background-size: 100% auto;height: 6.67rem;position: relative;}
+.kuaidi_top {height: 2rem;background-image:url("../img/top.png")/*tpa=http://kyzp.dsh178.com/style/img/top.png*/;background-repeat: no-repeat;background-size: 100%;}
+.kuaidi_box_a {width:1.81rem;height:1.66rem;background-image:url("../img/box.png")/*tpa=http://kyzp.dsh178.com/style/img/box.png*/ ;background-repeat: no-repeat;background-size: 100%;display: block;position: absolute;bottom: 0;left: 50%;margin-left:-0.905rem}
+
+.kuaidi_su {text-align: center;color: #FFF;font-size:0.15rem;}
+.kuaidi_su em {color:#ffe756 ;}
+.kuaidi_box {height:2.5rem ;position: relative;}
+
+.kuaidi_box_b {width:1.48rem;height:1.01rem;background-image: url("../img/knife.png")/*tpa=http://kyzp.dsh178.com/style/img/knife.png*/;background-size: 100%;background-repeat: no-repeat;position: absolute;left: 1.175rem;top: 0.275rem;}
+.kd_boxa {background-image:url("../img/knife_2.png")/*tpa=http://kyzp.dsh178.com/style/img/knife_2.png*/ ;}
+.kuaidi_jp {margin-top: 0.75rem;}
+.kuaidi_jp ul li {width:0.935rem;height:0.895rem;float: left ;display: block;background-image:url("../img/jp.png")/*tpa=http://kyzp.dsh178.com/style/img/jp.png*/ ;background-size: 100%;background-repeat: no-repeat;}
+.kuaidi_jp ul li span {width:0.65rem;height:0.65rem;display: block;margin:auto;padding-left:0.01rem;padding-top: 0.01rem;}
+.kuaidi_jp ul li span img {width: 100%;margin:auto;}
+
+.isok {
+	-webkit-animation-name: donghua;  
+    -webkit-animation-duration: 1s;  
+    -webkit-animation-timing-function: linear;  
+    -webkit-animation-direction: alternate;  
+    -webkit-animation-iteration-count: 1;  
+}
+.isclose { left:2.015rem;top:0.04rem;}
+
+.guize_in {position: absolute;top:0.25rem;left:0.25rem;width:0.6rem;height:0.25rem;background: none;}
+.guize_in img {width: 100%;height: auto;}
+.zhongjiang {position: absolute;top: 0px;right: 0px;width:0.54rem;height:0.54rem;}
+.zhongjiang img {width: 100%;height: auto;}
+
+
+@-webkit-keyframes donghua {  
+    0% {  
+    	
+    	left: 1.175rem;top: 0.275rem;
+    }  
+    100% {  
+       left:2.015rem;top:0.04rem;
+    } 
+}  
+

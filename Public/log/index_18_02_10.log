@@ -1,0 +1,647 @@
+2018-02-10 13:30:52  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"PUSH"}
+2018-02-10 13:30:52  act 100 channelModel UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE ( 1=1 )
+2018-02-10 13:30:52  act 101 channel_count 3
+2018-02-10 13:30:57  act 16 =======计算次数开始======：{"draw_num":"3","system":"2","coupon_idlist":"","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-10 13:30:57  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-10 13:30:57  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-10 13:30:57  act 31 channel_select [{"id":"1","user_name":"\u83b7\u5f97\u4e07\u5143\u51cf\u606f\u5238","image_url":"\/Public\/bigwheel\/images\/PPcd2Fu7vM.jpg","offer":"0.60","weight":"80","push":"8","click":"15","click_rate":"50","total":"3.60","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941","link_url":"https:\/\/mkt.360jie.com.cn\/activity\/ch\/tcscxyzp\/lanmu105","link_click":"6","luck_push":"12"},{"id":"2","user_name":"\u83ab\u65af\u5229\u5b89\u9178\u59761\u5143\u4e00\u7bb1","image_url":"\/Public\/bigwheel\/images\/OKtuODCPUs.jpg","offer":"0.60","weight":"40","push":"8","click":"15","click_rate":"0","total":"0.00","channel_map_id":"10001","md5":"","link_url":"http:\/\/passport.fanli.com\/mark?c=v8yj49bb6w","link_click":"0","luck_push":"3"},{"id":"3","user_name":"\u6765\u62a2\u300a\u793e\u4ea4\u82f1\u8bed\u300b","image_url":"\/Public\/bigwheel\/images\/jwHOvllMRK.jpg","offer":"0.01","weight":"10","push":"8","click":"15","click_rate":"0","total":"0.03","channel_map_id":"10001","md5":"","link_url":"https:\/\/m.wselearning.com\/Registernetworkj\/pro-1.aspx?winType=TCSC1712SNJ","link_click":"0","luck_push":"0"}]
+2018-02-10 13:30:57  act 32 channel_select_sum [{"weight1":"130","offer1":"1.21"}]
+2018-02-10 13:30:57  act 37 sumWeight=130
+2018-02-10 13:30:57  act 38 sumOffer=1.21
+2018-02-10 13:30:57  act 45 sum=[{"sum":61,"id":"1"},{"sum":31,"id":"2"},{"sum":8,"id":"3"}]
+2018-02-10 13:30:57  act 57 array=[{"start":0,"end":61,"id":"1"},{"start":61,"end":92,"id":"2"},{"start":92,"end":100,"id":"3"}]
+2018-02-10 13:30:57  act 60 round=76
+2018-02-10 13:30:57  act 63 end=92
+2018-02-10 13:30:57  act 64 start=61
+2018-02-10 13:30:57  act 71 id 2
+2018-02-10 13:30:57  act 72 luck_record_find={"id":"2","user_name":"\u83ab\u65af\u5229\u5b89\u9178\u59761\u5143\u4e00\u7bb1","image_url":"\/Public\/bigwheel\/images\/OKtuODCPUs.jpg","offer":"0.60","weight":"40","push":"8","click":"15","click_rate":"0","total":"0.00","channel_map_id":"10001","md5":"","link_url":"http:\/\/passport.fanli.com\/mark?c=v8yj49bb6w","link_click":"0","luck_push":"3"}
+2018-02-10 13:30:57  act 74 channel_count 3
+2018-02-10 13:30:57  act 76 channel_find={"link_click":"0","click":"16","luck_push":"4","offer":"0.60"}
+2018-02-10 13:30:57  act 79 click_rate=0
+2018-02-10 13:30:57  act 85 channelModel UPDATE `a_luck_record` SET `CLICK_RATE`='0' WHERE `ID` = 2
+2018-02-10 13:30:57  act 89 total 0.00
+2018-02-10 13:30:57  act 91 channelModel UPDATE `a_luck_record` SET `TOTAL`='0.00' WHERE `ID` = 2
+2018-02-10 13:30:57  act 92 channel_save_total 0
+2018-02-10 13:30:57  act 95 =======计算次数结束======：{"status":"200","imgurl":"\/Public\/bigwheel\/images\/OKtuODCPUs.jpg","link":"http:\/\/passport.fanli.com\/mark?c=v8yj49bb6w","position":"6","id":"2","title":"\u83ab\u65af\u5229\u5b89\u9178\u59761\u5143\u4e00\u7bb1"}
+2018-02-10 13:31:03  act 16 =======计算次数开始======：{"draw_num":"2","system":"2","coupon_idlist":"2","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-10 13:31:03  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-10 13:31:03  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-10 13:31:03  act 31 channel_select [{"id":"1","user_name":"\u83b7\u5f97\u4e07\u5143\u51cf\u606f\u5238","image_url":"\/Public\/bigwheel\/images\/PPcd2Fu7vM.jpg","offer":"0.60","weight":"80","push":"8","click":"16","click_rate":"50","total":"3.60","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941","link_url":"https:\/\/mkt.360jie.com.cn\/activity\/ch\/tcscxyzp\/lanmu105","link_click":"6","luck_push":"12"},{"id":"2","user_name":"\u83ab\u65af\u5229\u5b89\u9178\u59761\u5143\u4e00\u7bb1","image_url":"\/Public\/bigwheel\/images\/OKtuODCPUs.jpg","offer":"0.60","weight":"40","push":"8","click":"16","click_rate":"0","total":"0.00","channel_map_id":"10001","md5":"","link_url":"http:\/\/passport.fanli.com\/mark?c=v8yj49bb6w","link_click":"0","luck_push":"4"},{"id":"3","user_name":"\u6765\u62a2\u300a\u793e\u4ea4\u82f1\u8bed\u300b","image_url":"\/Public\/bigwheel\/images\/jwHOvllMRK.jpg","offer":"0.01","weight":"10","push":"8","click":"16","click_rate":"0","total":"0.03","channel_map_id":"10001","md5":"","link_url":"https:\/\/m.wselearning.com\/Registernetworkj\/pro-1.aspx?winType=TCSC1712SNJ","link_click":"0","luck_push":"0"}]
+2018-02-10 13:31:03  act 32 channel_select_sum [{"weight1":"130","offer1":"1.21"}]
+2018-02-10 13:31:03  act 37 sumWeight=130
+2018-02-10 13:31:03  act 38 sumOffer=1.21
+2018-02-10 13:31:03  act 45 sum=[{"sum":61,"id":"1"},{"sum":31,"id":"2"},{"sum":8,"id":"3"}]
+2018-02-10 13:31:03  act 57 array=[{"start":0,"end":61,"id":"1"},{"start":61,"end":92,"id":"2"},{"start":92,"end":100,"id":"3"}]
+2018-02-10 13:31:03  act 60 round=70
+2018-02-10 13:31:03  act 63 end=92
+2018-02-10 13:31:03  act 64 start=61
+2018-02-10 13:31:03  act 71 id 2
+2018-02-10 13:31:03  act 72 luck_record_find={"id":"2","user_name":"\u83ab\u65af\u5229\u5b89\u9178\u59761\u5143\u4e00\u7bb1","image_url":"\/Public\/bigwheel\/images\/OKtuODCPUs.jpg","offer":"0.60","weight":"40","push":"8","click":"16","click_rate":"0","total":"0.00","channel_map_id":"10001","md5":"","link_url":"http:\/\/passport.fanli.com\/mark?c=v8yj49bb6w","link_click":"0","luck_push":"4"}
+2018-02-10 13:31:03  act 74 channel_count 3
+2018-02-10 13:31:03  act 76 channel_find={"link_click":"0","click":"17","luck_push":"5","offer":"0.60"}
+2018-02-10 13:31:03  act 79 click_rate=0
+2018-02-10 13:31:03  act 85 channelModel UPDATE `a_luck_record` SET `CLICK_RATE`='0' WHERE `ID` = 2
+2018-02-10 13:31:03  act 89 total 0.00
+2018-02-10 13:31:03  act 91 channelModel UPDATE `a_luck_record` SET `TOTAL`='0.00' WHERE `ID` = 2
+2018-02-10 13:31:03  act 92 channel_save_total 0
+2018-02-10 13:31:03  act 95 =======计算次数结束======：{"status":"200","imgurl":"\/Public\/bigwheel\/images\/OKtuODCPUs.jpg","link":"http:\/\/passport.fanli.com\/mark?c=v8yj49bb6w","position":"6","id":"2","title":"\u83ab\u65af\u5229\u5b89\u9178\u59761\u5143\u4e00\u7bb1"}
+2018-02-10 13:31:20  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"PUSH"}
+2018-02-10 13:31:20  act 100 channelModel UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE ( 1=1 )
+2018-02-10 13:31:20  act 101 channel_count 3
+2018-02-10 13:31:21  act 16 =======计算次数开始======：{"draw_num":"3","system":"2","coupon_idlist":"","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-10 13:31:21  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-10 13:31:21  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-10 13:31:21  act 31 channel_select [{"id":"1","user_name":"\u83b7\u5f97\u4e07\u5143\u51cf\u606f\u5238","image_url":"\/Public\/bigwheel\/images\/PPcd2Fu7vM.jpg","offer":"0.60","weight":"80","push":"9","click":"17","click_rate":"50","total":"3.60","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941","link_url":"https:\/\/mkt.360jie.com.cn\/activity\/ch\/tcscxyzp\/lanmu105","link_click":"6","luck_push":"12"},{"id":"2","user_name":"\u83ab\u65af\u5229\u5b89\u9178\u59761\u5143\u4e00\u7bb1","image_url":"\/Public\/bigwheel\/images\/OKtuODCPUs.jpg","offer":"0.60","weight":"40","push":"9","click":"17","click_rate":"0","total":"0.00","channel_map_id":"10001","md5":"","link_url":"http:\/\/passport.fanli.com\/mark?c=v8yj49bb6w","link_click":"0","luck_push":"5"},{"id":"3","user_name":"\u6765\u62a2\u300a\u793e\u4ea4\u82f1\u8bed\u300b","image_url":"\/Public\/bigwheel\/images\/jwHOvllMRK.jpg","offer":"0.01","weight":"10","push":"9","click":"17","click_rate":"0","total":"0.03","channel_map_id":"10001","md5":"","link_url":"https:\/\/m.wselearning.com\/Registernetworkj\/pro-1.aspx?winType=TCSC1712SNJ","link_click":"0","luck_push":"0"}]
+2018-02-10 13:31:21  act 32 channel_select_sum [{"weight1":"130","offer1":"1.21"}]
+2018-02-10 13:31:21  act 37 sumWeight=130
+2018-02-10 13:31:21  act 38 sumOffer=1.21
+2018-02-10 13:31:21  act 45 sum=[{"sum":61,"id":"1"},{"sum":31,"id":"2"},{"sum":8,"id":"3"}]
+2018-02-10 13:31:21  act 57 array=[{"start":0,"end":61,"id":"1"},{"start":61,"end":92,"id":"2"},{"start":92,"end":100,"id":"3"}]
+2018-02-10 13:31:21  act 60 round=8
+2018-02-10 13:31:21  act 63 end=61
+2018-02-10 13:31:21  act 64 start=0
+2018-02-10 13:31:21  act 71 id 1
+2018-02-10 13:31:21  act 72 luck_record_find={"id":"1","user_name":"\u83b7\u5f97\u4e07\u5143\u51cf\u606f\u5238","image_url":"\/Public\/bigwheel\/images\/PPcd2Fu7vM.jpg","offer":"0.60","weight":"80","push":"9","click":"17","click_rate":"50","total":"3.60","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941","link_url":"https:\/\/mkt.360jie.com.cn\/activity\/ch\/tcscxyzp\/lanmu105","link_click":"6","luck_push":"12"}
+2018-02-10 13:31:21  act 74 channel_count 3
+2018-02-10 13:31:21  act 76 channel_find={"link_click":"6","click":"18","luck_push":"13","offer":"0.60"}
+2018-02-10 13:31:21  act 79 click_rate=46.15
+2018-02-10 13:31:21  act 85 channelModel UPDATE `a_luck_record` SET `CLICK_RATE`='46.15' WHERE `ID` = 1
+2018-02-10 13:31:21  act 89 total 3.60
+2018-02-10 13:31:21  act 91 channelModel UPDATE `a_luck_record` SET `TOTAL`='3.60' WHERE `ID` = 1
+2018-02-10 13:31:21  act 92 channel_save_total 0
+2018-02-10 13:31:21  act 95 =======计算次数结束======：{"status":"200","imgurl":"\/Public\/bigwheel\/images\/PPcd2Fu7vM.jpg","link":"https:\/\/mkt.360jie.com.cn\/activity\/ch\/tcscxyzp\/lanmu105","position":"6","id":"1","title":"\u83b7\u5f97\u4e07\u5143\u51cf\u606f\u5238"}
+2018-02-10 13:31:40  act 16 =======计算次数开始======：{"draw_num":"2","system":"2","coupon_idlist":"1","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-10 13:31:40  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-10 13:31:40  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-10 13:31:40  act 31 channel_select [{"id":"1","user_name":"\u83b7\u5f97\u4e07\u5143\u51cf\u606f\u5238","image_url":"\/Public\/bigwheel\/images\/PPcd2Fu7vM.jpg","offer":"0.60","weight":"80","push":"9","click":"18","click_rate":"46.15","total":"3.60","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941","link_url":"https:\/\/mkt.360jie.com.cn\/activity\/ch\/tcscxyzp\/lanmu105","link_click":"6","luck_push":"13"},{"id":"2","user_name":"\u83ab\u65af\u5229\u5b89\u9178\u59761\u5143\u4e00\u7bb1","image_url":"\/Public\/bigwheel\/images\/OKtuODCPUs.jpg","offer":"0.60","weight":"40","push":"9","click":"18","click_rate":"0","total":"0.00","channel_map_id":"10001","md5":"","link_url":"http:\/\/passport.fanli.com\/mark?c=v8yj49bb6w","link_click":"0","luck_push":"5"},{"id":"3","user_name":"\u6765\u62a2\u300a\u793e\u4ea4\u82f1\u8bed\u300b","image_url":"\/Public\/bigwheel\/images\/jwHOvllMRK.jpg","offer":"0.01","weight":"10","push":"9","click":"18","click_rate":"0","total":"0.03","channel_map_id":"10001","md5":"","link_url":"https:\/\/m.wselearning.com\/Registernetworkj\/pro-1.aspx?winType=TCSC1712SNJ","link_click":"0","luck_push":"0"}]
+2018-02-10 13:31:40  act 32 channel_select_sum [{"weight1":"130","offer1":"1.21"}]
+2018-02-10 13:31:40  act 37 sumWeight=130
+2018-02-10 13:31:40  act 38 sumOffer=1.21
+2018-02-10 13:31:40  act 45 sum=[{"sum":61,"id":"1"},{"sum":31,"id":"2"},{"sum":8,"id":"3"}]
+2018-02-10 13:31:40  act 57 array=[{"start":0,"end":61,"id":"1"},{"start":61,"end":92,"id":"2"},{"start":92,"end":100,"id":"3"}]
+2018-02-10 13:31:40  act 60 round=91
+2018-02-10 13:31:40  act 63 end=92
+2018-02-10 13:31:40  act 64 start=61
+2018-02-10 13:31:40  act 71 id 2
+2018-02-10 13:31:40  act 72 luck_record_find={"id":"2","user_name":"\u83ab\u65af\u5229\u5b89\u9178\u59761\u5143\u4e00\u7bb1","image_url":"\/Public\/bigwheel\/images\/OKtuODCPUs.jpg","offer":"0.60","weight":"40","push":"9","click":"18","click_rate":"0","total":"0.00","channel_map_id":"10001","md5":"","link_url":"http:\/\/passport.fanli.com\/mark?c=v8yj49bb6w","link_click":"0","luck_push":"5"}
+2018-02-10 13:31:40  act 74 channel_count 3
+2018-02-10 13:31:40  act 76 channel_find={"link_click":"0","click":"19","luck_push":"6","offer":"0.60"}
+2018-02-10 13:31:40  act 79 click_rate=0
+2018-02-10 13:31:40  act 85 channelModel UPDATE `a_luck_record` SET `CLICK_RATE`='0' WHERE `ID` = 2
+2018-02-10 13:31:40  act 89 total 0.00
+2018-02-10 13:31:40  act 91 channelModel UPDATE `a_luck_record` SET `TOTAL`='0.00' WHERE `ID` = 2
+2018-02-10 13:31:40  act 92 channel_save_total 0
+2018-02-10 13:31:40  act 95 =======计算次数结束======：{"status":"200","imgurl":"\/Public\/bigwheel\/images\/OKtuODCPUs.jpg","link":"http:\/\/passport.fanli.com\/mark?c=v8yj49bb6w","position":"6","id":"2","title":"\u83ab\u65af\u5229\u5b89\u9178\u59761\u5143\u4e00\u7bb1"}
+2018-02-10 13:31:47  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"LINK_CLICK","id":"1"}
+2018-02-10 13:31:47  act 105 channelModel UPDATE `a_luck_record` SET `LINK_CLICK`=LINK_CLICK+1 WHERE `ID` = 1
+2018-02-10 13:31:47  act 106 channel_count 1
+2018-02-10 13:31:47  act 109 channel_find={"link_click":"7","click":"19","offer":"0.60"}
+2018-02-10 13:31:47  act 112 click_rate=36.84
+2018-02-10 13:31:47  act 117 channelModel UPDATE `a_luck_record` SET `CLICK_RATE`='36.84' WHERE `ID` = 1
+2018-02-10 13:31:47  act 121 total 4.20
+2018-02-10 13:31:47  act 123 channelModel UPDATE `a_luck_record` SET `TOTAL`='4.20' WHERE `ID` = 1
+2018-02-10 13:31:47  act 124 channel_save_total 1
+2018-02-10 13:32:12  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"PUSH"}
+2018-02-10 13:32:12  act 100 channelModel UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE ( 1=1 )
+2018-02-10 13:32:12  act 101 channel_count 3
+2018-02-10 13:32:15  act 16 =======计算次数开始======：{"draw_num":"3","system":"3","coupon_idlist":"","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-10 13:32:15  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-10 13:32:15  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-10 13:32:15  act 31 channel_select [{"id":"1","user_name":"\u83b7\u5f97\u4e07\u5143\u51cf\u606f\u5238","image_url":"\/Public\/bigwheel\/images\/PPcd2Fu7vM.jpg","offer":"0.60","weight":"80","push":"10","click":"19","click_rate":"36.84","total":"4.20","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941","link_url":"https:\/\/mkt.360jie.com.cn\/activity\/ch\/tcscxyzp\/lanmu105","link_click":"7","luck_push":"13"},{"id":"2","user_name":"\u83ab\u65af\u5229\u5b89\u9178\u59761\u5143\u4e00\u7bb1","image_url":"\/Public\/bigwheel\/images\/OKtuODCPUs.jpg","offer":"0.60","weight":"40","push":"10","click":"19","click_rate":"0","total":"0.00","channel_map_id":"10001","md5":"","link_url":"http:\/\/passport.fanli.com\/mark?c=v8yj49bb6w","link_click":"0","luck_push":"6"},{"id":"3","user_name":"\u6765\u62a2\u300a\u793e\u4ea4\u82f1\u8bed\u300b","image_url":"\/Public\/bigwheel\/images\/jwHOvllMRK.jpg","offer":"0.01","weight":"10","push":"10","click":"19","click_rate":"0","total":"0.03","channel_map_id":"10001","md5":"","link_url":"https:\/\/m.wselearning.com\/Registernetworkj\/pro-1.aspx?winType=TCSC1712SNJ","link_click":"0","luck_push":"0"}]
+2018-02-10 13:32:15  act 32 channel_select_sum [{"weight1":"130","offer1":"1.21"}]
+2018-02-10 13:32:15  act 37 sumWeight=130
+2018-02-10 13:32:15  act 38 sumOffer=1.21
+2018-02-10 13:32:15  act 45 sum=[{"sum":61,"id":"1"},{"sum":31,"id":"2"},{"sum":8,"id":"3"}]
+2018-02-10 13:32:15  act 57 array=[{"start":0,"end":61,"id":"1"},{"start":61,"end":92,"id":"2"},{"start":92,"end":100,"id":"3"}]
+2018-02-10 13:32:15  act 60 round=59
+2018-02-10 13:32:15  act 63 end=61
+2018-02-10 13:32:15  act 64 start=0
+2018-02-10 13:32:15  act 71 id 1
+2018-02-10 13:32:15  act 72 luck_record_find={"id":"1","user_name":"\u83b7\u5f97\u4e07\u5143\u51cf\u606f\u5238","image_url":"\/Public\/bigwheel\/images\/PPcd2Fu7vM.jpg","offer":"0.60","weight":"80","push":"10","click":"19","click_rate":"36.84","total":"4.20","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941","link_url":"https:\/\/mkt.360jie.com.cn\/activity\/ch\/tcscxyzp\/lanmu105","link_click":"7","luck_push":"13"}
+2018-02-10 13:32:15  act 74 channel_count 3
+2018-02-10 13:32:15  act 76 channel_find={"link_click":"7","click":"20","luck_push":"14","offer":"0.60"}
+2018-02-10 13:32:15  act 79 click_rate=50
+2018-02-10 13:32:15  act 85 channelModel UPDATE `a_luck_record` SET `CLICK_RATE`='50' WHERE `ID` = 1
+2018-02-10 13:32:15  act 89 total 4.20
+2018-02-10 13:32:15  act 91 channelModel UPDATE `a_luck_record` SET `TOTAL`='4.20' WHERE `ID` = 1
+2018-02-10 13:32:15  act 92 channel_save_total 0
+2018-02-10 13:32:15  act 95 =======计算次数结束======：{"status":"200","imgurl":"\/Public\/bigwheel\/images\/PPcd2Fu7vM.jpg","link":"https:\/\/mkt.360jie.com.cn\/activity\/ch\/tcscxyzp\/lanmu105","position":"6","id":"1","title":"\u83b7\u5f97\u4e07\u5143\u51cf\u606f\u5238"}
+2018-02-10 13:32:24  act 16 =======计算次数开始======：{"draw_num":"2","system":"3","coupon_idlist":"1","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-10 13:32:24  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-10 13:32:24  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-10 13:32:24  act 31 channel_select [{"id":"1","user_name":"\u83b7\u5f97\u4e07\u5143\u51cf\u606f\u5238","image_url":"\/Public\/bigwheel\/images\/PPcd2Fu7vM.jpg","offer":"0.60","weight":"80","push":"10","click":"20","click_rate":"50","total":"4.20","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941","link_url":"https:\/\/mkt.360jie.com.cn\/activity\/ch\/tcscxyzp\/lanmu105","link_click":"7","luck_push":"14"},{"id":"2","user_name":"\u83ab\u65af\u5229\u5b89\u9178\u59761\u5143\u4e00\u7bb1","image_url":"\/Public\/bigwheel\/images\/OKtuODCPUs.jpg","offer":"0.60","weight":"40","push":"10","click":"20","click_rate":"0","total":"0.00","channel_map_id":"10001","md5":"","link_url":"http:\/\/passport.fanli.com\/mark?c=v8yj49bb6w","link_click":"0","luck_push":"6"},{"id":"3","user_name":"\u6765\u62a2\u300a\u793e\u4ea4\u82f1\u8bed\u300b","image_url":"\/Public\/bigwheel\/images\/jwHOvllMRK.jpg","offer":"0.01","weight":"10","push":"10","click":"20","click_rate":"0","total":"0.03","channel_map_id":"10001","md5":"","link_url":"https:\/\/m.wselearning.com\/Registernetworkj\/pro-1.aspx?winType=TCSC1712SNJ","link_click":"0","luck_push":"0"}]
+2018-02-10 13:32:24  act 32 channel_select_sum [{"weight1":"130","offer1":"1.21"}]
+2018-02-10 13:32:24  act 37 sumWeight=130
+2018-02-10 13:32:24  act 38 sumOffer=1.21
+2018-02-10 13:32:24  act 45 sum=[{"sum":61,"id":"1"},{"sum":31,"id":"2"},{"sum":8,"id":"3"}]
+2018-02-10 13:32:24  act 57 array=[{"start":0,"end":61,"id":"1"},{"start":61,"end":92,"id":"2"},{"start":92,"end":100,"id":"3"}]
+2018-02-10 13:32:24  act 60 round=15
+2018-02-10 13:32:24  act 63 end=61
+2018-02-10 13:32:24  act 64 start=0
+2018-02-10 13:32:24  act 71 id 1
+2018-02-10 13:32:24  act 72 luck_record_find={"id":"1","user_name":"\u83b7\u5f97\u4e07\u5143\u51cf\u606f\u5238","image_url":"\/Public\/bigwheel\/images\/PPcd2Fu7vM.jpg","offer":"0.60","weight":"80","push":"10","click":"20","click_rate":"50","total":"4.20","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941","link_url":"https:\/\/mkt.360jie.com.cn\/activity\/ch\/tcscxyzp\/lanmu105","link_click":"7","luck_push":"14"}
+2018-02-10 13:32:24  act 74 channel_count 3
+2018-02-10 13:32:24  act 76 channel_find={"link_click":"7","click":"21","luck_push":"15","offer":"0.60"}
+2018-02-10 13:32:24  act 79 click_rate=46.67
+2018-02-10 13:32:24  act 85 channelModel UPDATE `a_luck_record` SET `CLICK_RATE`='46.67' WHERE `ID` = 1
+2018-02-10 13:32:24  act 89 total 4.20
+2018-02-10 13:32:24  act 91 channelModel UPDATE `a_luck_record` SET `TOTAL`='4.20' WHERE `ID` = 1
+2018-02-10 13:32:24  act 92 channel_save_total 0
+2018-02-10 13:32:24  act 95 =======计算次数结束======：{"status":"200","imgurl":"\/Public\/bigwheel\/images\/PPcd2Fu7vM.jpg","link":"https:\/\/mkt.360jie.com.cn\/activity\/ch\/tcscxyzp\/lanmu105","position":"6","id":"1","title":"\u83b7\u5f97\u4e07\u5143\u51cf\u606f\u5238"}
+2018-02-10 13:32:29  act 16 =======计算次数开始======：{"draw_num":"1","system":"3","coupon_idlist":"1,1","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-10 13:32:29  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-10 13:32:29  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-10 13:32:29  act 31 channel_select [{"id":"1","user_name":"\u83b7\u5f97\u4e07\u5143\u51cf\u606f\u5238","image_url":"\/Public\/bigwheel\/images\/PPcd2Fu7vM.jpg","offer":"0.60","weight":"80","push":"10","click":"21","click_rate":"46.67","total":"4.20","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941","link_url":"https:\/\/mkt.360jie.com.cn\/activity\/ch\/tcscxyzp\/lanmu105","link_click":"7","luck_push":"15"},{"id":"2","user_name":"\u83ab\u65af\u5229\u5b89\u9178\u59761\u5143\u4e00\u7bb1","image_url":"\/Public\/bigwheel\/images\/OKtuODCPUs.jpg","offer":"0.60","weight":"40","push":"10","click":"21","click_rate":"0","total":"0.00","channel_map_id":"10001","md5":"","link_url":"http:\/\/passport.fanli.com\/mark?c=v8yj49bb6w","link_click":"0","luck_push":"6"},{"id":"3","user_name":"\u6765\u62a2\u300a\u793e\u4ea4\u82f1\u8bed\u300b","image_url":"\/Public\/bigwheel\/images\/jwHOvllMRK.jpg","offer":"0.01","weight":"10","push":"10","click":"21","click_rate":"0","total":"0.03","channel_map_id":"10001","md5":"","link_url":"https:\/\/m.wselearning.com\/Registernetworkj\/pro-1.aspx?winType=TCSC1712SNJ","link_click":"0","luck_push":"0"}]
+2018-02-10 13:32:29  act 32 channel_select_sum [{"weight1":"130","offer1":"1.21"}]
+2018-02-10 13:32:29  act 37 sumWeight=130
+2018-02-10 13:32:29  act 38 sumOffer=1.21
+2018-02-10 13:32:29  act 45 sum=[{"sum":61,"id":"1"},{"sum":31,"id":"2"},{"sum":8,"id":"3"}]
+2018-02-10 13:32:29  act 57 array=[{"start":0,"end":61,"id":"1"},{"start":61,"end":92,"id":"2"},{"start":92,"end":100,"id":"3"}]
+2018-02-10 13:32:29  act 60 round=1
+2018-02-10 13:32:29  act 63 end=61
+2018-02-10 13:32:29  act 64 start=0
+2018-02-10 13:32:29  act 71 id 1
+2018-02-10 13:32:29  act 72 luck_record_find={"id":"1","user_name":"\u83b7\u5f97\u4e07\u5143\u51cf\u606f\u5238","image_url":"\/Public\/bigwheel\/images\/PPcd2Fu7vM.jpg","offer":"0.60","weight":"80","push":"10","click":"21","click_rate":"46.67","total":"4.20","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941","link_url":"https:\/\/mkt.360jie.com.cn\/activity\/ch\/tcscxyzp\/lanmu105","link_click":"7","luck_push":"15"}
+2018-02-10 13:32:29  act 74 channel_count 3
+2018-02-10 13:32:29  act 76 channel_find={"link_click":"7","click":"22","luck_push":"16","offer":"0.60"}
+2018-02-10 13:32:29  act 79 click_rate=43.75
+2018-02-10 13:32:29  act 85 channelModel UPDATE `a_luck_record` SET `CLICK_RATE`='43.75' WHERE `ID` = 1
+2018-02-10 13:32:29  act 89 total 4.20
+2018-02-10 13:32:29  act 91 channelModel UPDATE `a_luck_record` SET `TOTAL`='4.20' WHERE `ID` = 1
+2018-02-10 13:32:29  act 92 channel_save_total 0
+2018-02-10 13:32:29  act 95 =======计算次数结束======：{"status":"200","imgurl":"\/Public\/bigwheel\/images\/PPcd2Fu7vM.jpg","link":"https:\/\/mkt.360jie.com.cn\/activity\/ch\/tcscxyzp\/lanmu105","position":"6","id":"1","title":"\u83b7\u5f97\u4e07\u5143\u51cf\u606f\u5238"}
+2018-02-10 13:32:39  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"PUSH"}
+2018-02-10 13:32:39  act 100 channelModel UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE ( 1=1 )
+2018-02-10 13:32:39  act 101 channel_count 3
+2018-02-10 13:32:40  act 16 =======计算次数开始======：{"draw_num":"3","system":"3","coupon_idlist":"","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-10 13:32:40  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-10 13:32:40  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-10 13:32:40  act 31 channel_select [{"id":"1","user_name":"\u83b7\u5f97\u4e07\u5143\u51cf\u606f\u5238","image_url":"\/Public\/bigwheel\/images\/PPcd2Fu7vM.jpg","offer":"0.60","weight":"80","push":"11","click":"22","click_rate":"43.75","total":"4.20","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941","link_url":"https:\/\/mkt.360jie.com.cn\/activity\/ch\/tcscxyzp\/lanmu105","link_click":"7","luck_push":"16"},{"id":"2","user_name":"\u83ab\u65af\u5229\u5b89\u9178\u59761\u5143\u4e00\u7bb1","image_url":"\/Public\/bigwheel\/images\/OKtuODCPUs.jpg","offer":"0.60","weight":"40","push":"11","click":"22","click_rate":"0","total":"0.00","channel_map_id":"10001","md5":"","link_url":"http:\/\/passport.fanli.com\/mark?c=v8yj49bb6w","link_click":"0","luck_push":"6"},{"id":"3","user_name":"\u6765\u62a2\u300a\u793e\u4ea4\u82f1\u8bed\u300b","image_url":"\/Public\/bigwheel\/images\/jwHOvllMRK.jpg","offer":"0.01","weight":"10","push":"11","click":"22","click_rate":"0","total":"0.03","channel_map_id":"10001","md5":"","link_url":"https:\/\/m.wselearning.com\/Registernetworkj\/pro-1.aspx?winType=TCSC1712SNJ","link_click":"0","luck_push":"0"}]
+2018-02-10 13:32:40  act 32 channel_select_sum [{"weight1":"130","offer1":"1.21"}]
+2018-02-10 13:32:40  act 37 sumWeight=130
+2018-02-10 13:32:40  act 38 sumOffer=1.21
+2018-02-10 13:32:40  act 45 sum=[{"sum":61,"id":"1"},{"sum":31,"id":"2"},{"sum":8,"id":"3"}]
+2018-02-10 13:32:40  act 57 array=[{"start":0,"end":61,"id":"1"},{"start":61,"end":92,"id":"2"},{"start":92,"end":100,"id":"3"}]
+2018-02-10 13:32:40  act 60 round=62
+2018-02-10 13:32:40  act 63 end=92
+2018-02-10 13:32:40  act 64 start=61
+2018-02-10 13:32:40  act 71 id 2
+2018-02-10 13:32:40  act 72 luck_record_find={"id":"2","user_name":"\u83ab\u65af\u5229\u5b89\u9178\u59761\u5143\u4e00\u7bb1","image_url":"\/Public\/bigwheel\/images\/OKtuODCPUs.jpg","offer":"0.60","weight":"40","push":"11","click":"22","click_rate":"0","total":"0.00","channel_map_id":"10001","md5":"","link_url":"http:\/\/passport.fanli.com\/mark?c=v8yj49bb6w","link_click":"0","luck_push":"6"}
+2018-02-10 13:32:40  act 74 channel_count 3
+2018-02-10 13:32:40  act 76 channel_find={"link_click":"0","click":"23","luck_push":"7","offer":"0.60"}
+2018-02-10 13:32:40  act 79 click_rate=0
+2018-02-10 13:32:40  act 85 channelModel UPDATE `a_luck_record` SET `CLICK_RATE`='0' WHERE `ID` = 2
+2018-02-10 13:32:40  act 89 total 0.00
+2018-02-10 13:32:40  act 91 channelModel UPDATE `a_luck_record` SET `TOTAL`='0.00' WHERE `ID` = 2
+2018-02-10 13:32:40  act 92 channel_save_total 0
+2018-02-10 13:32:40  act 95 =======计算次数结束======：{"status":"200","imgurl":"\/Public\/bigwheel\/images\/OKtuODCPUs.jpg","link":"http:\/\/passport.fanli.com\/mark?c=v8yj49bb6w","position":"6","id":"2","title":"\u83ab\u65af\u5229\u5b89\u9178\u59761\u5143\u4e00\u7bb1"}
+2018-02-10 13:32:46  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"LINK_CLICK","id":"2"}
+2018-02-10 13:32:46  act 105 channelModel UPDATE `a_luck_record` SET `LINK_CLICK`=LINK_CLICK+1 WHERE `ID` = 2
+2018-02-10 13:32:46  act 106 channel_count 1
+2018-02-10 13:32:46  act 109 channel_find={"link_click":"1","click":"23","offer":"0.60"}
+2018-02-10 13:32:46  act 112 click_rate=4.35
+2018-02-10 13:32:46  act 117 channelModel UPDATE `a_luck_record` SET `CLICK_RATE`='4.35' WHERE `ID` = 2
+2018-02-10 13:32:46  act 121 total 0.60
+2018-02-10 13:32:46  act 123 channelModel UPDATE `a_luck_record` SET `TOTAL`='0.60' WHERE `ID` = 2
+2018-02-10 13:32:46  act 124 channel_save_total 1
+2018-02-10 13:33:05  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"PUSH"}
+2018-02-10 13:33:05  act 100 channelModel UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE ( 1=1 )
+2018-02-10 13:33:05  act 101 channel_count 3
+2018-02-10 13:33:06  act 16 =======计算次数开始======：{"draw_num":"2","system":"3","coupon_idlist":"2","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-10 13:33:06  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-10 13:33:06  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-10 13:33:06  act 31 channel_select [{"id":"1","user_name":"\u83b7\u5f97\u4e07\u5143\u51cf\u606f\u5238","image_url":"\/Public\/bigwheel\/images\/PPcd2Fu7vM.jpg","offer":"0.60","weight":"80","push":"12","click":"23","click_rate":"43.75","total":"4.20","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941","link_url":"https:\/\/mkt.360jie.com.cn\/activity\/ch\/tcscxyzp\/lanmu105","link_click":"7","luck_push":"16"},{"id":"2","user_name":"\u83ab\u65af\u5229\u5b89\u9178\u59761\u5143\u4e00\u7bb1","image_url":"\/Public\/bigwheel\/images\/OKtuODCPUs.jpg","offer":"0.60","weight":"40","push":"12","click":"23","click_rate":"4.35","total":"0.60","channel_map_id":"10001","md5":"","link_url":"http:\/\/passport.fanli.com\/mark?c=v8yj49bb6w","link_click":"1","luck_push":"7"},{"id":"3","user_name":"\u6765\u62a2\u300a\u793e\u4ea4\u82f1\u8bed\u300b","image_url":"\/Public\/bigwheel\/images\/jwHOvllMRK.jpg","offer":"0.01","weight":"10","push":"12","click":"23","click_rate":"0","total":"0.03","channel_map_id":"10001","md5":"","link_url":"https:\/\/m.wselearning.com\/Registernetworkj\/pro-1.aspx?winType=TCSC1712SNJ","link_click":"0","luck_push":"0"}]
+2018-02-10 13:33:06  act 32 channel_select_sum [{"weight1":"130","offer1":"1.21"}]
+2018-02-10 13:33:06  act 37 sumWeight=130
+2018-02-10 13:33:06  act 38 sumOffer=1.21
+2018-02-10 13:33:06  act 45 sum=[{"sum":61,"id":"1"},{"sum":31,"id":"2"},{"sum":8,"id":"3"}]
+2018-02-10 13:33:06  act 57 array=[{"start":0,"end":61,"id":"1"},{"start":61,"end":92,"id":"2"},{"start":92,"end":100,"id":"3"}]
+2018-02-10 13:33:06  act 60 round=50
+2018-02-10 13:33:06  act 63 end=61
+2018-02-10 13:33:06  act 64 start=0
+2018-02-10 13:33:06  act 71 id 1
+2018-02-10 13:33:06  act 72 luck_record_find={"id":"1","user_name":"\u83b7\u5f97\u4e07\u5143\u51cf\u606f\u5238","image_url":"\/Public\/bigwheel\/images\/PPcd2Fu7vM.jpg","offer":"0.60","weight":"80","push":"12","click":"23","click_rate":"43.75","total":"4.20","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941","link_url":"https:\/\/mkt.360jie.com.cn\/activity\/ch\/tcscxyzp\/lanmu105","link_click":"7","luck_push":"16"}
+2018-02-10 13:33:06  act 74 channel_count 3
+2018-02-10 13:33:06  act 76 channel_find={"link_click":"7","click":"24","luck_push":"17","offer":"0.60"}
+2018-02-10 13:33:06  act 79 click_rate=41.18
+2018-02-10 13:33:06  act 85 channelModel UPDATE `a_luck_record` SET `CLICK_RATE`='41.18' WHERE `ID` = 1
+2018-02-10 13:33:06  act 89 total 4.20
+2018-02-10 13:33:06  act 91 channelModel UPDATE `a_luck_record` SET `TOTAL`='4.20' WHERE `ID` = 1
+2018-02-10 13:33:06  act 92 channel_save_total 0
+2018-02-10 13:33:06  act 95 =======计算次数结束======：{"status":"200","imgurl":"\/Public\/bigwheel\/images\/PPcd2Fu7vM.jpg","link":"https:\/\/mkt.360jie.com.cn\/activity\/ch\/tcscxyzp\/lanmu105","position":"6","id":"1","title":"\u83b7\u5f97\u4e07\u5143\u51cf\u606f\u5238"}
+2018-02-10 13:33:13  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"LINK_CLICK","id":"1"}
+2018-02-10 13:33:13  act 105 channelModel UPDATE `a_luck_record` SET `LINK_CLICK`=LINK_CLICK+1 WHERE `ID` = 1
+2018-02-10 13:33:13  act 106 channel_count 1
+2018-02-10 13:33:13  act 109 channel_find={"link_click":"8","click":"24","offer":"0.60"}
+2018-02-10 13:33:13  act 112 click_rate=33.33
+2018-02-10 13:33:13  act 117 channelModel UPDATE `a_luck_record` SET `CLICK_RATE`='33.33' WHERE `ID` = 1
+2018-02-10 13:33:13  act 121 total 4.80
+2018-02-10 13:33:13  act 123 channelModel UPDATE `a_luck_record` SET `TOTAL`='4.80' WHERE `ID` = 1
+2018-02-10 13:33:13  act 124 channel_save_total 1
+2018-02-10 13:33:16  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"PUSH"}
+2018-02-10 13:33:16  act 100 channelModel UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE ( 1=1 )
+2018-02-10 13:33:16  act 101 channel_count 3
+2018-02-10 13:33:17  act 16 =======计算次数开始======：{"draw_num":"1","system":"3","coupon_idlist":"2,1","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-10 13:33:17  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-10 13:33:17  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-10 13:33:17  act 31 channel_select [{"id":"1","user_name":"\u83b7\u5f97\u4e07\u5143\u51cf\u606f\u5238","image_url":"\/Public\/bigwheel\/images\/PPcd2Fu7vM.jpg","offer":"0.60","weight":"80","push":"13","click":"24","click_rate":"33.33","total":"4.80","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941","link_url":"https:\/\/mkt.360jie.com.cn\/activity\/ch\/tcscxyzp\/lanmu105","link_click":"8","luck_push":"17"},{"id":"2","user_name":"\u83ab\u65af\u5229\u5b89\u9178\u59761\u5143\u4e00\u7bb1","image_url":"\/Public\/bigwheel\/images\/OKtuODCPUs.jpg","offer":"0.60","weight":"40","push":"13","click":"24","click_rate":"4.35","total":"0.60","channel_map_id":"10001","md5":"","link_url":"http:\/\/passport.fanli.com\/mark?c=v8yj49bb6w","link_click":"1","luck_push":"7"},{"id":"3","user_name":"\u6765\u62a2\u300a\u793e\u4ea4\u82f1\u8bed\u300b","image_url":"\/Public\/bigwheel\/images\/jwHOvllMRK.jpg","offer":"0.01","weight":"10","push":"13","click":"24","click_rate":"0","total":"0.03","channel_map_id":"10001","md5":"","link_url":"https:\/\/m.wselearning.com\/Registernetworkj\/pro-1.aspx?winType=TCSC1712SNJ","link_click":"0","luck_push":"0"}]
+2018-02-10 13:33:17  act 32 channel_select_sum [{"weight1":"130","offer1":"1.21"}]
+2018-02-10 13:33:17  act 37 sumWeight=130
+2018-02-10 13:33:17  act 38 sumOffer=1.21
+2018-02-10 13:33:17  act 45 sum=[{"sum":61,"id":"1"},{"sum":31,"id":"2"},{"sum":8,"id":"3"}]
+2018-02-10 13:33:17  act 57 array=[{"start":0,"end":61,"id":"1"},{"start":61,"end":92,"id":"2"},{"start":92,"end":100,"id":"3"}]
+2018-02-10 13:33:17  act 60 round=38
+2018-02-10 13:33:17  act 63 end=61
+2018-02-10 13:33:17  act 64 start=0
+2018-02-10 13:33:17  act 71 id 1
+2018-02-10 13:33:17  act 72 luck_record_find={"id":"1","user_name":"\u83b7\u5f97\u4e07\u5143\u51cf\u606f\u5238","image_url":"\/Public\/bigwheel\/images\/PPcd2Fu7vM.jpg","offer":"0.60","weight":"80","push":"13","click":"24","click_rate":"33.33","total":"4.80","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941","link_url":"https:\/\/mkt.360jie.com.cn\/activity\/ch\/tcscxyzp\/lanmu105","link_click":"8","luck_push":"17"}
+2018-02-10 13:33:17  act 74 channel_count 3
+2018-02-10 13:33:17  act 76 channel_find={"link_click":"8","click":"25","luck_push":"18","offer":"0.60"}
+2018-02-10 13:33:17  act 79 click_rate=44.44
+2018-02-10 13:33:17  act 85 channelModel UPDATE `a_luck_record` SET `CLICK_RATE`='44.44' WHERE `ID` = 1
+2018-02-10 13:33:17  act 89 total 4.80
+2018-02-10 13:33:17  act 91 channelModel UPDATE `a_luck_record` SET `TOTAL`='4.80' WHERE `ID` = 1
+2018-02-10 13:33:17  act 92 channel_save_total 0
+2018-02-10 13:33:17  act 95 =======计算次数结束======：{"status":"200","imgurl":"\/Public\/bigwheel\/images\/PPcd2Fu7vM.jpg","link":"https:\/\/mkt.360jie.com.cn\/activity\/ch\/tcscxyzp\/lanmu105","position":"6","id":"1","title":"\u83b7\u5f97\u4e07\u5143\u51cf\u606f\u5238"}
+2018-02-10 13:33:24  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"PUSH"}
+2018-02-10 13:33:24  act 100 channelModel UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE ( 1=1 )
+2018-02-10 13:33:24  act 101 channel_count 3
+2018-02-10 13:33:25  act 16 =======计算次数开始======：{"draw_num":"3","system":"3","coupon_idlist":"","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-10 13:33:25  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-10 13:33:25  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-10 13:33:25  act 31 channel_select [{"id":"1","user_name":"\u83b7\u5f97\u4e07\u5143\u51cf\u606f\u5238","image_url":"\/Public\/bigwheel\/images\/PPcd2Fu7vM.jpg","offer":"0.60","weight":"80","push":"14","click":"25","click_rate":"44.44","total":"4.80","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941","link_url":"https:\/\/mkt.360jie.com.cn\/activity\/ch\/tcscxyzp\/lanmu105","link_click":"8","luck_push":"18"},{"id":"2","user_name":"\u83ab\u65af\u5229\u5b89\u9178\u59761\u5143\u4e00\u7bb1","image_url":"\/Public\/bigwheel\/images\/OKtuODCPUs.jpg","offer":"0.60","weight":"40","push":"14","click":"25","click_rate":"4.35","total":"0.60","channel_map_id":"10001","md5":"","link_url":"http:\/\/passport.fanli.com\/mark?c=v8yj49bb6w","link_click":"1","luck_push":"7"},{"id":"3","user_name":"\u6765\u62a2\u300a\u793e\u4ea4\u82f1\u8bed\u300b","image_url":"\/Public\/bigwheel\/images\/jwHOvllMRK.jpg","offer":"0.01","weight":"10","push":"14","click":"25","click_rate":"0","total":"0.03","channel_map_id":"10001","md5":"","link_url":"https:\/\/m.wselearning.com\/Registernetworkj\/pro-1.aspx?winType=TCSC1712SNJ","link_click":"0","luck_push":"0"}]
+2018-02-10 13:33:25  act 32 channel_select_sum [{"weight1":"130","offer1":"1.21"}]
+2018-02-10 13:33:25  act 37 sumWeight=130
+2018-02-10 13:33:25  act 38 sumOffer=1.21
+2018-02-10 13:33:25  act 45 sum=[{"sum":61,"id":"1"},{"sum":31,"id":"2"},{"sum":8,"id":"3"}]
+2018-02-10 13:33:25  act 57 array=[{"start":0,"end":61,"id":"1"},{"start":61,"end":92,"id":"2"},{"start":92,"end":100,"id":"3"}]
+2018-02-10 13:33:25  act 60 round=67
+2018-02-10 13:33:25  act 63 end=92
+2018-02-10 13:33:25  act 64 start=61
+2018-02-10 13:33:25  act 71 id 2
+2018-02-10 13:33:25  act 72 luck_record_find={"id":"2","user_name":"\u83ab\u65af\u5229\u5b89\u9178\u59761\u5143\u4e00\u7bb1","image_url":"\/Public\/bigwheel\/images\/OKtuODCPUs.jpg","offer":"0.60","weight":"40","push":"14","click":"25","click_rate":"4.35","total":"0.60","channel_map_id":"10001","md5":"","link_url":"http:\/\/passport.fanli.com\/mark?c=v8yj49bb6w","link_click":"1","luck_push":"7"}
+2018-02-10 13:33:25  act 74 channel_count 3
+2018-02-10 13:33:25  act 76 channel_find={"link_click":"1","click":"26","luck_push":"8","offer":"0.60"}
+2018-02-10 13:33:25  act 79 click_rate=12.5
+2018-02-10 13:33:25  act 85 channelModel UPDATE `a_luck_record` SET `CLICK_RATE`='12.5' WHERE `ID` = 2
+2018-02-10 13:33:25  act 89 total 0.60
+2018-02-10 13:33:25  act 91 channelModel UPDATE `a_luck_record` SET `TOTAL`='0.60' WHERE `ID` = 2
+2018-02-10 13:33:25  act 92 channel_save_total 0
+2018-02-10 13:33:25  act 95 =======计算次数结束======：{"status":"200","imgurl":"\/Public\/bigwheel\/images\/OKtuODCPUs.jpg","link":"http:\/\/passport.fanli.com\/mark?c=v8yj49bb6w","position":"6","id":"2","title":"\u83ab\u65af\u5229\u5b89\u9178\u59761\u5143\u4e00\u7bb1"}
+2018-02-10 13:33:28  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"LINK_CLICK","id":"2"}
+2018-02-10 13:33:28  act 105 channelModel UPDATE `a_luck_record` SET `LINK_CLICK`=LINK_CLICK+1 WHERE `ID` = 2
+2018-02-10 13:33:28  act 106 channel_count 1
+2018-02-10 13:33:28  act 109 channel_find={"link_click":"2","click":"26","offer":"0.60"}
+2018-02-10 13:33:28  act 112 click_rate=7.69
+2018-02-10 13:33:28  act 117 channelModel UPDATE `a_luck_record` SET `CLICK_RATE`='7.69' WHERE `ID` = 2
+2018-02-10 13:33:28  act 121 total 1.20
+2018-02-10 13:33:28  act 123 channelModel UPDATE `a_luck_record` SET `TOTAL`='1.20' WHERE `ID` = 2
+2018-02-10 13:33:28  act 124 channel_save_total 1
+2018-02-10 13:33:33  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"PUSH"}
+2018-02-10 13:33:33  act 100 channelModel UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE ( 1=1 )
+2018-02-10 13:33:33  act 101 channel_count 3
+2018-02-10 13:33:34  act 16 =======计算次数开始======：{"draw_num":"2","system":"3","coupon_idlist":"2","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-10 13:33:34  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-10 13:33:34  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-10 13:33:34  act 31 channel_select [{"id":"1","user_name":"\u83b7\u5f97\u4e07\u5143\u51cf\u606f\u5238","image_url":"\/Public\/bigwheel\/images\/PPcd2Fu7vM.jpg","offer":"0.60","weight":"80","push":"15","click":"26","click_rate":"44.44","total":"4.80","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941","link_url":"https:\/\/mkt.360jie.com.cn\/activity\/ch\/tcscxyzp\/lanmu105","link_click":"8","luck_push":"18"},{"id":"2","user_name":"\u83ab\u65af\u5229\u5b89\u9178\u59761\u5143\u4e00\u7bb1","image_url":"\/Public\/bigwheel\/images\/OKtuODCPUs.jpg","offer":"0.60","weight":"40","push":"15","click":"26","click_rate":"7.69","total":"1.20","channel_map_id":"10001","md5":"","link_url":"http:\/\/passport.fanli.com\/mark?c=v8yj49bb6w","link_click":"2","luck_push":"8"},{"id":"3","user_name":"\u6765\u62a2\u300a\u793e\u4ea4\u82f1\u8bed\u300b","image_url":"\/Public\/bigwheel\/images\/jwHOvllMRK.jpg","offer":"0.01","weight":"10","push":"15","click":"26","click_rate":"0","total":"0.03","channel_map_id":"10001","md5":"","link_url":"https:\/\/m.wselearning.com\/Registernetworkj\/pro-1.aspx?winType=TCSC1712SNJ","link_click":"0","luck_push":"0"}]
+2018-02-10 13:33:34  act 32 channel_select_sum [{"weight1":"130","offer1":"1.21"}]
+2018-02-10 13:33:34  act 37 sumWeight=130
+2018-02-10 13:33:34  act 38 sumOffer=1.21
+2018-02-10 13:33:34  act 45 sum=[{"sum":61,"id":"1"},{"sum":31,"id":"2"},{"sum":8,"id":"3"}]
+2018-02-10 13:33:34  act 57 array=[{"start":0,"end":61,"id":"1"},{"start":61,"end":92,"id":"2"},{"start":92,"end":100,"id":"3"}]
+2018-02-10 13:33:34  act 60 round=57
+2018-02-10 13:33:34  act 63 end=61
+2018-02-10 13:33:34  act 64 start=0
+2018-02-10 13:33:34  act 71 id 1
+2018-02-10 13:33:34  act 72 luck_record_find={"id":"1","user_name":"\u83b7\u5f97\u4e07\u5143\u51cf\u606f\u5238","image_url":"\/Public\/bigwheel\/images\/PPcd2Fu7vM.jpg","offer":"0.60","weight":"80","push":"15","click":"26","click_rate":"44.44","total":"4.80","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941","link_url":"https:\/\/mkt.360jie.com.cn\/activity\/ch\/tcscxyzp\/lanmu105","link_click":"8","luck_push":"18"}
+2018-02-10 13:33:34  act 74 channel_count 3
+2018-02-10 13:33:34  act 76 channel_find={"link_click":"8","click":"27","luck_push":"19","offer":"0.60"}
+2018-02-10 13:33:34  act 79 click_rate=42.11
+2018-02-10 13:33:34  act 85 channelModel UPDATE `a_luck_record` SET `CLICK_RATE`='42.11' WHERE `ID` = 1
+2018-02-10 13:33:34  act 89 total 4.80
+2018-02-10 13:33:34  act 91 channelModel UPDATE `a_luck_record` SET `TOTAL`='4.80' WHERE `ID` = 1
+2018-02-10 13:33:34  act 92 channel_save_total 0
+2018-02-10 13:33:34  act 95 =======计算次数结束======：{"status":"200","imgurl":"\/Public\/bigwheel\/images\/PPcd2Fu7vM.jpg","link":"https:\/\/mkt.360jie.com.cn\/activity\/ch\/tcscxyzp\/lanmu105","position":"6","id":"1","title":"\u83b7\u5f97\u4e07\u5143\u51cf\u606f\u5238"}
+2018-02-10 13:33:39  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"PUSH"}
+2018-02-10 13:33:39  act 100 channelModel UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE ( 1=1 )
+2018-02-10 13:33:39  act 101 channel_count 3
+2018-02-10 13:33:40  act 16 =======计算次数开始======：{"draw_num":"1","system":"3","coupon_idlist":"2,1","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-10 13:33:40  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-10 13:33:40  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-10 13:33:40  act 31 channel_select [{"id":"1","user_name":"\u83b7\u5f97\u4e07\u5143\u51cf\u606f\u5238","image_url":"\/Public\/bigwheel\/images\/PPcd2Fu7vM.jpg","offer":"0.60","weight":"80","push":"16","click":"27","click_rate":"42.11","total":"4.80","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941","link_url":"https:\/\/mkt.360jie.com.cn\/activity\/ch\/tcscxyzp\/lanmu105","link_click":"8","luck_push":"19"},{"id":"2","user_name":"\u83ab\u65af\u5229\u5b89\u9178\u59761\u5143\u4e00\u7bb1","image_url":"\/Public\/bigwheel\/images\/OKtuODCPUs.jpg","offer":"0.60","weight":"40","push":"16","click":"27","click_rate":"7.69","total":"1.20","channel_map_id":"10001","md5":"","link_url":"http:\/\/passport.fanli.com\/mark?c=v8yj49bb6w","link_click":"2","luck_push":"8"},{"id":"3","user_name":"\u6765\u62a2\u300a\u793e\u4ea4\u82f1\u8bed\u300b","image_url":"\/Public\/bigwheel\/images\/jwHOvllMRK.jpg","offer":"0.01","weight":"10","push":"16","click":"27","click_rate":"0","total":"0.03","channel_map_id":"10001","md5":"","link_url":"https:\/\/m.wselearning.com\/Registernetworkj\/pro-1.aspx?winType=TCSC1712SNJ","link_click":"0","luck_push":"0"}]
+2018-02-10 13:33:40  act 32 channel_select_sum [{"weight1":"130","offer1":"1.21"}]
+2018-02-10 13:33:40  act 37 sumWeight=130
+2018-02-10 13:33:40  act 38 sumOffer=1.21
+2018-02-10 13:33:40  act 45 sum=[{"sum":61,"id":"1"},{"sum":31,"id":"2"},{"sum":8,"id":"3"}]
+2018-02-10 13:33:40  act 57 array=[{"start":0,"end":61,"id":"1"},{"start":61,"end":92,"id":"2"},{"start":92,"end":100,"id":"3"}]
+2018-02-10 13:33:40  act 60 round=92
+2018-02-10 13:33:40  act 63 end=92
+2018-02-10 13:33:40  act 64 start=61
+2018-02-10 13:33:40  act 71 id 2
+2018-02-10 13:33:40  act 72 luck_record_find={"id":"2","user_name":"\u83ab\u65af\u5229\u5b89\u9178\u59761\u5143\u4e00\u7bb1","image_url":"\/Public\/bigwheel\/images\/OKtuODCPUs.jpg","offer":"0.60","weight":"40","push":"16","click":"27","click_rate":"7.69","total":"1.20","channel_map_id":"10001","md5":"","link_url":"http:\/\/passport.fanli.com\/mark?c=v8yj49bb6w","link_click":"2","luck_push":"8"}
+2018-02-10 13:33:40  act 74 channel_count 3
+2018-02-10 13:33:40  act 76 channel_find={"link_click":"2","click":"28","luck_push":"9","offer":"0.60"}
+2018-02-10 13:33:40  act 79 click_rate=22.22
+2018-02-10 13:33:40  act 85 channelModel UPDATE `a_luck_record` SET `CLICK_RATE`='22.22' WHERE `ID` = 2
+2018-02-10 13:33:40  act 89 total 1.20
+2018-02-10 13:33:40  act 91 channelModel UPDATE `a_luck_record` SET `TOTAL`='1.20' WHERE `ID` = 2
+2018-02-10 13:33:40  act 92 channel_save_total 0
+2018-02-10 13:33:40  act 95 =======计算次数结束======：{"status":"200","imgurl":"\/Public\/bigwheel\/images\/OKtuODCPUs.jpg","link":"http:\/\/passport.fanli.com\/mark?c=v8yj49bb6w","position":"6","id":"2","title":"\u83ab\u65af\u5229\u5b89\u9178\u59761\u5143\u4e00\u7bb1"}
+2018-02-10 13:33:44  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"LINK_CLICK","id":"2"}
+2018-02-10 13:33:44  act 105 channelModel UPDATE `a_luck_record` SET `LINK_CLICK`=LINK_CLICK+1 WHERE `ID` = 2
+2018-02-10 13:33:44  act 106 channel_count 1
+2018-02-10 13:33:44  act 109 channel_find={"link_click":"3","click":"28","offer":"0.60"}
+2018-02-10 13:33:44  act 112 click_rate=10.71
+2018-02-10 13:33:44  act 117 channelModel UPDATE `a_luck_record` SET `CLICK_RATE`='10.71' WHERE `ID` = 2
+2018-02-10 13:33:44  act 121 total 1.80
+2018-02-10 13:33:44  act 123 channelModel UPDATE `a_luck_record` SET `TOTAL`='1.80' WHERE `ID` = 2
+2018-02-10 13:33:44  act 124 channel_save_total 1
+2018-02-10 13:33:51  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"PUSH"}
+2018-02-10 13:33:51  act 100 channelModel UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE ( 1=1 )
+2018-02-10 13:33:51  act 101 channel_count 3
+2018-02-10 13:33:52  act 16 =======计算次数开始======：{"draw_num":"3","system":"3","coupon_idlist":"","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-10 13:33:52  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-10 13:33:52  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-10 13:33:52  act 31 channel_select [{"id":"1","user_name":"\u83b7\u5f97\u4e07\u5143\u51cf\u606f\u5238","image_url":"\/Public\/bigwheel\/images\/PPcd2Fu7vM.jpg","offer":"0.60","weight":"80","push":"17","click":"28","click_rate":"42.11","total":"4.80","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941","link_url":"https:\/\/mkt.360jie.com.cn\/activity\/ch\/tcscxyzp\/lanmu105","link_click":"8","luck_push":"19"},{"id":"2","user_name":"\u83ab\u65af\u5229\u5b89\u9178\u59761\u5143\u4e00\u7bb1","image_url":"\/Public\/bigwheel\/images\/OKtuODCPUs.jpg","offer":"0.60","weight":"40","push":"17","click":"28","click_rate":"10.71","total":"1.80","channel_map_id":"10001","md5":"","link_url":"http:\/\/passport.fanli.com\/mark?c=v8yj49bb6w","link_click":"3","luck_push":"9"},{"id":"3","user_name":"\u6765\u62a2\u300a\u793e\u4ea4\u82f1\u8bed\u300b","image_url":"\/Public\/bigwheel\/images\/jwHOvllMRK.jpg","offer":"0.01","weight":"10","push":"17","click":"28","click_rate":"0","total":"0.03","channel_map_id":"10001","md5":"","link_url":"https:\/\/m.wselearning.com\/Registernetworkj\/pro-1.aspx?winType=TCSC1712SNJ","link_click":"0","luck_push":"0"}]
+2018-02-10 13:33:52  act 32 channel_select_sum [{"weight1":"130","offer1":"1.21"}]
+2018-02-10 13:33:52  act 37 sumWeight=130
+2018-02-10 13:33:52  act 38 sumOffer=1.21
+2018-02-10 13:33:52  act 45 sum=[{"sum":61,"id":"1"},{"sum":31,"id":"2"},{"sum":8,"id":"3"}]
+2018-02-10 13:33:52  act 57 array=[{"start":0,"end":61,"id":"1"},{"start":61,"end":92,"id":"2"},{"start":92,"end":100,"id":"3"}]
+2018-02-10 13:33:52  act 60 round=20
+2018-02-10 13:33:52  act 63 end=61
+2018-02-10 13:33:52  act 64 start=0
+2018-02-10 13:33:52  act 71 id 1
+2018-02-10 13:33:52  act 72 luck_record_find={"id":"1","user_name":"\u83b7\u5f97\u4e07\u5143\u51cf\u606f\u5238","image_url":"\/Public\/bigwheel\/images\/PPcd2Fu7vM.jpg","offer":"0.60","weight":"80","push":"17","click":"28","click_rate":"42.11","total":"4.80","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941","link_url":"https:\/\/mkt.360jie.com.cn\/activity\/ch\/tcscxyzp\/lanmu105","link_click":"8","luck_push":"19"}
+2018-02-10 13:33:52  act 74 channel_count 3
+2018-02-10 13:33:52  act 76 channel_find={"link_click":"8","click":"29","luck_push":"20","offer":"0.60"}
+2018-02-10 13:33:52  act 79 click_rate=40
+2018-02-10 13:33:52  act 85 channelModel UPDATE `a_luck_record` SET `CLICK_RATE`='40' WHERE `ID` = 1
+2018-02-10 13:33:52  act 89 total 4.80
+2018-02-10 13:33:52  act 91 channelModel UPDATE `a_luck_record` SET `TOTAL`='4.80' WHERE `ID` = 1
+2018-02-10 13:33:52  act 92 channel_save_total 0
+2018-02-10 13:33:52  act 95 =======计算次数结束======：{"status":"200","imgurl":"\/Public\/bigwheel\/images\/PPcd2Fu7vM.jpg","link":"https:\/\/mkt.360jie.com.cn\/activity\/ch\/tcscxyzp\/lanmu105","position":"6","id":"1","title":"\u83b7\u5f97\u4e07\u5143\u51cf\u606f\u5238"}
+2018-02-10 13:33:58  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"PUSH"}
+2018-02-10 13:33:58  act 100 channelModel UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE ( 1=1 )
+2018-02-10 13:33:58  act 101 channel_count 3
+2018-02-10 13:33:59  act 16 =======计算次数开始======：{"draw_num":"2","system":"3","coupon_idlist":"1","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-10 13:33:59  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-10 13:33:59  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-10 13:33:59  act 31 channel_select [{"id":"1","user_name":"\u83b7\u5f97\u4e07\u5143\u51cf\u606f\u5238","image_url":"\/Public\/bigwheel\/images\/PPcd2Fu7vM.jpg","offer":"0.60","weight":"80","push":"18","click":"29","click_rate":"40","total":"4.80","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941","link_url":"https:\/\/mkt.360jie.com.cn\/activity\/ch\/tcscxyzp\/lanmu105","link_click":"8","luck_push":"20"},{"id":"2","user_name":"\u83ab\u65af\u5229\u5b89\u9178\u59761\u5143\u4e00\u7bb1","image_url":"\/Public\/bigwheel\/images\/OKtuODCPUs.jpg","offer":"0.60","weight":"40","push":"18","click":"29","click_rate":"10.71","total":"1.80","channel_map_id":"10001","md5":"","link_url":"http:\/\/passport.fanli.com\/mark?c=v8yj49bb6w","link_click":"3","luck_push":"9"},{"id":"3","user_name":"\u6765\u62a2\u300a\u793e\u4ea4\u82f1\u8bed\u300b","image_url":"\/Public\/bigwheel\/images\/jwHOvllMRK.jpg","offer":"0.01","weight":"10","push":"18","click":"29","click_rate":"0","total":"0.03","channel_map_id":"10001","md5":"","link_url":"https:\/\/m.wselearning.com\/Registernetworkj\/pro-1.aspx?winType=TCSC1712SNJ","link_click":"0","luck_push":"0"}]
+2018-02-10 13:33:59  act 32 channel_select_sum [{"weight1":"130","offer1":"1.21"}]
+2018-02-10 13:33:59  act 37 sumWeight=130
+2018-02-10 13:33:59  act 38 sumOffer=1.21
+2018-02-10 13:33:59  act 45 sum=[{"sum":61,"id":"1"},{"sum":31,"id":"2"},{"sum":8,"id":"3"}]
+2018-02-10 13:33:59  act 57 array=[{"start":0,"end":61,"id":"1"},{"start":61,"end":92,"id":"2"},{"start":92,"end":100,"id":"3"}]
+2018-02-10 13:33:59  act 60 round=59
+2018-02-10 13:33:59  act 63 end=61
+2018-02-10 13:33:59  act 64 start=0
+2018-02-10 13:33:59  act 71 id 1
+2018-02-10 13:33:59  act 72 luck_record_find={"id":"1","user_name":"\u83b7\u5f97\u4e07\u5143\u51cf\u606f\u5238","image_url":"\/Public\/bigwheel\/images\/PPcd2Fu7vM.jpg","offer":"0.60","weight":"80","push":"18","click":"29","click_rate":"40","total":"4.80","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941","link_url":"https:\/\/mkt.360jie.com.cn\/activity\/ch\/tcscxyzp\/lanmu105","link_click":"8","luck_push":"20"}
+2018-02-10 13:33:59  act 74 channel_count 3
+2018-02-10 13:33:59  act 76 channel_find={"link_click":"8","click":"30","luck_push":"21","offer":"0.60"}
+2018-02-10 13:33:59  act 79 click_rate=38.1
+2018-02-10 13:33:59  act 85 channelModel UPDATE `a_luck_record` SET `CLICK_RATE`='38.1' WHERE `ID` = 1
+2018-02-10 13:33:59  act 89 total 4.80
+2018-02-10 13:33:59  act 91 channelModel UPDATE `a_luck_record` SET `TOTAL`='4.80' WHERE `ID` = 1
+2018-02-10 13:33:59  act 92 channel_save_total 0
+2018-02-10 13:33:59  act 95 =======计算次数结束======：{"status":"200","imgurl":"\/Public\/bigwheel\/images\/PPcd2Fu7vM.jpg","link":"https:\/\/mkt.360jie.com.cn\/activity\/ch\/tcscxyzp\/lanmu105","position":"6","id":"1","title":"\u83b7\u5f97\u4e07\u5143\u51cf\u606f\u5238"}
+2018-02-10 13:34:06  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"PUSH"}
+2018-02-10 13:34:06  act 100 channelModel UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE ( 1=1 )
+2018-02-10 13:34:06  act 101 channel_count 3
+2018-02-10 13:34:07  act 16 =======计算次数开始======：{"draw_num":"1","system":"3","coupon_idlist":"1,1","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-10 13:34:07  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-10 13:34:07  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-10 13:34:07  act 31 channel_select [{"id":"1","user_name":"\u83b7\u5f97\u4e07\u5143\u51cf\u606f\u5238","image_url":"\/Public\/bigwheel\/images\/PPcd2Fu7vM.jpg","offer":"0.60","weight":"80","push":"19","click":"30","click_rate":"38.1","total":"4.80","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941","link_url":"https:\/\/mkt.360jie.com.cn\/activity\/ch\/tcscxyzp\/lanmu105","link_click":"8","luck_push":"21"},{"id":"2","user_name":"\u83ab\u65af\u5229\u5b89\u9178\u59761\u5143\u4e00\u7bb1","image_url":"\/Public\/bigwheel\/images\/OKtuODCPUs.jpg","offer":"0.60","weight":"40","push":"19","click":"30","click_rate":"10.71","total":"1.80","channel_map_id":"10001","md5":"","link_url":"http:\/\/passport.fanli.com\/mark?c=v8yj49bb6w","link_click":"3","luck_push":"9"},{"id":"3","user_name":"\u6765\u62a2\u300a\u793e\u4ea4\u82f1\u8bed\u300b","image_url":"\/Public\/bigwheel\/images\/jwHOvllMRK.jpg","offer":"0.01","weight":"10","push":"19","click":"30","click_rate":"0","total":"0.03","channel_map_id":"10001","md5":"","link_url":"https:\/\/m.wselearning.com\/Registernetworkj\/pro-1.aspx?winType=TCSC1712SNJ","link_click":"0","luck_push":"0"}]
+2018-02-10 13:34:07  act 32 channel_select_sum [{"weight1":"130","offer1":"1.21"}]
+2018-02-10 13:34:07  act 37 sumWeight=130
+2018-02-10 13:34:07  act 38 sumOffer=1.21
+2018-02-10 13:34:07  act 45 sum=[{"sum":61,"id":"1"},{"sum":31,"id":"2"},{"sum":8,"id":"3"}]
+2018-02-10 13:34:07  act 57 array=[{"start":0,"end":61,"id":"1"},{"start":61,"end":92,"id":"2"},{"start":92,"end":100,"id":"3"}]
+2018-02-10 13:34:07  act 60 round=78
+2018-02-10 13:34:07  act 63 end=92
+2018-02-10 13:34:07  act 64 start=61
+2018-02-10 13:34:07  act 71 id 2
+2018-02-10 13:34:07  act 72 luck_record_find={"id":"2","user_name":"\u83ab\u65af\u5229\u5b89\u9178\u59761\u5143\u4e00\u7bb1","image_url":"\/Public\/bigwheel\/images\/OKtuODCPUs.jpg","offer":"0.60","weight":"40","push":"19","click":"30","click_rate":"10.71","total":"1.80","channel_map_id":"10001","md5":"","link_url":"http:\/\/passport.fanli.com\/mark?c=v8yj49bb6w","link_click":"3","luck_push":"9"}
+2018-02-10 13:34:07  act 74 channel_count 3
+2018-02-10 13:34:07  act 76 channel_find={"link_click":"3","click":"31","luck_push":"10","offer":"0.60"}
+2018-02-10 13:34:07  act 79 click_rate=30
+2018-02-10 13:34:07  act 85 channelModel UPDATE `a_luck_record` SET `CLICK_RATE`='30' WHERE `ID` = 2
+2018-02-10 13:34:07  act 89 total 1.80
+2018-02-10 13:34:07  act 91 channelModel UPDATE `a_luck_record` SET `TOTAL`='1.80' WHERE `ID` = 2
+2018-02-10 13:34:07  act 92 channel_save_total 0
+2018-02-10 13:34:07  act 95 =======计算次数结束======：{"status":"200","imgurl":"\/Public\/bigwheel\/images\/OKtuODCPUs.jpg","link":"http:\/\/passport.fanli.com\/mark?c=v8yj49bb6w","position":"6","id":"2","title":"\u83ab\u65af\u5229\u5b89\u9178\u59761\u5143\u4e00\u7bb1"}
+2018-02-10 13:34:13  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"PUSH"}
+2018-02-10 13:34:13  act 100 channelModel UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE ( 1=1 )
+2018-02-10 13:34:13  act 101 channel_count 3
+2018-02-10 13:34:14  act 16 =======计算次数开始======：{"draw_num":"3","system":"3","coupon_idlist":"","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-10 13:34:14  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-10 13:34:14  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-10 13:34:14  act 31 channel_select [{"id":"1","user_name":"\u83b7\u5f97\u4e07\u5143\u51cf\u606f\u5238","image_url":"\/Public\/bigwheel\/images\/PPcd2Fu7vM.jpg","offer":"0.60","weight":"80","push":"20","click":"31","click_rate":"38.1","total":"4.80","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941","link_url":"https:\/\/mkt.360jie.com.cn\/activity\/ch\/tcscxyzp\/lanmu105","link_click":"8","luck_push":"21"},{"id":"2","user_name":"\u83ab\u65af\u5229\u5b89\u9178\u59761\u5143\u4e00\u7bb1","image_url":"\/Public\/bigwheel\/images\/OKtuODCPUs.jpg","offer":"0.60","weight":"40","push":"20","click":"31","click_rate":"30","total":"1.80","channel_map_id":"10001","md5":"","link_url":"http:\/\/passport.fanli.com\/mark?c=v8yj49bb6w","link_click":"3","luck_push":"10"},{"id":"3","user_name":"\u6765\u62a2\u300a\u793e\u4ea4\u82f1\u8bed\u300b","image_url":"\/Public\/bigwheel\/images\/jwHOvllMRK.jpg","offer":"0.01","weight":"10","push":"20","click":"31","click_rate":"0","total":"0.03","channel_map_id":"10001","md5":"","link_url":"https:\/\/m.wselearning.com\/Registernetworkj\/pro-1.aspx?winType=TCSC1712SNJ","link_click":"0","luck_push":"0"}]
+2018-02-10 13:34:14  act 32 channel_select_sum [{"weight1":"130","offer1":"1.21"}]
+2018-02-10 13:34:14  act 37 sumWeight=130
+2018-02-10 13:34:14  act 38 sumOffer=1.21
+2018-02-10 13:34:14  act 45 sum=[{"sum":61,"id":"1"},{"sum":31,"id":"2"},{"sum":8,"id":"3"}]
+2018-02-10 13:34:14  act 57 array=[{"start":0,"end":61,"id":"1"},{"start":61,"end":92,"id":"2"},{"start":92,"end":100,"id":"3"}]
+2018-02-10 13:34:14  act 60 round=100
+2018-02-10 13:34:14  act 63 end=100
+2018-02-10 13:34:14  act 64 start=92
+2018-02-10 13:34:14  act 71 id 3
+2018-02-10 13:34:14  act 72 luck_record_find={"id":"3","user_name":"\u6765\u62a2\u300a\u793e\u4ea4\u82f1\u8bed\u300b","image_url":"\/Public\/bigwheel\/images\/jwHOvllMRK.jpg","offer":"0.01","weight":"10","push":"20","click":"31","click_rate":"0","total":"0.03","channel_map_id":"10001","md5":"","link_url":"https:\/\/m.wselearning.com\/Registernetworkj\/pro-1.aspx?winType=TCSC1712SNJ","link_click":"0","luck_push":"0"}
+2018-02-10 13:34:14  act 74 channel_count 3
+2018-02-10 13:34:14  act 76 channel_find={"link_click":"0","click":"32","luck_push":"1","offer":"0.01"}
+2018-02-10 13:34:14  act 79 click_rate=0
+2018-02-10 13:34:14  act 85 channelModel UPDATE `a_luck_record` SET `CLICK_RATE`='0' WHERE `ID` = 3
+2018-02-10 13:34:14  act 89 total 0.00
+2018-02-10 13:34:14  act 91 channelModel UPDATE `a_luck_record` SET `TOTAL`='0.00' WHERE `ID` = 3
+2018-02-10 13:34:14  act 92 channel_save_total 1
+2018-02-10 13:34:14  act 95 =======计算次数结束======：{"status":"200","imgurl":"\/Public\/bigwheel\/images\/jwHOvllMRK.jpg","link":"https:\/\/m.wselearning.com\/Registernetworkj\/pro-1.aspx?winType=TCSC1712SNJ","position":"6","id":"3","title":"\u6765\u62a2\u300a\u793e\u4ea4\u82f1\u8bed\u300b"}
+2018-02-10 13:34:18  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"LINK_CLICK","id":"3"}
+2018-02-10 13:34:18  act 105 channelModel UPDATE `a_luck_record` SET `LINK_CLICK`=LINK_CLICK+1 WHERE `ID` = 3
+2018-02-10 13:34:18  act 106 channel_count 1
+2018-02-10 13:34:18  act 109 channel_find={"link_click":"1","click":"32","offer":"0.01"}
+2018-02-10 13:34:18  act 112 click_rate=3.13
+2018-02-10 13:34:18  act 117 channelModel UPDATE `a_luck_record` SET `CLICK_RATE`='3.13' WHERE `ID` = 3
+2018-02-10 13:34:18  act 121 total 0.01
+2018-02-10 13:34:18  act 123 channelModel UPDATE `a_luck_record` SET `TOTAL`='0.01' WHERE `ID` = 3
+2018-02-10 13:34:18  act 124 channel_save_total 1
+2018-02-10 17:54:39  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"PUSH"}
+2018-02-10 17:54:39  act 100 channelModel UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE ( 1=1 )
+2018-02-10 17:54:39  act 101 channel_count 3
+2018-02-10 17:54:41  act 16 =======计算次数开始======：{"draw_num":"3","system":"2","coupon_idlist":"","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-10 17:54:41  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-10 17:54:41  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-10 17:54:41  act 31 channel_select [{"id":"1","user_name":"\u83b7\u5f97\u4e07\u5143\u51cf\u606f\u5238","image_url":"\/Public\/bigwheel\/images\/PPcd2Fu7vM.jpg","offer":"0.60","weight":"80","push":"21","click":"32","click_rate":"38.1","total":"4.80","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941","link_url":"https:\/\/mkt.360jie.com.cn\/activity\/ch\/tcscxyzp\/lanmu105","link_click":"8","luck_push":"21"},{"id":"2","user_name":"\u83ab\u65af\u5229\u5b89\u9178\u59761\u5143\u4e00\u7bb1","image_url":"\/Public\/bigwheel\/images\/OKtuODCPUs.jpg","offer":"0.60","weight":"40","push":"21","click":"32","click_rate":"30","total":"1.80","channel_map_id":"10001","md5":"","link_url":"http:\/\/passport.fanli.com\/mark?c=v8yj49bb6w","link_click":"3","luck_push":"10"},{"id":"3","user_name":"\u6765\u62a2\u300a\u793e\u4ea4\u82f1\u8bed\u300b","image_url":"\/Public\/bigwheel\/images\/jwHOvllMRK.jpg","offer":"0.01","weight":"10","push":"21","click":"32","click_rate":"3.13","total":"0.01","channel_map_id":"10001","md5":"","link_url":"https:\/\/m.wselearning.com\/Registernetworkj\/pro-1.aspx?winType=TCSC1712SNJ","link_click":"1","luck_push":"1"}]
+2018-02-10 17:54:41  act 32 channel_select_sum [{"weight1":"130","offer1":"1.21"}]
+2018-02-10 17:54:41  act 37 sumWeight=130
+2018-02-10 17:54:41  act 38 sumOffer=1.21
+2018-02-10 17:54:41  act 45 sum=[{"sum":61,"id":"1"},{"sum":31,"id":"2"},{"sum":8,"id":"3"}]
+2018-02-10 17:54:41  act 57 array=[{"start":0,"end":61,"id":"1"},{"start":61,"end":92,"id":"2"},{"start":92,"end":100,"id":"3"}]
+2018-02-10 17:54:41  act 60 round=57
+2018-02-10 17:54:41  act 63 end=61
+2018-02-10 17:54:41  act 64 start=0
+2018-02-10 17:54:41  act 71 id 1
+2018-02-10 17:54:41  act 72 luck_record_find={"id":"1","user_name":"\u83b7\u5f97\u4e07\u5143\u51cf\u606f\u5238","image_url":"\/Public\/bigwheel\/images\/PPcd2Fu7vM.jpg","offer":"0.60","weight":"80","push":"21","click":"32","click_rate":"38.1","total":"4.80","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941","link_url":"https:\/\/mkt.360jie.com.cn\/activity\/ch\/tcscxyzp\/lanmu105","link_click":"8","luck_push":"21"}
+2018-02-10 17:54:41  act 74 channel_count 3
+2018-02-10 17:54:41  act 76 channel_find={"link_click":"8","click":"33","luck_push":"22","offer":"0.60"}
+2018-02-10 17:54:41  act 79 click_rate=36.36
+2018-02-10 17:54:41  act 85 channelModel UPDATE `a_luck_record` SET `CLICK_RATE`='36.36' WHERE `ID` = 1
+2018-02-10 17:54:41  act 89 total 4.80
+2018-02-10 17:54:41  act 91 channelModel UPDATE `a_luck_record` SET `TOTAL`='4.80' WHERE `ID` = 1
+2018-02-10 17:54:41  act 92 channel_save_total 0
+2018-02-10 17:54:41  act 95 =======计算次数结束======：{"status":"200","imgurl":"\/Public\/bigwheel\/images\/PPcd2Fu7vM.jpg","link":"https:\/\/mkt.360jie.com.cn\/activity\/ch\/tcscxyzp\/lanmu105","position":"6","id":"1","title":"\u83b7\u5f97\u4e07\u5143\u51cf\u606f\u5238"}
+2018-02-10 17:54:45  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"LINK_CLICK","id":"1"}
+2018-02-10 17:54:45  act 105 channelModel UPDATE `a_luck_record` SET `LINK_CLICK`=LINK_CLICK+1 WHERE `ID` = 1
+2018-02-10 17:54:45  act 106 channel_count 1
+2018-02-10 17:54:45  act 109 channel_find={"link_click":"9","click":"33","offer":"0.60"}
+2018-02-10 17:54:45  act 112 click_rate=27.27
+2018-02-10 17:54:45  act 117 channelModel UPDATE `a_luck_record` SET `CLICK_RATE`='27.27' WHERE `ID` = 1
+2018-02-10 17:54:45  act 121 total 5.40
+2018-02-10 17:54:45  act 123 channelModel UPDATE `a_luck_record` SET `TOTAL`='5.40' WHERE `ID` = 1
+2018-02-10 17:54:45  act 124 channel_save_total 1
+2018-02-10 17:54:54  act 16 =======计算次数开始======：{"draw_num":"2","system":"2","coupon_idlist":"1","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-10 17:54:54  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-10 17:54:54  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-10 17:54:54  act 31 channel_select [{"id":"1","user_name":"\u83b7\u5f97\u4e07\u5143\u51cf\u606f\u5238","image_url":"\/Public\/bigwheel\/images\/PPcd2Fu7vM.jpg","offer":"0.60","weight":"80","push":"21","click":"33","click_rate":"27.27","total":"5.40","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941","link_url":"https:\/\/mkt.360jie.com.cn\/activity\/ch\/tcscxyzp\/lanmu105","link_click":"9","luck_push":"22"},{"id":"2","user_name":"\u83ab\u65af\u5229\u5b89\u9178\u59761\u5143\u4e00\u7bb1","image_url":"\/Public\/bigwheel\/images\/OKtuODCPUs.jpg","offer":"0.60","weight":"40","push":"21","click":"33","click_rate":"30","total":"1.80","channel_map_id":"10001","md5":"","link_url":"http:\/\/passport.fanli.com\/mark?c=v8yj49bb6w","link_click":"3","luck_push":"10"},{"id":"3","user_name":"\u6765\u62a2\u300a\u793e\u4ea4\u82f1\u8bed\u300b","image_url":"\/Public\/bigwheel\/images\/jwHOvllMRK.jpg","offer":"0.01","weight":"10","push":"21","click":"33","click_rate":"3.13","total":"0.01","channel_map_id":"10001","md5":"","link_url":"https:\/\/m.wselearning.com\/Registernetworkj\/pro-1.aspx?winType=TCSC1712SNJ","link_click":"1","luck_push":"1"}]
+2018-02-10 17:54:54  act 32 channel_select_sum [{"weight1":"130","offer1":"1.21"}]
+2018-02-10 17:54:54  act 37 sumWeight=130
+2018-02-10 17:54:54  act 38 sumOffer=1.21
+2018-02-10 17:54:54  act 45 sum=[{"sum":61,"id":"1"},{"sum":31,"id":"2"},{"sum":8,"id":"3"}]
+2018-02-10 17:54:54  act 57 array=[{"start":0,"end":61,"id":"1"},{"start":61,"end":92,"id":"2"},{"start":92,"end":100,"id":"3"}]
+2018-02-10 17:54:54  act 60 round=83
+2018-02-10 17:54:54  act 63 end=92
+2018-02-10 17:54:54  act 64 start=61
+2018-02-10 17:54:54  act 71 id 2
+2018-02-10 17:54:54  act 72 luck_record_find={"id":"2","user_name":"\u83ab\u65af\u5229\u5b89\u9178\u59761\u5143\u4e00\u7bb1","image_url":"\/Public\/bigwheel\/images\/OKtuODCPUs.jpg","offer":"0.60","weight":"40","push":"21","click":"33","click_rate":"30","total":"1.80","channel_map_id":"10001","md5":"","link_url":"http:\/\/passport.fanli.com\/mark?c=v8yj49bb6w","link_click":"3","luck_push":"10"}
+2018-02-10 17:54:54  act 74 channel_count 3
+2018-02-10 17:54:54  act 76 channel_find={"link_click":"3","click":"34","luck_push":"11","offer":"0.60"}
+2018-02-10 17:54:54  act 79 click_rate=27.27
+2018-02-10 17:54:54  act 85 channelModel UPDATE `a_luck_record` SET `CLICK_RATE`='27.27' WHERE `ID` = 2
+2018-02-10 17:54:54  act 89 total 1.80
+2018-02-10 17:54:54  act 91 channelModel UPDATE `a_luck_record` SET `TOTAL`='1.80' WHERE `ID` = 2
+2018-02-10 17:54:54  act 92 channel_save_total 0
+2018-02-10 17:54:54  act 95 =======计算次数结束======：{"status":"200","imgurl":"\/Public\/bigwheel\/images\/OKtuODCPUs.jpg","link":"http:\/\/passport.fanli.com\/mark?c=v8yj49bb6w","position":"6","id":"2","title":"\u83ab\u65af\u5229\u5b89\u9178\u59761\u5143\u4e00\u7bb1"}
+2018-02-10 17:54:58  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"LINK_CLICK","id":"1"}
+2018-02-10 17:54:58  act 105 channelModel UPDATE `a_luck_record` SET `LINK_CLICK`=LINK_CLICK+1 WHERE `ID` = 1
+2018-02-10 17:54:58  act 106 channel_count 1
+2018-02-10 17:54:58  act 109 channel_find={"link_click":"10","click":"34","offer":"0.60"}
+2018-02-10 17:54:58  act 112 click_rate=29.41
+2018-02-10 17:54:58  act 117 channelModel UPDATE `a_luck_record` SET `CLICK_RATE`='29.41' WHERE `ID` = 1
+2018-02-10 17:54:58  act 121 total 6.00
+2018-02-10 17:54:58  act 123 channelModel UPDATE `a_luck_record` SET `TOTAL`='6.00' WHERE `ID` = 1
+2018-02-10 17:54:58  act 124 channel_save_total 1
+2018-02-10 17:55:02  act 16 =======计算次数开始======：{"draw_num":"1","system":"2","coupon_idlist":"1,2","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-10 17:55:02  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-10 17:55:02  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-10 17:55:02  act 31 channel_select [{"id":"1","user_name":"\u83b7\u5f97\u4e07\u5143\u51cf\u606f\u5238","image_url":"\/Public\/bigwheel\/images\/PPcd2Fu7vM.jpg","offer":"0.60","weight":"80","push":"21","click":"34","click_rate":"29.41","total":"6.00","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941","link_url":"https:\/\/mkt.360jie.com.cn\/activity\/ch\/tcscxyzp\/lanmu105","link_click":"10","luck_push":"22"},{"id":"2","user_name":"\u83ab\u65af\u5229\u5b89\u9178\u59761\u5143\u4e00\u7bb1","image_url":"\/Public\/bigwheel\/images\/OKtuODCPUs.jpg","offer":"0.60","weight":"40","push":"21","click":"34","click_rate":"27.27","total":"1.80","channel_map_id":"10001","md5":"","link_url":"http:\/\/passport.fanli.com\/mark?c=v8yj49bb6w","link_click":"3","luck_push":"11"},{"id":"3","user_name":"\u6765\u62a2\u300a\u793e\u4ea4\u82f1\u8bed\u300b","image_url":"\/Public\/bigwheel\/images\/jwHOvllMRK.jpg","offer":"0.01","weight":"10","push":"21","click":"34","click_rate":"3.13","total":"0.01","channel_map_id":"10001","md5":"","link_url":"https:\/\/m.wselearning.com\/Registernetworkj\/pro-1.aspx?winType=TCSC1712SNJ","link_click":"1","luck_push":"1"}]
+2018-02-10 17:55:02  act 32 channel_select_sum [{"weight1":"130","offer1":"1.21"}]
+2018-02-10 17:55:02  act 37 sumWeight=130
+2018-02-10 17:55:02  act 38 sumOffer=1.21
+2018-02-10 17:55:02  act 45 sum=[{"sum":61,"id":"1"},{"sum":31,"id":"2"},{"sum":8,"id":"3"}]
+2018-02-10 17:55:02  act 57 array=[{"start":0,"end":61,"id":"1"},{"start":61,"end":92,"id":"2"},{"start":92,"end":100,"id":"3"}]
+2018-02-10 17:55:02  act 60 round=23
+2018-02-10 17:55:02  act 63 end=61
+2018-02-10 17:55:02  act 64 start=0
+2018-02-10 17:55:02  act 71 id 1
+2018-02-10 17:55:02  act 72 luck_record_find={"id":"1","user_name":"\u83b7\u5f97\u4e07\u5143\u51cf\u606f\u5238","image_url":"\/Public\/bigwheel\/images\/PPcd2Fu7vM.jpg","offer":"0.60","weight":"80","push":"21","click":"34","click_rate":"29.41","total":"6.00","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941","link_url":"https:\/\/mkt.360jie.com.cn\/activity\/ch\/tcscxyzp\/lanmu105","link_click":"10","luck_push":"22"}
+2018-02-10 17:55:02  act 74 channel_count 3
+2018-02-10 17:55:02  act 76 channel_find={"link_click":"10","click":"35","luck_push":"23","offer":"0.60"}
+2018-02-10 17:55:02  act 79 click_rate=43.48
+2018-02-10 17:55:02  act 85 channelModel UPDATE `a_luck_record` SET `CLICK_RATE`='43.48' WHERE `ID` = 1
+2018-02-10 17:55:02  act 89 total 6.00
+2018-02-10 17:55:02  act 91 channelModel UPDATE `a_luck_record` SET `TOTAL`='6.00' WHERE `ID` = 1
+2018-02-10 17:55:02  act 92 channel_save_total 0
+2018-02-10 17:55:02  act 95 =======计算次数结束======：{"status":"200","imgurl":"\/Public\/bigwheel\/images\/PPcd2Fu7vM.jpg","link":"https:\/\/mkt.360jie.com.cn\/activity\/ch\/tcscxyzp\/lanmu105","position":"6","id":"1","title":"\u83b7\u5f97\u4e07\u5143\u51cf\u606f\u5238"}
+2018-02-10 17:55:06  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"LINK_CLICK","id":"1"}
+2018-02-10 17:55:06  act 105 channelModel UPDATE `a_luck_record` SET `LINK_CLICK`=LINK_CLICK+1 WHERE `ID` = 1
+2018-02-10 17:55:06  act 106 channel_count 1
+2018-02-10 17:55:06  act 109 channel_find={"link_click":"11","click":"35","offer":"0.60"}
+2018-02-10 17:55:06  act 112 click_rate=31.43
+2018-02-10 17:55:06  act 117 channelModel UPDATE `a_luck_record` SET `CLICK_RATE`='31.43' WHERE `ID` = 1
+2018-02-10 17:55:06  act 121 total 6.60
+2018-02-10 17:55:06  act 123 channelModel UPDATE `a_luck_record` SET `TOTAL`='6.60' WHERE `ID` = 1
+2018-02-10 17:55:06  act 124 channel_save_total 1
+2018-02-10 19:39:05  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"PUSH"}
+2018-02-10 19:39:05  act 100 channelModel UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE ( 1=1 )
+2018-02-10 19:39:05  act 101 channel_count 3
+2018-02-10 19:39:11  act 16 =======计算次数开始======：{"draw_num":"3","system":"3","coupon_idlist":"","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-10 19:39:11  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-10 19:39:11  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-10 19:39:11  act 31 channel_select [{"id":"1","user_name":"\u83b7\u5f97\u4e07\u5143\u51cf\u606f\u5238","image_url":"\/Public\/bigwheel\/images\/PPcd2Fu7vM.jpg","offer":"0.60","weight":"80","push":"22","click":"35","click_rate":"31.43","total":"6.60","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941","link_url":"https:\/\/mkt.360jie.com.cn\/activity\/ch\/tcscxyzp\/lanmu105","link_click":"11","luck_push":"23"},{"id":"2","user_name":"\u83ab\u65af\u5229\u5b89\u9178\u59761\u5143\u4e00\u7bb1","image_url":"\/Public\/bigwheel\/images\/OKtuODCPUs.jpg","offer":"0.60","weight":"40","push":"22","click":"35","click_rate":"27.27","total":"1.80","channel_map_id":"10001","md5":"","link_url":"http:\/\/passport.fanli.com\/mark?c=v8yj49bb6w","link_click":"3","luck_push":"11"},{"id":"3","user_name":"\u6765\u62a2\u300a\u793e\u4ea4\u82f1\u8bed\u300b","image_url":"\/Public\/bigwheel\/images\/jwHOvllMRK.jpg","offer":"0.01","weight":"10","push":"22","click":"35","click_rate":"3.13","total":"0.01","channel_map_id":"10001","md5":"","link_url":"https:\/\/m.wselearning.com\/Registernetworkj\/pro-1.aspx?winType=TCSC1712SNJ","link_click":"1","luck_push":"1"}]
+2018-02-10 19:39:11  act 32 channel_select_sum [{"weight1":"130","offer1":"1.21"}]
+2018-02-10 19:39:11  act 37 sumWeight=130
+2018-02-10 19:39:11  act 38 sumOffer=1.21
+2018-02-10 19:39:11  act 45 sum=[{"sum":61,"id":"1"},{"sum":31,"id":"2"},{"sum":8,"id":"3"}]
+2018-02-10 19:39:11  act 57 array=[{"start":0,"end":61,"id":"1"},{"start":61,"end":92,"id":"2"},{"start":92,"end":100,"id":"3"}]
+2018-02-10 19:39:11  act 60 round=100
+2018-02-10 19:39:11  act 63 end=100
+2018-02-10 19:39:11  act 64 start=92
+2018-02-10 19:39:11  act 71 id 3
+2018-02-10 19:39:11  act 72 luck_record_find={"id":"3","user_name":"\u6765\u62a2\u300a\u793e\u4ea4\u82f1\u8bed\u300b","image_url":"\/Public\/bigwheel\/images\/jwHOvllMRK.jpg","offer":"0.01","weight":"10","push":"22","click":"35","click_rate":"3.13","total":"0.01","channel_map_id":"10001","md5":"","link_url":"https:\/\/m.wselearning.com\/Registernetworkj\/pro-1.aspx?winType=TCSC1712SNJ","link_click":"1","luck_push":"1"}
+2018-02-10 19:39:11  act 74 channel_count 3
+2018-02-10 19:39:11  act 76 channel_find={"link_click":"1","click":"36","luck_push":"2","offer":"0.01"}
+2018-02-10 19:39:11  act 79 click_rate=50
+2018-02-10 19:39:11  act 85 channelModel UPDATE `a_luck_record` SET `CLICK_RATE`='50' WHERE `ID` = 3
+2018-02-10 19:39:11  act 89 total 0.01
+2018-02-10 19:39:11  act 91 channelModel UPDATE `a_luck_record` SET `TOTAL`='0.01' WHERE `ID` = 3
+2018-02-10 19:39:11  act 92 channel_save_total 0
+2018-02-10 19:39:11  act 95 =======计算次数结束======：{"status":"200","imgurl":"\/Public\/bigwheel\/images\/jwHOvllMRK.jpg","link":"https:\/\/m.wselearning.com\/Registernetworkj\/pro-1.aspx?winType=TCSC1712SNJ","position":"6","id":"3","title":"\u6765\u62a2\u300a\u793e\u4ea4\u82f1\u8bed\u300b"}
+2018-02-10 19:39:17  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"LINK_CLICK","id":"3"}
+2018-02-10 19:39:17  act 105 channelModel UPDATE `a_luck_record` SET `LINK_CLICK`=LINK_CLICK+1 WHERE `ID` = 3
+2018-02-10 19:39:17  act 106 channel_count 1
+2018-02-10 19:39:17  act 109 channel_find={"link_click":"2","click":"36","offer":"0.01"}
+2018-02-10 19:39:17  act 112 click_rate=5.56
+2018-02-10 19:39:17  act 117 channelModel UPDATE `a_luck_record` SET `CLICK_RATE`='5.56' WHERE `ID` = 3
+2018-02-10 19:39:17  act 121 total 0.02
+2018-02-10 19:39:17  act 123 channelModel UPDATE `a_luck_record` SET `TOTAL`='0.02' WHERE `ID` = 3
+2018-02-10 19:39:17  act 124 channel_save_total 1
+2018-02-10 19:39:28  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"PUSH"}
+2018-02-10 19:39:28  act 100 channelModel UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE ( 1=1 )
+2018-02-10 19:39:28  act 101 channel_count 3
+2018-02-10 19:39:33  act 16 =======计算次数开始======：{"draw_num":"2","system":"3","coupon_idlist":"3","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-10 19:39:33  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-10 19:39:33  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-10 19:39:33  act 31 channel_select [{"id":"1","user_name":"\u83b7\u5f97\u4e07\u5143\u51cf\u606f\u5238","image_url":"\/Public\/bigwheel\/images\/PPcd2Fu7vM.jpg","offer":"0.60","weight":"80","push":"23","click":"36","click_rate":"31.43","total":"6.60","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941","link_url":"https:\/\/mkt.360jie.com.cn\/activity\/ch\/tcscxyzp\/lanmu105","link_click":"11","luck_push":"23"},{"id":"2","user_name":"\u83ab\u65af\u5229\u5b89\u9178\u59761\u5143\u4e00\u7bb1","image_url":"\/Public\/bigwheel\/images\/OKtuODCPUs.jpg","offer":"0.60","weight":"40","push":"23","click":"36","click_rate":"27.27","total":"1.80","channel_map_id":"10001","md5":"","link_url":"http:\/\/passport.fanli.com\/mark?c=v8yj49bb6w","link_click":"3","luck_push":"11"},{"id":"3","user_name":"\u6765\u62a2\u300a\u793e\u4ea4\u82f1\u8bed\u300b","image_url":"\/Public\/bigwheel\/images\/jwHOvllMRK.jpg","offer":"0.01","weight":"10","push":"23","click":"36","click_rate":"5.56","total":"0.02","channel_map_id":"10001","md5":"","link_url":"https:\/\/m.wselearning.com\/Registernetworkj\/pro-1.aspx?winType=TCSC1712SNJ","link_click":"2","luck_push":"2"}]
+2018-02-10 19:39:33  act 32 channel_select_sum [{"weight1":"130","offer1":"1.21"}]
+2018-02-10 19:39:33  act 37 sumWeight=130
+2018-02-10 19:39:33  act 38 sumOffer=1.21
+2018-02-10 19:39:33  act 45 sum=[{"sum":61,"id":"1"},{"sum":31,"id":"2"},{"sum":8,"id":"3"}]
+2018-02-10 19:39:33  act 57 array=[{"start":0,"end":61,"id":"1"},{"start":61,"end":92,"id":"2"},{"start":92,"end":100,"id":"3"}]
+2018-02-10 19:39:33  act 60 round=76
+2018-02-10 19:39:33  act 63 end=92
+2018-02-10 19:39:33  act 64 start=61
+2018-02-10 19:39:33  act 71 id 2
+2018-02-10 19:39:33  act 72 luck_record_find={"id":"2","user_name":"\u83ab\u65af\u5229\u5b89\u9178\u59761\u5143\u4e00\u7bb1","image_url":"\/Public\/bigwheel\/images\/OKtuODCPUs.jpg","offer":"0.60","weight":"40","push":"23","click":"36","click_rate":"27.27","total":"1.80","channel_map_id":"10001","md5":"","link_url":"http:\/\/passport.fanli.com\/mark?c=v8yj49bb6w","link_click":"3","luck_push":"11"}
+2018-02-10 19:39:33  act 74 channel_count 3
+2018-02-10 19:39:33  act 76 channel_find={"link_click":"3","click":"37","luck_push":"12","offer":"0.60"}
+2018-02-10 19:39:33  act 79 click_rate=25
+2018-02-10 19:39:33  act 85 channelModel UPDATE `a_luck_record` SET `CLICK_RATE`='25' WHERE `ID` = 2
+2018-02-10 19:39:33  act 89 total 1.80
+2018-02-10 19:39:33  act 91 channelModel UPDATE `a_luck_record` SET `TOTAL`='1.80' WHERE `ID` = 2
+2018-02-10 19:39:33  act 92 channel_save_total 0
+2018-02-10 19:39:33  act 95 =======计算次数结束======：{"status":"200","imgurl":"\/Public\/bigwheel\/images\/OKtuODCPUs.jpg","link":"http:\/\/passport.fanli.com\/mark?c=v8yj49bb6w","position":"6","id":"2","title":"\u83ab\u65af\u5229\u5b89\u9178\u59761\u5143\u4e00\u7bb1"}
+2018-02-10 19:39:39  act 16 =======计算次数开始======：{"draw_num":"1","system":"3","coupon_idlist":"3,2","CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"MD5"}
+2018-02-10 19:39:39  act 22 MD5 D89F3A35931C386956C1A402A8E09941
+2018-02-10 19:39:39  act 23 channelModel SELECT * FROM `a_luck_record` WHERE `MD5` = 'D89F3A35931C386956C1A402A8E09941' LIMIT 1  
+2018-02-10 19:39:39  act 31 channel_select [{"id":"1","user_name":"\u83b7\u5f97\u4e07\u5143\u51cf\u606f\u5238","image_url":"\/Public\/bigwheel\/images\/PPcd2Fu7vM.jpg","offer":"0.60","weight":"80","push":"23","click":"37","click_rate":"31.43","total":"6.60","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941","link_url":"https:\/\/mkt.360jie.com.cn\/activity\/ch\/tcscxyzp\/lanmu105","link_click":"11","luck_push":"23"},{"id":"2","user_name":"\u83ab\u65af\u5229\u5b89\u9178\u59761\u5143\u4e00\u7bb1","image_url":"\/Public\/bigwheel\/images\/OKtuODCPUs.jpg","offer":"0.60","weight":"40","push":"23","click":"37","click_rate":"25","total":"1.80","channel_map_id":"10001","md5":"","link_url":"http:\/\/passport.fanli.com\/mark?c=v8yj49bb6w","link_click":"3","luck_push":"12"},{"id":"3","user_name":"\u6765\u62a2\u300a\u793e\u4ea4\u82f1\u8bed\u300b","image_url":"\/Public\/bigwheel\/images\/jwHOvllMRK.jpg","offer":"0.01","weight":"10","push":"23","click":"37","click_rate":"5.56","total":"0.02","channel_map_id":"10001","md5":"","link_url":"https:\/\/m.wselearning.com\/Registernetworkj\/pro-1.aspx?winType=TCSC1712SNJ","link_click":"2","luck_push":"2"}]
+2018-02-10 19:39:39  act 32 channel_select_sum [{"weight1":"130","offer1":"1.21"}]
+2018-02-10 19:39:39  act 37 sumWeight=130
+2018-02-10 19:39:39  act 38 sumOffer=1.21
+2018-02-10 19:39:39  act 45 sum=[{"sum":61,"id":"1"},{"sum":31,"id":"2"},{"sum":8,"id":"3"}]
+2018-02-10 19:39:39  act 57 array=[{"start":0,"end":61,"id":"1"},{"start":61,"end":92,"id":"2"},{"start":92,"end":100,"id":"3"}]
+2018-02-10 19:39:39  act 60 round=57
+2018-02-10 19:39:39  act 63 end=61
+2018-02-10 19:39:39  act 64 start=0
+2018-02-10 19:39:39  act 71 id 1
+2018-02-10 19:39:39  act 72 luck_record_find={"id":"1","user_name":"\u83b7\u5f97\u4e07\u5143\u51cf\u606f\u5238","image_url":"\/Public\/bigwheel\/images\/PPcd2Fu7vM.jpg","offer":"0.60","weight":"80","push":"23","click":"37","click_rate":"31.43","total":"6.60","channel_map_id":"10001","md5":"D89F3A35931C386956C1A402A8E09941","link_url":"https:\/\/mkt.360jie.com.cn\/activity\/ch\/tcscxyzp\/lanmu105","link_click":"11","luck_push":"23"}
+2018-02-10 19:39:39  act 74 channel_count 3
+2018-02-10 19:39:39  act 76 channel_find={"link_click":"11","click":"38","luck_push":"24","offer":"0.60"}
+2018-02-10 19:39:39  act 79 click_rate=45.83
+2018-02-10 19:39:39  act 85 channelModel UPDATE `a_luck_record` SET `CLICK_RATE`='45.83' WHERE `ID` = 1
+2018-02-10 19:39:39  act 89 total 6.60
+2018-02-10 19:39:39  act 91 channelModel UPDATE `a_luck_record` SET `TOTAL`='6.60' WHERE `ID` = 1
+2018-02-10 19:39:39  act 92 channel_save_total 0
+2018-02-10 19:39:39  act 95 =======计算次数结束======：{"status":"200","imgurl":"\/Public\/bigwheel\/images\/PPcd2Fu7vM.jpg","link":"https:\/\/mkt.360jie.com.cn\/activity\/ch\/tcscxyzp\/lanmu105","position":"6","id":"1","title":"\u83b7\u5f97\u4e07\u5143\u51cf\u606f\u5238"}
+2018-02-10 19:39:48  act 16 =======计算次数开始======：{"CHANNEL_MAP_ID":"D89F3A35931C386956C1A402A8E09941","type":"PUSH"}
+2018-02-10 19:39:48  act 100 channelModel UPDATE `a_luck_record` SET `PUSH`=PUSH+1 WHERE ( 1=1 )
+2018-02-10 19:39:48  act 101 channel_count 3

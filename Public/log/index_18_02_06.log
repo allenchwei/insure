@@ -1,0 +1,36 @@
+2018-02-06 13:57:22  act 16 =======第一步提交开始======：[]
+2018-02-06 13:57:22  act 20 CHANNEL_MAP_ID 
+2018-02-06 13:57:36  act 16 =======第一步提交开始======：{"draw_num":"3","system":"2","coupon_idlist":"","CHANNEL_MAP_ID":""}
+2018-02-06 13:57:36  act 20 CHANNEL_MAP_ID 
+2018-02-06 13:57:44  act 16 =======第一步提交开始======：{"draw_num":"2","system":"2","coupon_idlist":"","CHANNEL_MAP_ID":""}
+2018-02-06 13:57:44  act 20 CHANNEL_MAP_ID 
+2018-02-06 13:57:54  act 16 =======第一步提交开始======：{"draw_num":"1","system":"2","coupon_idlist":"","CHANNEL_MAP_ID":""}
+2018-02-06 13:57:54  act 20 CHANNEL_MAP_ID 
+2018-02-06 13:58:02  act 16 =======第一步提交开始======：{"draw_num":"3","system":"2","coupon_idlist":"","CHANNEL_MAP_ID":""}
+2018-02-06 13:58:02  act 20 CHANNEL_MAP_ID 
+2018-02-06 13:58:26  act 16 =======第一步提交开始======：{"draw_num":"2","system":"2","coupon_idlist":"","CHANNEL_MAP_ID":"10001"}
+2018-02-06 13:58:26  act 20 CHANNEL_MAP_ID 10001
+2018-02-06 13:58:26  act 26 channelModel SELECT * FROM `a_channel` WHERE `CHANNEL_MAP_ID` = 10001 LIMIT 1  
+2018-02-06 13:58:26  act 27 channel_count 
+2018-02-06 13:58:31  act 16 =======第一步提交开始======：{"draw_num":"1","system":"2","coupon_idlist":"2","CHANNEL_MAP_ID":"10001"}
+2018-02-06 13:58:31  act 20 CHANNEL_MAP_ID 10001
+2018-02-06 13:58:31  act 26 channelModel SELECT * FROM `a_channel` WHERE `CHANNEL_MAP_ID` = 10001 LIMIT 1  
+2018-02-06 13:58:31  act 27 channel_count 
+2018-02-06 13:58:38  act 16 =======第一步提交开始======：{"draw_num":"3","system":"2","coupon_idlist":"","CHANNEL_MAP_ID":"10001"}
+2018-02-06 13:58:38  act 20 CHANNEL_MAP_ID 10001
+2018-02-06 13:58:38  act 26 channelModel SELECT * FROM `a_channel` WHERE `CHANNEL_MAP_ID` = 10001 LIMIT 1  
+2018-02-06 13:58:38  act 27 channel_count 
+2018-02-06 13:59:16  act 16 =======第一步提交开始======：{"draw_num":"2","system":"2","coupon_idlist":"2","CHANNEL_MAP_ID":"10001"}
+2018-02-06 13:59:16  act 20 CHANNEL_MAP_ID 10001
+2018-02-06 13:59:16  act 26 channelModel SELECT * FROM `a_channel` WHERE `CHANNEL_MAP_ID` = 10001 LIMIT 1  
+2018-02-06 13:59:16  act 27 channel_count 
+2018-02-06 14:00:26  act 16 =======第一步提交开始======：{"draw_num":"1","system":"2","coupon_idlist":"2,2","CHANNEL_MAP_ID":"10001"}
+2018-02-06 14:00:26  act 20 CHANNEL_MAP_ID 10001
+2018-02-06 14:00:26  act 26 channelModel SELECT * FROM `a_channel` WHERE `CHANNEL_MAP_ID` = 10001 LIMIT 1  
+2018-02-06 14:00:26  act 27 channel_count 
+2018-02-06 17:18:05  act 16 =======第一步提交开始======：{"draw_num":"3","system":"2","coupon_idlist":"","CHANNEL_MAP_ID":""}
+2018-02-06 17:18:05  act 20 CHANNEL_MAP_ID 
+2018-02-06 17:18:16  act 16 =======第一步提交开始======：{"draw_num":"2","system":"2","coupon_idlist":"","CHANNEL_MAP_ID":"10001"}
+2018-02-06 17:18:16  act 20 CHANNEL_MAP_ID 10001
+2018-02-06 17:18:16  act 26 channelModel SELECT * FROM `a_channel` WHERE `CHANNEL_MAP_ID` = 10001 LIMIT 1  
+2018-02-06 17:18:16  act 27 channel_count 
